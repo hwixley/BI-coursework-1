@@ -1,0 +1,234 @@
+RID: PG5W2FHU016	
+Job Title:Sequence_R				
+Program: BLASTN 
+Database: nt Nucleotide collection (nt)
+Query #1: Sequence_R Query ID: lcl|Query_38855 Length: 1323
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens gulonolactone (L-) oxidase, pseudogene (GULOP) on... Homo sapiens    human           9606       189    425   32%   2e-44 85.98  11663      NG_001136.2      
+Homo sapiens chromosome 8 clone SCb-212E3 map p21-p11, complet... Homo sapiens    human           9606       189    539   39%   2e-44 85.98  234429     AF311103.5       
+Homo sapiens GULO gene for L-gulono-gamma-lactone oxidase, exo... Homo sapiens    human           9606       189    331   24%   2e-44 85.98  3364       D17461.1         
+Homo sapiens GULO gene for L-gulono-gamma-lactone oxidase, exon 7 Homo sapiens    human           9606       103    103   8%    2e-18 81.08  644        D17460.1         
+Homo sapiens gene, L-gulono-gamma-lactone oxidase encoding GLO... Homo sapiens    human           9606       94.2   94.2  8%    1e-15 79.28  157        D00525.1         
+
+
+Alignments:
+
+>Homo sapiens gulonolactone (L-) oxidase, pseudogene (GULOP) on chromosome 8
+Sequence ID: NG_001136.2 Length: 11663
+Range 1: 9437 to 9599
+
+Score:189 bits(209), Expect:2e-44, 
+Identities:141/164(86%),  Gaps:1/164(0%), Strand: Plus/Plus
+
+Query  941   AGAAGACCAAGGAGGCCCTGCTGGAGCTAAAGGCCATGCTGGAGGCCCACCCCAAGGTGG  1000
+             ||||||||| |||||||||||||||||| |||||| ||||||||||||||||  ||||||
+Sbjct  9437  AGAAGACCACGGAGGCCCTGCTGGAGCTGAAGGCCGTGCTGGAGGCCCACCCTGAGGTGG  9496
+
+Query  1001  TAGCCCACTACCCCGTGGAGGTGCGCTTCACCCGAGGTGATGACATCCTGCTGAGCCCGT  1060
+             |  |||||||||  |||| ||| ||||||||| | |  ||||||||||| |||||||| |
+Sbjct  9497  TGTCCCACTACCTGGTGGGGGTACGCTTCACCTG-GAGGATGACATCCTACTGAGCCCCT  9555
+
+Query  1061  GCTTCCAGAGGGACAGCTGCTACATGAACATCATTATGTACAGG  1104
+             |||||||| |||||||| ||||| |||||||||   ||||||||
+Sbjct  9556  GCTTCCAGTGGGACAGCCGCTACCTGAACATCAACCTGTACAGG  9599
+
+
+
+
+Range 2: 8447 to 8599
+
+Score:141 bits(156), Expect:2e-30, 
+Identities:126/156(81%),  Gaps:4/156(2%), Strand: Plus/Plus
+
+Query  786   CAGCACCTACCTGCCACGCCTCGTGGGCTGGATCAACCGCTTCTTCTT-CTGGCTGCTGT  844
+             ||||| || | |||   |||| ||||||||||||||  |||| || || ||| || ||||
+Sbjct  8447  CAGCATCTTCTTGCAGTGCCTTGTGGGCTGGATCAATGGCTTTTTGTTTCTGACTCCTGT  8506
+
+Query  845   TCAACTGCAAGAAGGAGAGCAGCAACCTCAGCCACAAGATCTTCTCCTACGAGTGTCGCT  904
+             |   |||| ||   |||| |||||||||||||| |||||||||| || ||| ||| | ||
+Sbjct  8507  TTGCCTGCCAG---GAGAACAGCAACCTCAGCCCCAAGATCTTCACCCACGTGTGCCACT  8563
+
+Query  905   TCAAGCAGCATGTCCAAGACTGGGCCATCCCCAGGG  940
+             ||||||||||||||||  ||||||||||||||||||
+Sbjct  8564  TCAAGCAGCATGTCCAGCACTGGGCCATCCCCAGGG  8599
+
+
+
+
+Range 3: 99 to 208
+
+Score:94.2 bits(103), Expect:1e-15, 
+Identities:88/111(79%),  Gaps:1/111(0%), Strand: Plus/Plus
+
+Query  602  AGGTCCTTGACAACCTGGACAGCCACCTGAAGAAGTCTGAGTACTTCCGCTTCCTCTGGT  661
+            || ||||  | | |||||||||| |   |||||| |||||| ||||| ||||||||||||
+Sbjct  99   AGTTCCTCCATAGCCTGGACAGC-ATTGGAAGAAATCTGAGGACTTCTGCTTCCTCTGGT  157
+
+Query  662  TTCCTCACAGTGAGAACGTCAGCATCATCTACCAAGATCACACCAACAAGG  712
+            | || ||||| ||||| |||||   |||| |||| || ||||||| |||||
+Sbjct  158  TCCCACACAGCGAGAATGTCAGTGCCATCCACCAGGACCACACCAGCAAGG  208
+
+
+
+
+>Homo sapiens chromosome 8 clone SCb-212E3 map p21-p11, complete sequence
+Sequence ID: AF311103.5 Length: 234429
+Range 1: 196830 to 196992
+
+Score:189 bits(209), Expect:2e-44, 
+Identities:141/164(86%),  Gaps:1/164(0%), Strand: Plus/Plus
+
+Query  941     AGAAGACCAAGGAGGCCCTGCTGGAGCTAAAGGCCATGCTGGAGGCCCACCCCAAGGTGG  1000
+               ||||||||| |||||||||||||||||| |||||| ||||||||||||||||  ||||||
+Sbjct  196830  AGAAGACCACGGAGGCCCTGCTGGAGCTGAAGGCCGTGCTGGAGGCCCACCCTGAGGTGG  196889
+
+Query  1001    TAGCCCACTACCCCGTGGAGGTGCGCTTCACCCGAGGTGATGACATCCTGCTGAGCCCGT  1060
+               |  |||||||||  |||| ||| ||||||||| | |  ||||||||||| |||||||| |
+Sbjct  196890  TGTCCCACTACCTGGTGGGGGTACGCTTCACCTG-GAGGATGACATCCTACTGAGCCCCT  196948
+
+Query  1061    GCTTCCAGAGGGACAGCTGCTACATGAACATCATTATGTACAGG  1104
+               |||||||| |||||||| ||||| |||||||||   ||||||||
+Sbjct  196949  GCTTCCAGTGGGACAGCCGCTACCTGAACATCAACCTGTACAGG  196992
+
+
+
+
+Range 2: 195840 to 195992
+
+Score:141 bits(156), Expect:2e-30, 
+Identities:126/156(81%),  Gaps:4/156(2%), Strand: Plus/Plus
+
+Query  786     CAGCACCTACCTGCCACGCCTCGTGGGCTGGATCAACCGCTTCTTCTT-CTGGCTGCTGT  844
+               ||||| || | |||   |||| ||||||||||||||  |||| || || ||| || ||||
+Sbjct  195840  CAGCATCTTCTTGCAGTGCCTTGTGGGCTGGATCAATGGCTTTTTGTTTCTGACTCCTGT  195899
+
+Query  845     TCAACTGCAAGAAGGAGAGCAGCAACCTCAGCCACAAGATCTTCTCCTACGAGTGTCGCT  904
+               |   |||| ||   |||| |||||||||||||| |||||||||| || ||| ||| | ||
+Sbjct  195900  TTGCCTGCCAG---GAGAACAGCAACCTCAGCCCCAAGATCTTCACCCACGTGTGCCACT  195956
+
+Query  905     TCAAGCAGCATGTCCAAGACTGGGCCATCCCCAGGG  940
+               ||||||||||||||||  ||||||||||||||||||
+Sbjct  195957  TCAAGCAGCATGTCCAGCACTGGGCCATCCCCAGGG  195992
+
+
+
+
+Range 3: 170160 to 170254
+
+Score:113 bits(125), Expect:1e-21, 
+Identities:82/95(86%),  Gaps:0/95(0%), Strand: Plus/Plus
+
+Query  229     CAGGTGGACAAGGAGAAGAAGCAGGTCACAGTGGAAGCCGGTATCCTCCTGACTGACCTG  288
+               ||||||||  |||||||||||||||| ||  |||| || || ||||||||| |  |||||
+Sbjct  170160  CAGGTGGATGAGGAGAAGAAGCAGGTGACCATGGAGGCTGGCATCCTCCTGGCCAACCTG  170219
+
+Query  289     CACCCACAGCTGGACAAGCATGGCCTGGCCCTGTC  323
+               ||||||||||||||  |||||||||||||||||||
+Sbjct  170220  CACCCACAGCTGGATGAGCATGGCCTGGCCCTGTC  170254
+
+
+
+
+Range 4: 187492 to 187601
+
+Score:94.2 bits(103), Expect:1e-15, 
+Identities:88/111(79%),  Gaps:1/111(0%), Strand: Plus/Plus
+
+Query  602     AGGTCCTTGACAACCTGGACAGCCACCTGAAGAAGTCTGAGTACTTCCGCTTCCTCTGGT  661
+               || ||||  | | |||||||||| |   |||||| |||||| ||||| ||||||||||||
+Sbjct  187492  AGTTCCTCCATAGCCTGGACAGC-ATTGGAAGAAATCTGAGGACTTCTGCTTCCTCTGGT  187550
+
+Query  662     TTCCTCACAGTGAGAACGTCAGCATCATCTACCAAGATCACACCAACAAGG  712
+               | || ||||| ||||| |||||   |||| |||| || ||||||| |||||
+Sbjct  187551  TCCCACACAGCGAGAATGTCAGTGCCATCCACCAGGACCACACCAGCAAGG  187601
+
+
+
+
+>Homo sapiens GULO gene for L-gulono-gamma-lactone oxidase, exons 9,10 and 12
+Sequence ID: D17461.1 Length: 3364
+Range 1: 1068 to 1230
+
+Score:189 bits(209), Expect:2e-44, 
+Identities:141/164(86%),  Gaps:1/164(0%), Strand: Plus/Plus
+
+Query  941   AGAAGACCAAGGAGGCCCTGCTGGAGCTAAAGGCCATGCTGGAGGCCCACCCCAAGGTGG  1000
+             ||||||||| |||||||||||||||||| |||||| ||||||||||||||||  ||||||
+Sbjct  1068  AGAAGACCACGGAGGCCCTGCTGGAGCTGAAGGCCGTGCTGGAGGCCCACCCTGAGGTGG  1127
+
+Query  1001  TAGCCCACTACCCCGTGGAGGTGCGCTTCACCCGAGGTGATGACATCCTGCTGAGCCCGT  1060
+             |  |||||||||  |||| ||| ||||||||| | |  ||||||||||| |||||||| |
+Sbjct  1128  TGTCCCACTACCTGGTGGGGGTACGCTTCACCTG-GAGGATGACATCCTACTGAGCCCCT  1186
+
+Query  1061  GCTTCCAGAGGGACAGCTGCTACATGAACATCATTATGTACAGG  1104
+             |||||||| |||||||| ||||| |||||||||   ||||||||
+Sbjct  1187  GCTTCCAGTGGGACAGCCGCTACCTGAACATCAACCTGTACAGG  1230
+
+
+
+
+Range 2: 79 to 231
+
+Score:141 bits(156), Expect:2e-30, 
+Identities:126/156(81%),  Gaps:4/156(2%), Strand: Plus/Plus
+
+Query  786  CAGCACCTACCTGCCACGCCTCGTGGGCTGGATCAACCGCTTCTTCTT-CTGGCTGCTGT  844
+            ||||| || | |||   |||| ||||||||||||||  |||| || || ||| || ||||
+Sbjct  79   CAGCATCTTCTTGCAGTGCCTTGTGGGCTGGATCAATGGCTTTTTGTTTCTGACTCCTGT  138
+
+Query  845  TCAACTGCAAGAAGGAGAGCAGCAACCTCAGCCACAAGATCTTCTCCTACGAGTGTCGCT  904
+            |   |||| ||   |||| |||||||||||||| |||||||||| || ||| ||| | ||
+Sbjct  139  TTGCCTGCCAG---GAGAACAGCAACCTCAGCCCCAAGATCTTCACCCACGTGTGCCACT  195
+
+Query  905  TCAAGCAGCATGTCCAAGACTGGGCCATCCCCAGGG  940
+            ||||||||||||||||  ||||||||||||||||||
+Sbjct  196  TCAAGCAGCATGTCCAGCACTGGGCCATCCCCAGGG  231
+
+
+
+
+>Homo sapiens GULO gene for L-gulono-gamma-lactone oxidase, exon 7
+Sequence ID: D17460.1 Length: 644
+Range 1: 526 to 635
+
+Score:103 bits(113), Expect:2e-18, 
+Identities:90/111(81%),  Gaps:1/111(0%), Strand: Plus/Plus
+
+Query  602  AGGTCCTTGACAACCTGGACAGCCACCTGAAGAAGTCTGAGTACTTCCGCTTCCTCTGGT  661
+            || ||||  | | |||||||||| |   |||||| |||||| ||||| ||||||||||||
+Sbjct  526  AGTTCCTCCATAGCCTGGACAGC-ATTGGAAGAAATCTGAGGACTTCTGCTTCCTCTGGT  584
+
+Query  662  TTCCTCACAGTGAGAACGTCAGCATCATCTACCAAGATCACACCAACAAGG  712
+            | || |||||||||||||||||   |||| |||| || ||||||| |||||
+Sbjct  585  TCCCACACAGTGAGAACGTCAGTGCCATCCACCAGGACCACACCAGCAAGG  635
+
+
+
+
+>Homo sapiens gene, L-gulono-gamma-lactone oxidase encoding GLO gene related sequence
+Sequence ID: D00525.1 Length: 157
+Range 1: 39 to 148
+
+Score:94.2 bits(103), Expect:1e-15, 
+Identities:88/111(79%),  Gaps:1/111(0%), Strand: Plus/Plus
+
+Query  602  AGGTCCTTGACAACCTGGACAGCCACCTGAAGAAGTCTGAGTACTTCCGCTTCCTCTGGT  661
+            || ||||  | | |||||||||| |   |||||| |||||| ||||| ||||||||||||
+Sbjct  39   AGTTCCTCCATAGCCTGGACAGC-ATTGGAAGAAATCTGAGGACTTCTGCTTCCTCTGGT  97
+
+Query  662  TTCCTCACAGTGAGAACGTCAGCATCATCTACCAAGATCACACCAACAAGG  712
+            | || ||||| ||||| |||||   |||| |||| || ||||||| |||||
+Sbjct  98   TCCCACACAGCGAGAATGTCAGTGCCATCCACCAGGACCACACCAGCAAGG  148
+
+
+
+
+
+
+
+		
+
+
