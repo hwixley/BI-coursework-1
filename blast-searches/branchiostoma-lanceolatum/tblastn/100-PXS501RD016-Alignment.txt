@@ -1,0 +1,51 @@
+RID: PXS501RD016	
+Job Title:NP_848862:L-gulonolactone oxidase [Mus musculus]				
+Program: TBLASTN 
+Database: nt Nucleotide collection (nt)
+Query #1: L-gulonolactone oxidase [Mus musculus] Query ID: ref|NP_848862.1 Length: 440
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Branchiostoma lanceolatum paired box transcription factor 3/7a... Branchiostom... amphioxus       7740       20.4   20.4  7%    78    31.43  1440       MF979121.1       
+Branchiostoma lanceolatum ribosomal protein L19 mRNA, partial cds Branchiostom... amphioxus       7740       20.0   20.0  3%    95    35.29  588        AY130453.1       
+
+
+Alignments:
+
+>Branchiostoma lanceolatum paired box transcription factor 3/7a (Pax3/7a) mRNA, complete cds
+Sequence ID: MF979121.1 Length: 1440
+Range 1: 872 to 970
+
+Score:20.4 bits(41), Expect:78, 
+Method:Compositional matrix adjust., 
+Identities:11/35(31%), Positives:15/35(42%), Gaps:4/35(11%)
+
+Query  353  PCFQR--DSCYMNIIMYRPYGKDVPRLDYWLAYET  385
+            PC QR  D C+         G  +P L++WL    
+Sbjct  970  PCLQRRSDGCWWGAKAGVCAG--LPNLEHWLGMRA  872
+
+
+
+
+>Branchiostoma lanceolatum ribosomal protein L19 mRNA, partial cds
+Sequence ID: AY130453.1 Length: 588
+Range 1: 266 to 316
+
+Score:20.0 bits(40), Expect:95, 
+Method:Compositional matrix adjust., 
+Identities:6/17(35%), Positives:10/17(58%), Gaps:0/17(0%)
+
+Query  284  CKKESSNLSHKIFSYEC  300
+            C++ SS  +  +F  EC
+Sbjct  266  CQRRSSGCAACVFCAEC  316
+
+
+
+
+
+
+
+		
+
+
