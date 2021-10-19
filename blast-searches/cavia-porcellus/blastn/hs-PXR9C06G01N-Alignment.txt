@@ -1,0 +1,101 @@
+RID: PXR9C06G01N	
+Job Title:Sequence_R				
+Program: BLASTN 
+Database: nt Nucleotide collection (nt)
+Query #1: Sequence_R Query ID: lcl|Query_344109 Length: 1323
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+PREDICTED: Cavia porcellus L-gulonolactone oxidase-like...        Cavia porcellus domestic gui... 10141      743    743   54%   0.0   85.28  1616       XM_013143314.2   
+Cavia porcellus L-gulono-gamma-lactone oxidase gene homologue,... Cavia porcellus domestic gui... 10141      213    213   11%   9e-54 91.08  4612       D12762.2         
+
+
+Alignments:
+
+>PREDICTED: Cavia porcellus L-gulonolactone oxidase-like (LOC100735706), mRNA
+Sequence ID: XM_013143314.2 Length: 1616
+Range 1: 755 to 1474
+
+Score:743 bits(402), Expect:0.0, 
+Identities:614/720(85%),  Gaps:0/720(0%), Strand: Plus/Plus
+
+Query  602   AGGTCCTTGACAACCTGGACAGCCACCTGAAGAAGTCTGAGTACTTCCGCTTCCTCTGGT  661
+             ||||||| |||||||| |||||||| ||||||||||   |||||||| ||||||| ||||
+Sbjct  755   AGGTCCTCGACAACCTTGACAGCCATCTGAAGAAGTTCAAGTACTTCTGCTTCCTGTGGT  814
+
+Query  662   TTCCTCACAGTGAGAACGTCAGCATCATCTACCAAGATCACACCAACAAGGAGCCCTCCT  721
+             | || ||||| |||||||||||  |||||||||| || | |||||||||||  |||||||
+Sbjct  815   TCCCACACAGCGAGAACGTCAGTGTCATCTACCAGGACCGCACCAACAAGGCCCCCTCCT  874
+
+Query  722   CTGCATCTAACTGGTTTTGGGACTATGCCATTGGGTTCTACCTCCTGGAATTCTTGCTCT  781
+             || || | | ||||||||||||||||||||| ||||||||||| ||||||||| ||| | 
+Sbjct  875   CTTCAGCCAGCTGGTTTTGGGACTATGCCATCGGGTTCTACCTACTGGAATTCCTGCCCC  934
+
+Query  782   GGACCAGCACCTACCTGCCACGCCTCGTGGGCTGGATCAACCGCTTCTTCTTCTGGCTGC  841
+             || ||  ||||| ||||||  ||||| |||| ||||||||  ||||||||||||||||||
+Sbjct  935   GGCCCCACACCTTCCTGCCGTGCCTCATGGGTTGGATCAATTGCTTCTTCTTCTGGCTGC  994
+
+Query  842   TGTTCAACTGCAAGAAGGAGAGCAGCAACCTCAGCCACAAGATCTTCTCCTACGAGTGTC  901
+             ||||||||||||||||||||| | |  || |||||||||||||||||  ||| ||||| |
+Sbjct  995   TGTTCAACTGCAAGAAGGAGAACTGTGACTTCAGCCACAAGATCTTCAGCTATGAGTGCC  1054
+
+Query  902   GCTTCAAGCAGCATGTCCAAGACTGGGCCATCCCCAGGGAGAAGACCAAGGAGGCCCTGC  961
+             ||||||||||||| ||||| ||||||||||||||||| ||||||||||||||||||||||
+Sbjct  1055  GCTTCAAGCAGCACGTCCAGGACTGGGCCATCCCCAGAGAGAAGACCAAGGAGGCCCTGC  1114
+
+Query  962   TGGAGCTAAAGGCCATGCTGGAGGCCCACCCCAAGGTGGTAGCCCACTACCCCGTGGAGG  1021
+             ||||||| |||  ||||||||| || ||||||||||||| |||||||||||| |||| ||
+Sbjct  1115  TGGAGCTGAAGAGCATGCTGGAAGCTCACCCCAAGGTGGCAGCCCACTACCCTGTGGGGG  1174
+
+Query  1022  TGCGCTTCACCCGAGGTGATGACATCCTGCTGAGCCCGTGCTTCCAGAGGGACAGCTGCT  1081
+             ||||||||||||| || || ||||||||||||||||| | ||||||||||||||||||||
+Sbjct  1175  TGCGCTTCACCCGGGGGGACGACATCCTGCTGAGCCCCTCCTTCCAGAGGGACAGCTGCT  1234
+
+Query  1082  ACATGAACATCATTATGTACAGGCCCTATGGGAAGGATGTGCCTCGGTTGGATTACTGGC  1141
+             |||||||||||   || ||||||||||| || ||||| ||||||| | |  | |||||||
+Sbjct  1235  ACATGAACATCTGCATATACAGGCCCTACGGCAAGGACGTGCCTCAGCTTAACTACTGGC  1294
+
+Query  1142  TGGCCTATGAGACCATCATGAAGAAGTTTGGAGGCAGGCCCCACTGGGCAAAGGCCCACA  1201
+             |  ||| |||||||||||||||||||||    || || ||||| ||||| || |||||||
+Sbjct  1295  TAACCTGTGAGACCATCATGAAGAAGTTCCAGGGAAGACCCCATTGGGCCAAAGCCCACA  1354
+
+Query  1202  ATTGCACCAGGAAGGACTTTGAGAAAATGTACCCCGCCTTTCACAAGTTCTGTGACATCC  1261
+             | |||||| ||||||||||||||||||||||| | ||||||| || ||| ||   |||||
+Sbjct  1355  ACTGCACCTGGAAGGACTTTGAGAAAATGTACTCTGCCTTTCCCACGTTTTGCACCATCC  1414
+
+Query  1262  GCGAGAAGCTGGACCCCACTGGAATGTTCTTGAATTCGTACCTGGAAAAGGTTTTCTACT  1321
+             | || |||||| ||| ||||||||||||| | ||||| |||||||| || || |||||||
+Sbjct  1415  GTGAAAAGCTGAACCTCACTGGAATGTTCCTAAATTCCTACCTGGAGAAAGTGTTCTACT  1474
+
+
+
+
+>Cavia porcellus L-gulono-gamma-lactone oxidase gene homologue, exon 2, 3, 4, 5, 7, 8, 9 corresponding parts
+Sequence ID: D12762.2 Length: 4612
+Range 1: 3513 to 3669
+
+Score:213 bits(115), Expect:9e-54, 
+Identities:143/157(91%),  Gaps:0/157(0%), Strand: Plus/Plus
+
+Query  936   CAGGGAGAAGACCAAGGAGGCCCTGCTGGAGCTAAAGGCCATGCTGGAGGCCCACCCCAA  995
+             ||| ||||||||||||||||||||||||||||| |||  ||||||||| || ||||||||
+Sbjct  3513  CAGAGAGAAGACCAAGGAGGCCCTGCTGGAGCTGAAGAGCATGCTGGAAGCTCACCCCAA  3572
+
+Query  996   GGTGGTAGCCCACTACCCCGTGGAGGTGCGCTTCACCCGAGGTGATGACATCCTGCTGAG  1055
+             ||||| |||||||||||| |||| ||||||||||||||| || || ||||||||||||||
+Sbjct  3573  GGTGGCAGCCCACTACCCTGTGGGGGTGCGCTTCACCCGGGGGGACGACATCCTGCTGAG  3632
+
+Query  1056  CCCGTGCTTCCAGAGGGACAGCTGCTACATGAACATC  1092
+             ||| | |||||||||||||||||||||||||||||||
+Sbjct  3633  CCCCTCCTTCCAGAGGGACAGCTGCTACATGAACATC  3669
+
+
+
+
+
+
+
+		
+
+

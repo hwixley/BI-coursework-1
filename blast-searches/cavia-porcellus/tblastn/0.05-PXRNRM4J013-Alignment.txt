@@ -1,0 +1,213 @@
+RID: PXRNRM4J013	
+Job Title:ref|NP_848862.1|  				
+Program: TBLASTN 
+Database: nt Nucleotide collection (nt)
+Query #1: L-gulonolactone oxidase [Mus musculus] Query ID: ref|NP_848862.1 Length: 440
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+PREDICTED: Cavia porcellus L-gulonolactone oxidase-like...        Cavia porcellus domestic gui... 10141      578    578   99%   0.0   62.60  1616       XM_013143314.2   
+Cavia porcellus L-gulono-gamma-lactone oxidase gene homologue,... Cavia porcellus domestic gui... 10141      95.9   697   78%   3e-20 84.00  4612       D12762.2         
+
+
+Alignments:
+
+>PREDICTED: Cavia porcellus L-gulonolactone oxidase-like (LOC100735706), mRNA
+Sequence ID: XM_013143314.2 Length: 1616
+Range 1: 10 to 1473
+
+Score:578 bits(1490), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:323/492(66%), Positives:354/492(71%), Gaps:57/492(11%)
+
+Query  2     VHGYKGVQFQNWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIAC  61
+             V G+KG  FQNW KTY C  EMYYQ  SV EVREVLALARQQNK+VKVVG GHSPSDIA 
+Sbjct  10    VQGHKGF*FQNWVKTYCCCLEMYYQSASVEEVREVLALARQQNKRVKVVGRGHSPSDIA*  189
+
+Query  62    TDGFMIHMGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGGV  121
+             T+G MIH GKMNR+LQVDK+ KQVTVE GILL +LH QLDKHGL+LSN  ++    V   
+Sbjct  190   TEGIMIHRGKMNRILQVDKKNKQVTVETGILLAELHSQLDKHGLSLSNFSSLVSANVNEN  369
+
+Query  122   I----GSGTHNT--------------------------GIKHGILATQVVALTLMKADGT  151
+             +     S T  +                          G +      QVVALTLM ADG 
+Sbjct  370   LFRWSCSATLRSFRQLRKSEAISLQIACVAAQRAKPCQGQRAKASLCQVVALTLMTADGV  549
+
+Query  152   VLECSESSNADVFQAARVHLG-------C----------LGV------ILTVTLQCVPQF  188
+             +LECSESS+ D FQA RVHL        C          LG+      +  VTLQ     
+Sbjct  550   ILECSESSHPDXFQATRVHLERDYGSQHCPTGWSDPGKFLGLCPSRSSVTHVTLQ--GNT  723
+
+Query  189   HLLETSFPSTLKEVLDNLDSHLKKSEYFRFLWFPHSENVSIIYQDHTNKEPSSASNWFWD  248
+             H L       L +VLDNLDSHLKK +YF FLWFPHSENVS+IYQD TNK PSS+++WFWD
+Sbjct  724   HGLSPFL--LLDQVLDNLDSHLKKFKYFCFLWFPHSENVSVIYQDRTNKAPSSSASWFWD  897
+
+Query  249   YAIGFYLLEFLLWTSTYLPRLVGWINRFFFWLLFNCKKESSNLSHKIFSYECRFKQHVQD  308
+             YAIGFYLLEFL    T+LP L+GWIN FFFWLLFNCKKE+ + SHKIFSYECRFKQHVQD
+Sbjct  898   YAIGFYLLEFLPRPHTFLPCLMGWINCFFFWLLFNCKKENCDFSHKIFSYECRFKQHVQD  1077
+
+Query  309   WAIPRektkeallelkamleaHPKVVAHYPVEVRFTRGDDILLSPCFQRDSCYMNIIMYR  368
+             WAIPREKTKEALLELK+MLEAHPKV AHYPV VRFTRGDDILLSP FQRDSCYMNI +YR
+Sbjct  1078  WAIPREKTKEALLELKSMLEAHPKVAAHYPVGVRFTRGDDILLSPSFQRDSCYMNICIYR  1257
+
+Query  369   PYGKDVPRLDYWLAYETIMKKFGGRPHWAKAHNCTRKDFEKMYPAFHKFCDIREKLDPTG  428
+             PYGKDVP+L+YWL  ETIMKKF GRPHWAKAHNCT KDFEKMY AF  FC IREKL+ TG
+Sbjct  1258  PYGKDVPQLNYWLTCETIMKKFQGRPHWAKAHNCTWKDFEKMYSAFPTFCTIREKLNLTG  1437
+
+Query  429   MFLNSYLEKVFY  440
+             MFLNSYLEKVFY
+Sbjct  1438  MFLNSYLEKVFY  1473
+
+
+
+
+>Cavia porcellus L-gulono-gamma-lactone oxidase gene homologue, exon 2, 3, 4, 5, 7, 8, 9 corresponding parts
+Sequence ID: D12762.2 Length: 4612
+Range 1: 3013 to 3162
+
+Score:95.9 bits(237), Expect:3e-20, 
+Method:Compositional matrix adjust., 
+Identities:42/50(84%), Positives:46/50(92%), Gaps:0/50(0%)
+
+Query  264   TYLPRLVGWINRFFFWLLFNCKKESSNLSHKIFSYECRFKQHVQDWAIPR  313
+             T+LP L+GWIN FFFWLLFNCKKE+ + SHKIFSYECRFKQHVQDWAIPR
+Sbjct  3013  TFLPCLMGWINCFFFWLLFNCKKENCDFSHKIFSYECRFKQHVQDWAIPR  3162
+
+
+
+
+Range 2: 425 to 562
+
+Score:77.4 bits(189), Expect:2e-14, 
+Method:Compositional matrix adjust., 
+Identities:36/46(78%), Positives:41/46(89%), Gaps:0/46(0%)
+
+Query  33   VREVLALARQQNKKVKVVGGGHSPSDIACTDGFMIHMGKMNRVLQV  78
+            + +VLALARQQNK+VKVVG GHSPSDIA T+G MIH GKMNR+LQV
+Sbjct  425  ILQVLALARQQNKRVKVVGRGHSPSDIA*TEGIMIHRGKMNRILQV  562
+
+
+
+
+Range 3: 3565 to 3681
+
+Score:77.0 bits(188), Expect:3e-14, 
+Method:Compositional matrix adjust., 
+Identities:34/39(87%), Positives:35/39(89%), Gaps:0/39(0%)
+
+Query  330   HPKVVAHYPVEVRFTRGDDILLSPCFQRDSCYMNIIMYR  368
+             HPKV AHYPV VRFTRGDDILLSP FQRDSCYMNI +YR
+Sbjct  3565  HPKVAAHYPVGVRFTRGDDILLSPSFQRDSCYMNICIYR  3681
+
+
+
+
+Range 4: 4286 to 4414
+
+Score:75.5 bits(184), Expect:9e-14, 
+Method:Compositional matrix adjust., 
+Identities:35/43(81%), Positives:37/43(86%), Gaps:0/43(0%)
+
+Query  398   KAHNCTRKDFEKMYPAFHKFCDIREKLDPTGMFLNSYLEKVFY  440
+             +AHNCT KDFEKMY AF  FC IREKL+ TGMFLNSYLEKVFY
+Sbjct  4286  QAHNCTWKDFEKMYSAFPTFCTIREKLNLTGMFLNSYLEKVFY  4414
+
+
+
+
+Range 5: 2452 to 2568
+
+Score:70.9 bits(172), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:32/39(82%), Positives:35/39(89%), Gaps:0/39(0%)
+
+Query  199   LKEVLDNLDSHLKKSEYFRFLWFPHSENVSIIYQDHTNK  237
+             L +VLDNLDSHLKK +YF FLWFPHSENVS+IYQD TNK
+Sbjct  2452  LDQVLDNLDSHLKKFKYFCFLWFPHSENVSVIYQDRTNK  2568
+
+
+
+
+Range 6: 3852 to 4013
+
+Score:62.8 bits(151), Expect:9e-10, 
+Method:Compositional matrix adjust., 
+Identities:31/54(57%), Positives:37/54(68%), Gaps:5/54(9%)
+
+Query  350   LLSPCFQR-----DSCYMNIIMYRPYGKDVPRLDYWLAYETIMKKFGGRPHWAK  398
+             LLSP   R        +++ +  RPYGKDVP+L+YWL  ETIMKKF GRPHWAK
+Sbjct  3852  LLSPMVGRYGLGKAHLFLSPLCPRPYGKDVPQLNYWLTCETIMKKFQGRPHWAK  4013
+
+
+
+
+Range 7: 792 to 893
+
+Score:55.1 bits(131), Expect:2e-07, 
+Method:Compositional matrix adjust., 
+Identities:26/34(76%), Positives:30/34(88%), Gaps:0/34(0%)
+
+Query  75   VLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS  108
+            +LQVDK+ KQVTVE GILL +LH QLDKHGL+LS
+Sbjct  792  LLQVDKKNKQVTVETGILLAELHSQLDKHGLSLS  893
+
+
+
+
+Range 8: 158 to 262
+
+Score:51.6 bits(122), Expect:3e-06, 
+Method:Compositional matrix adjust., 
+Identities:24/35(69%), Positives:25/35(71%), Gaps:0/35(0%)
+
+Query  2    VHGYKGVQFQNWAKTYGCSPEMYYQPTSVGEVREV  36
+            V G+KG  FQNW KTY C  EMYYQ  SV EVREV
+Sbjct  158  VQGHKGF*FQNWVKTYCCCLEMYYQSASVEEVREV  262
+
+
+
+
+Range 9: 3360 to 3419
+
+Score:50.1 bits(118), Expect:1e-05, 
+Method:Compositional matrix adjust., 
+Identities:20/20(100%), Positives:20/20(100%), Gaps:0/20(0%)
+
+Query  294   KIFSYECRFKQHVQDWAIPR  313
+             KIFSYECRFKQHVQDWAIPR
+Sbjct  3360  KIFSYECRFKQHVQDWAIPR  3419
+
+
+
+
+Range 10: 2128 to 2202
+
+Score:42.7 bits(99), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:20/25(80%), Positives:22/25(88%), Gaps:0/25(0%)
+
+Query  139   QVVALTLMKADGTVLECSESSNADV  163
+             QVVALTLM ADG +LECSESS+ DV
+Sbjct  2128  QVVALTLMTADGVILECSESSHPDV  2202
+
+
+
+
+Range 11: 2795 to 2839
+
+Score:38.9 bits(89), Expect:0.023, 
+Method:Compositional matrix adjust., 
+Identities:15/15(100%), Positives:15/15(100%), Gaps:0/15(0%)
+
+Query  245   WFWDYAIGFYLLEFL  259
+             WFWDYAIGFYLLEFL
+Sbjct  2795  WFWDYAIGFYLLEFL  2839
+
+
+
+
+
+
+
+		
+
+

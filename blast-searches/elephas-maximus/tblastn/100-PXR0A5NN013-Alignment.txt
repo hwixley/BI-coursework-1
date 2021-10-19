@@ -1,0 +1,51 @@
+RID: PXR0A5NN013	
+Job Title:ref|NP_848862.1|  				
+Program: TBLASTN 
+Database: nt Nucleotide collection (nt)
+Query #1: L-gulonolactone oxidase [Mus musculus] Query ID: ref|NP_848862.1 Length: 440
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Elephas maximus borneensis microsatellite Em_13957 sequence       Elephas maxi... NA              1239296    22.7   22.7  2%    13    76.92  3375       JX941511.1       
+Elephas maximus breast and ovarian cancer susceptibility 2...     Elephas maximus Asiatic elep... 9783       20.0   20.0  4%    99    44.44  4082       JN414244.1       
+
+
+Alignments:
+
+>Elephas maximus borneensis microsatellite Em_13957 sequence
+Sequence ID: JX941511.1 Length: 3375
+Range 1: 2878 to 2916
+
+Score:22.7 bits(47), Expect:13, 
+Method:Compositional matrix adjust., 
+Identities:10/13(77%), Positives:10/13(76%), Gaps:0/13(0%)
+
+Query  187   QFHLLETSFPSTL  199
+             Q HLLE SFPS L
+Sbjct  2878  QHHLLENSFPSLL  2916
+
+
+
+
+>Elephas maximus breast and ovarian cancer susceptibility 2 (BRCA2) gene, exon 11 and partial cds
+Sequence ID: JN414244.1 Length: 4082
+Range 1: 1960 to 2013
+
+Score:20.0 bits(40), Expect:99, 
+Method:Compositional matrix adjust., 
+Identities:8/18(44%), Positives:12/18(66%), Gaps:0/18(0%)
+
+Query  177   ILTVTLQCVPQFHLLETS  194
+             I T+ ++C   FH L+TS
+Sbjct  2013  I*TINMKCFFSFHNLQTS  1960
+
+
+
+
+
+
+
+		
+
+
