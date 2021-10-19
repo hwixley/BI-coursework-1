@@ -1,0 +1,94 @@
+RID: PXK0DMY6016	
+Job Title:Sequence_R				
+Program: BLASTN 
+Database: Genome (GRCh37.p13 reference assembly top-level) Homo sapiens GRCh37.p13 [GCF_000001405.25] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in Annotation Release 105)
+Query #1: Sequence_R Query ID: lcl|Query_7485 Length: 1323
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens chromosome 8, GRCh37.p13 Primary Assembly            Homo sapiens    human           9606       189    539   39%   6e-45 85.98  146364022  NC_000008.10     
+
+
+Alignments:
+
+>Homo sapiens chromosome 8, GRCh37.p13 Primary Assembly
+Sequence ID: NC_000008.10 Length: 146364022
+Range 1: 27444464 to 27444626
+
+Score:189 bits(209), Expect:6e-45, 
+Identities:141/164(86%),  Gaps:1/164(0%), Strand: Plus/Plus
+
+Query  941       AGAAGACCAAGGAGGCCCTGCTGGAGCTAAAGGCCATGCTGGAGGCCCACCCCAAGGTGG  1000
+                 ||||||||| |||||||||||||||||| |||||| ||||||||||||||||  ||||||
+Sbjct  27444464  AGAAGACCACGGAGGCCCTGCTGGAGCTGAAGGCCGTGCTGGAGGCCCACCCTGAGGTGG  27444523
+
+Query  1001      TAGCCCACTACCCCGTGGAGGTGCGCTTCACCCGAGGTGATGACATCCTGCTGAGCCCGT  1060
+                 |  |||||||||  |||| ||| ||||||||| | |  ||||||||||| |||||||| |
+Sbjct  27444524  TGTCCCACTACCTGGTGGGGGTACGCTTCACCTG-GAGGATGACATCCTACTGAGCCCCT  27444582
+
+Query  1061      GCTTCCAGAGGGACAGCTGCTACATGAACATCATTATGTACAGG  1104
+                 |||||||| |||||||| ||||| |||||||||   ||||||||
+Sbjct  27444583  GCTTCCAGTGGGACAGCCGCTACCTGAACATCAACCTGTACAGG  27444626
+
+
+
+
+Range 2: 27443474 to 27443626
+
+Score:141 bits(156), Expect:8e-31, 
+Identities:126/156(81%),  Gaps:4/156(2%), Strand: Plus/Plus
+
+Query  786       CAGCACCTACCTGCCACGCCTCGTGGGCTGGATCAACCGCTTCTTCTT-CTGGCTGCTGT  844
+                 ||||| || | |||   |||| ||||||||||||||  |||| || || ||| || ||||
+Sbjct  27443474  CAGCATCTTCTTGCAGTGCCTTGTGGGCTGGATCAATGGCTTTTTGTTTCTGACTCCTGT  27443533
+
+Query  845       TCAACTGCAAGAAGGAGAGCAGCAACCTCAGCCACAAGATCTTCTCCTACGAGTGTCGCT  904
+                 |   |||| ||   |||| |||||||||||||| |||||||||| || ||| ||| | ||
+Sbjct  27443534  TTGCCTGCCAG---GAGAACAGCAACCTCAGCCCCAAGATCTTCACCCACGTGTGCCACT  27443590
+
+Query  905       TCAAGCAGCATGTCCAAGACTGGGCCATCCCCAGGG  940
+                 ||||||||||||||||  ||||||||||||||||||
+Sbjct  27443591  TCAAGCAGCATGTCCAGCACTGGGCCATCCCCAGGG  27443626
+
+
+
+
+Range 3: 27417794 to 27417888
+
+Score:113 bits(125), Expect:4e-22, 
+Identities:82/95(86%),  Gaps:0/95(0%), Strand: Plus/Plus
+
+Query  229       CAGGTGGACAAGGAGAAGAAGCAGGTCACAGTGGAAGCCGGTATCCTCCTGACTGACCTG  288
+                 ||||||||  |||||||||||||||| ||  |||| || || ||||||||| |  |||||
+Sbjct  27417794  CAGGTGGATGAGGAGAAGAAGCAGGTGACCATGGAGGCTGGCATCCTCCTGGCCAACCTG  27417853
+
+Query  289       CACCCACAGCTGGACAAGCATGGCCTGGCCCTGTC  323
+                 ||||||||||||||  |||||||||||||||||||
+Sbjct  27417854  CACCCACAGCTGGATGAGCATGGCCTGGCCCTGTC  27417888
+
+
+
+
+Range 4: 27435126 to 27435235
+
+Score:94.2 bits(103), Expect:4e-16, 
+Identities:88/111(79%),  Gaps:1/111(0%), Strand: Plus/Plus
+
+Query  602       AGGTCCTTGACAACCTGGACAGCCACCTGAAGAAGTCTGAGTACTTCCGCTTCCTCTGGT  661
+                 || ||||  | | |||||||||| |   |||||| |||||| ||||| ||||||||||||
+Sbjct  27435126  AGTTCCTCCATAGCCTGGACAGC-ATTGGAAGAAATCTGAGGACTTCTGCTTCCTCTGGT  27435184
+
+Query  662       TTCCTCACAGTGAGAACGTCAGCATCATCTACCAAGATCACACCAACAAGG  712
+                 | || ||||| ||||| |||||   |||| |||| || ||||||| |||||
+Sbjct  27435185  TCCCACACAGCGAGAATGTCAGTGCCATCCACCAGGACCACACCAGCAAGG  27435235
+
+
+
+
+
+
+
+		
+
+

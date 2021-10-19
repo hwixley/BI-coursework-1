@@ -1,0 +1,177 @@
+RID: PXKAJ6J4013	
+Job Title:ref|NP_848862.1|  				
+Program: TBLASTN 
+Database: nt Nucleotide collection (nt)
+Query #1: L-gulonolactone oxidase [Mus musculus] Query ID: ref|NP_848862.1 Length: 440
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens GULO gene for L-gulono-gamma-lactone oxidase, exo... Homo sapiens    human           9606       68.6   121   17%   1e-09 77.50  3364       D17461.1         
+Homo sapiens gulonolactone (L-) oxidase, pseudogene (GULOP) on... Homo sapiens    human           9606       68.6   172   25%   1e-09 77.50  11663      NG_001136.2      
+Homo sapiens chromosome 8 clone SCb-212E3 map p21-p11, complet... Homo sapiens    human           9606       68.6   233   33%   1e-09 77.50  234429     AF311103.5       
+Homo sapiens gene, L-gulono-gamma-lactone oxidase encoding GLO... Homo sapiens    human           9606       50.4   50.4  6%    4e-06 79.31  157        D00525.1         
+Homo sapiens GULO gene for L-gulono-gamma-lactone oxidase, exon 7 Homo sapiens    human           9606       50.4   50.4  6%    9e-05 79.31  644        D17460.1         
+
+
+Alignments:
+
+>Homo sapiens GULO gene for L-gulono-gamma-lactone oxidase, exons 9,10 and 12
+Sequence ID: D17461.1 Length: 3364
+Range 1: 3070 to 3189
+
+Score:68.6 bits(166), Expect:1e-09, 
+Method:Compositional matrix adjust., 
+Identities:31/40(78%), Positives:35/40(87%), Gaps:0/40(0%)
+
+Query  401   NCTRKDFEKMYPAFHKFCDIREKLDPTGMFLNSYLEKVFY  440
+             +CT K+FEKM+PAF KFC I EKL+PTGMFLN YLEKVFY
+Sbjct  3070  HCTSKNFEKMHPAFPKFCAI*EKLEPTGMFLNLYLEKVFY  3189
+
+
+
+
+Range 2: 120 to 230
+
+Score:52.8 bits(125), Expect:7e-05, 
+Method:Compositional matrix adjust., 
+Identities:26/38(68%), Positives:30/38(78%), Gaps:1/38(2%)
+
+Query  276  FFFWLLFNCKKESSNLSHKIFSYECRFKQHVQDWAIPR  313
+            F F LLF C+ E+SNLS KIF++ C FKQHVQ WAIPR
+Sbjct  120  FCF*LLFACQ-ENSNLSPKIFTHVCHFKQHVQHWAIPR  230
+
+
+
+
+>Homo sapiens gulonolactone (L-) oxidase, pseudogene (GULOP) on chromosome 8
+Sequence ID: NG_001136.2 Length: 11663
+Range 1: 11441 to 11560
+
+Score:68.6 bits(166), Expect:1e-09, 
+Method:Compositional matrix adjust., 
+Identities:31/40(78%), Positives:35/40(87%), Gaps:0/40(0%)
+
+Query  401    NCTRKDFEKMYPAFHKFCDIREKLDPTGMFLNSYLEKVFY  440
+              +CT K+FEKM+PAF KFC I EKL+PTGMFLN YLEKVFY
+Sbjct  11441  HCTSKNFEKMHPAFPKFCAI*EKLEPTGMFLNLYLEKVFY  11560
+
+
+
+
+Range 2: 8488 to 8598
+
+Score:53.1 bits(126), Expect:6e-05, 
+Method:Compositional matrix adjust., 
+Identities:26/38(68%), Positives:30/38(78%), Gaps:1/38(2%)
+
+Query  276   FFFWLLFNCKKESSNLSHKIFSYECRFKQHVQDWAIPR  313
+             F F LLF C+ E+SNLS KIF++ C FKQHVQ WAIPR
+Sbjct  8488  FCF*LLFACQ-ENSNLSPKIFTHVCHFKQHVQHWAIPR  8598
+
+
+
+
+Range 3: 121 to 219
+
+Score:51.2 bits(121), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:23/33(70%), Positives:27/33(81%), Gaps:0/33(0%)
+
+Query  209  HLKKSEYFRFLWFPHSENVSIIYQDHTNKEPSS  241
+            H KKSE F FLWFPHSENVS I+QDHT+K  ++
+Sbjct  121  HWKKSEDFCFLWFPHSENVSAIHQDHTSKAAAA  219
+
+
+
+
+>Homo sapiens chromosome 8 clone SCb-212E3 map p21-p11, complete sequence
+Sequence ID: AF311103.5 Length: 234429
+Range 1: 198834 to 198953
+
+Score:68.6 bits(166), Expect:1e-09, 
+Method:Compositional matrix adjust., 
+Identities:31/40(78%), Positives:35/40(87%), Gaps:0/40(0%)
+
+Query  401     NCTRKDFEKMYPAFHKFCDIREKLDPTGMFLNSYLEKVFY  440
+               +CT K+FEKM+PAF KFC I EKL+PTGMFLN YLEKVFY
+Sbjct  198834  HCTSKNFEKMHPAFPKFCAI*EKLEPTGMFLNLYLEKVFY  198953
+
+
+
+
+Range 2: 170154 to 170258
+
+Score:60.8 bits(146), Expect:3e-07, 
+Method:Compositional matrix adjust., 
+Identities:28/35(80%), Positives:33/35(94%), Gaps:0/35(0%)
+
+Query  75      VLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSN  109
+               +LQVD+EKKQVT+EAGILL +LHPQLD+HGLALS 
+Sbjct  170154  LLQVDEEKKQVTMEAGILLANLHPQLDEHGLALSR  170258
+
+
+
+
+Range 3: 195881 to 195991
+
+Score:53.1 bits(126), Expect:7e-05, 
+Method:Compositional matrix adjust., 
+Identities:26/38(68%), Positives:30/38(78%), Gaps:1/38(2%)
+
+Query  276     FFFWLLFNCKKESSNLSHKIFSYECRFKQHVQDWAIPR  313
+               F F LLF C+ E+SNLS KIF++ C FKQHVQ WAIPR
+Sbjct  195881  FCF*LLFACQ-ENSNLSPKIFTHVCHFKQHVQHWAIPR  195991
+
+
+
+
+Range 4: 187514 to 187612
+
+Score:51.2 bits(121), Expect:3e-04, 
+Method:Compositional matrix adjust., 
+Identities:23/33(70%), Positives:27/33(81%), Gaps:0/33(0%)
+
+Query  209     HLKKSEYFRFLWFPHSENVSIIYQDHTNKEPSS  241
+               H KKSE F FLWFPHSENVS I+QDHT+K  ++
+Sbjct  187514  HWKKSEDFCFLWFPHSENVSAIHQDHTSKAAAA  187612
+
+
+
+
+>Homo sapiens gene, L-gulono-gamma-lactone oxidase encoding GLO gene related sequence
+Sequence ID: D00525.1 Length: 157
+Range 1: 61 to 147
+
+Score:50.4 bits(119), Expect:4e-06, 
+Method:Compositional matrix adjust., 
+Identities:23/29(79%), Positives:25/29(86%), Gaps:0/29(0%)
+
+Query  209  HLKKSEYFRFLWFPHSENVSIIYQDHTNK  237
+            H KKSE F FLWFPHSENVS I+QDHT+K
+Sbjct  61   HWKKSEDFCFLWFPHSENVSAIHQDHTSK  147
+
+
+
+
+>Homo sapiens GULO gene for L-gulono-gamma-lactone oxidase, exon 7
+Sequence ID: D17460.1 Length: 644
+Range 1: 548 to 634
+
+Score:50.4 bits(119), Expect:9e-05, 
+Method:Compositional matrix adjust., 
+Identities:23/29(79%), Positives:25/29(86%), Gaps:0/29(0%)
+
+Query  209  HLKKSEYFRFLWFPHSENVSIIYQDHTNK  237
+            H KKSE F FLWFPHSENVS I+QDHT+K
+Sbjct  548  HWKKSEDFCFLWFPHSENVSAIHQDHTSK  634
+
+
+
+
+
+
+
+		
+
+

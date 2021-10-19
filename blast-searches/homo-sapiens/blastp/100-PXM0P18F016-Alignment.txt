@@ -1,0 +1,69 @@
+RID: PXM0P18F016	
+Job Title:ref|NP_848862.1|				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: L-gulonolactone oxidase [Mus musculus] Query ID: ref|NP_848862.1 Length: 440
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+HUMAN MRF-2 DOMAIN, NMR, 11 STRUCTURES [Homo sapiens]             Homo sapiens    human           9606       28.1   28.1  7%    50    28.57  107        1IG6_A           
+immunoglobulin heavy chain junction region [Homo sapiens]         Homo sapiens    human           9606       25.8   25.8  2%    67    61.54  15         MCG47799.1       
+immunoglobulin heavy chain junction region [Homo sapiens]         Homo sapiens    human           9606       25.8   25.8  2%    70    69.23  16         MOK34410.1       
+
+
+Alignments:
+
+>HUMAN MRF-2 DOMAIN, NMR, 11 STRUCTURES [Homo sapiens]
+Sequence ID: 1IG6_A Length: 107
+>Determination of the Three-dimensional Structure of the Mrf2-DNA Complex Using Paramagnetic Spin Labeling [Homo sapiens]
+Sequence ID: 2OEH_A Length: 107 
+Range 1: 57 to 91
+
+Score:28.1 bits(61), Expect:50, 
+Method:Composition-based stats., 
+Identities:10/35(29%), Positives:19/35(54%), Gaps:0/35(0%)
+
+Query  383  YETIMKKFGGRPHWAKAHNCTRKDFEKMYPAFHKF  417
+            ++ I  + GG P    A  CTR+ +E++   + +F
+Sbjct  57   WKHIYDELGGNPGSTSAATCTRRHYERLILPYERF  91
+
+
+
+
+>immunoglobulin heavy chain junction region [Homo sapiens]
+Sequence ID: MCG47799.1 Length: 15
+Range 1: 3 to 15
+
+Score:25.8 bits(55), Expect:67, 
+Method:Composition-based stats., 
+Identities:8/13(62%), Positives:11/13(84%), Gaps:0/13(0%)
+
+Query  368  RPYGKDVPRLDYW  380
+            RPYG ++P +DYW
+Sbjct  3    RPYGWELPLIDYW  15
+
+
+
+
+>immunoglobulin heavy chain junction region [Homo sapiens]
+Sequence ID: MOK34410.1 Length: 16
+Range 1: 4 to 16
+
+Score:25.8 bits(55), Expect:70, 
+Method:Composition-based stats., 
+Identities:9/13(69%), Positives:10/13(76%), Gaps:0/13(0%)
+
+Query  368  RPYGKDVPRLDYW  380
+            RP G D+P LDYW
+Sbjct  4    RPSGYDLPFLDYW  16
+
+
+
+
+
+
+
+		
+
+
