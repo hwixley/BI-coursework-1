@@ -1,0 +1,4 @@
+gene_id	gene_symbol	description	scientific_name	common_name	tax_id	genomic_range	orientation	location	gene_type	transcript_accession	transcript_name	transcript_length	transcript_cds_coords	protein_accession	isoform_name	protein_length	protein_name
+268756	Gulo	gulonolactone (L-) oxidase	Mus musculus	house mouse	10090	NC_000080.7:66224235-66246703	-	chr 14	PROTEIN_CODING	XR_001781125.1	transcript variant X2	2233					
+268756	Gulo	gulonolactone (L-) oxidase	Mus musculus	house mouse	10090	NC_000080.7:66224235-66246703	-	chr 14	PROTEIN_CODING	XM_006519066.1	transcript variant X1	2253	XM_006519066.1:208-1530	XP_006519129.1	isoform X1	440	L-gulonolactone oxidase
+268756	Gulo	gulonolactone (L-) oxidase	Mus musculus	house mouse	10090	NC_000080.7:66224235-66246703	-	chr 14	PROTEIN_CODING	NM_178747.3		2265	NM_178747.3:164-1486	NP_848862.1		440	L-gulonolactone oxidase
