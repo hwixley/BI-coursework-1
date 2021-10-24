@@ -1,0 +1,2356 @@
+RID: RAD59JE7016	
+Job Title:blastp nr				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: L-gulonolactone oxidase [Mus musculus] Query ID: ref|NP_848862.1 Length: 440
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+
+probable D-lactate dehydrogenase, mitochondrial isoform 2...      Homo sapiens    human           9606       229    229   94%   6e-69 15.61  484        NP_919417.1      
+lactate dehydrogenase D, isoform CRA_b [Homo sapiens]             Homo sapiens    human           9606       222    222   94%   3e-66 15.45  495        EAW95665.1       
+probable D-lactate dehydrogenase, mitochondrial isoform 1...      Homo sapiens    human           9606       221    221   94%   2e-65 15.05  507        NP_705690.2      
+probable D-lactate dehydrogenase, mitochondrial isoform X5 [Ho... Homo sapiens    human           9606       217    217   94%   7e-64 15.09  524        XP_024305946.1   
+Chain A, D-2-hydroxyglutarate dehydrogenase, mitochondrial [Ho... Homo sapiens    human           9606       212    212   96%   2e-62 16.29  481        6LPN_A           
+D-2-hydroxyglutarate dehydrogenase [Homo sapiens]                 Homo sapiens    human           9606       211    211   96%   9e-62 16.29  521        AAH36604.2       
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform 1...    Homo sapiens    human           9606       211    211   96%   1e-61 16.29  521        NP_689996.4      
+probable D-lactate dehydrogenase, mitochondrial isoform X2 [Ho... Homo sapiens    human           9606       209    209   94%   2e-60 14.60  547        XP_024305943.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X3...   Homo sapiens    human           9606       206    206   96%   1e-59 15.62  535        XP_011510038.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X2...   Homo sapiens    human           9606       201    201   96%   8e-58 15.38  547        XP_011510037.1   
+D-lactate dehydrogenase [Homo sapiens]                            Homo sapiens    human           9606       199    199   94%   3e-57 15.07  486        AAM50322.1       
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X4...   Homo sapiens    human           9606       196    196   93%   2e-56 14.66  485        XP_024308870.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X1...   Homo sapiens    human           9606       196    196   96%   9e-56 14.77  561        XP_011510036.1   
+probable D-lactate dehydrogenase, mitochondrial isoform X6 [Ho... Homo sapiens    human           9606       194    194   86%   3e-55 14.74  504        XP_024305947.1   
+probable D-lactate dehydrogenase, mitochondrial isoform X4 [Ho... Homo sapiens    human           9606       185    185   86%   6e-52 14.19  527        XP_024305945.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform 2...    Homo sapiens    human           9606       178    178   87%   1e-50 16.17  387        NP_001274178.1   
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       178    178   87%   2e-50 16.17  387        BAG52828.1       
+probable D-lactate dehydrogenase, mitochondrial isoform X3 [Ho... Homo sapiens    human           9606       182    182   86%   2e-50 14.25  544        XP_024305944.1   
+alkylglycerone phosphate synthase, isoform CRA_a [Homo sapiens]   Homo sapiens    human           9606       177    177   95%   8e-49 15.73  536        EAX11057.1       
+alkyldihydroxyacetonephosphate synthase, peroxisomal isoform X... Homo sapiens    human           9606       177    177   95%   1e-48 15.73  568        XP_011510343.1   
+alkyldihydroxyacetonephosphate synthase, peroxisomal precursor... Homo sapiens    human           9606       177    177   95%   4e-48 15.73  658        NP_003650.1      
+alkylglycerone phosphate synthase, isoform CRA_b [Homo sapiens]   Homo sapiens    human           9606       177    177   95%   6e-48 15.73  684        EAX11058.1       
+probable D-lactate dehydrogenase, mitochondrial isoform X1 [Ho... Homo sapiens    human           9606       173    173   86%   3e-47 13.76  567        XP_024305942.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X8...   Homo sapiens    human           9606       169    169   76%   1e-46 17.05  445        XP_016860317.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X5...   Homo sapiens    human           9606       160    160   76%   5e-43 15.87  471        XP_011510039.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X11...  Homo sapiens    human           9606       150    150   60%   9e-40 16.23  428        XP_011510047.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X16...  Homo sapiens    human           9606       149    149   60%   1e-39 16.23  414        XP_011510052.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X18...  Homo sapiens    human           9606       149    149   41%   1e-39 22.80  386        XP_011510054.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X15...  Homo sapiens    human           9606       149    149   41%   3e-39 22.80  415        XP_011510051.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X14...  Homo sapiens    human           9606       149    149   56%   3e-39 17.18  418        XP_016860319.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X25...  Homo sapiens    human           9606       145    145   43%   4e-39 22.39  309        XP_016860321.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X13...  Homo sapiens    human           9606       148    148   41%   4e-39 22.80  419        XP_011510049.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X9...   Homo sapiens    human           9606       149    149   41%   5e-39 22.80  441        XP_011510043.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X24...  Homo sapiens    human           9606       145    145   41%   5e-39 22.80  319        XP_011510062.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X12...  Homo sapiens    human           9606       148    148   57%   6e-39 20.99  423        XP_011510048.1   
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       145    145   41%   6e-39 22.80  325        BAG65519.1       
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X19...  Homo sapiens    human           9606       147    147   41%   7e-39 22.80  378        XP_011510055.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X22...  Homo sapiens    human           9606       145    145   41%   7e-39 22.80  325        XP_011510060.1   
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       145    145   48%   9e-39 21.17  320        BAG52404.1       
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X21...  Homo sapiens    human           9606       146    146   41%   1e-38 22.80  364        XP_011510059.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X17...  Homo sapiens    human           9606       147    147   41%   1e-38 22.80  414        XP_011510053.1   
+D-2-hydroxyglutarate dehydrogenase, isoform CRA_b [Homo sapiens]  Homo sapiens    human           9606       144    144   48%   1e-38 21.17  320        EAW71291.1       
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X23...  Homo sapiens    human           9606       144    144   41%   1e-38 22.80  321        XP_024308871.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X7...   Homo sapiens    human           9606       147    147   41%   1e-38 22.80  449        XP_016860316.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X10...  Homo sapiens    human           9606       147    147   41%   2e-38 22.80  438        XP_011510045.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X6...   Homo sapiens    human           9606       147    147   41%   2e-38 22.80  460        XP_011510040.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X20...  Homo sapiens    human           9606       145    193   62%   2e-38 22.80  370        XP_011510058.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform 3...    Homo sapiens    human           9606       144    144   74%   4e-38 16.08  334        NP_001339753.1   
+alkyldihydroxyacetonephosphate synthase, peroxisomal isoform X... Homo sapiens    human           9606       144    144   83%   1e-37 14.95  413        XP_011510345.1   
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       140    140   47%   9e-37 21.78  320        BAH14611.1       
+D2HGDH protein [Homo sapiens]                                     Homo sapiens    human           9606       133    133   41%   2e-34 22.80  307        AAH71598.1       
+unknown [Homo sapiens]                                            Homo sapiens    human           9606       103    103   28%   3e-23 24.24  332        AAY14986.1       
+putative protein product of Nbla03646 [Homo sapiens]              Homo sapiens    human           9606       101    101   77%   3e-22 19.41  427        BAE45721.1       
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       101    101   77%   4e-22 19.68  475        BAH14790.1       
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       101    101   77%   4e-22 19.41  475        BAH13803.1       
+delta(24)-sterol reductase precursor [Homo sapiens]               Homo sapiens    human           9606       101    101   77%   7e-22 19.41  516        NP_055577.1      
+lactate dehydrogenase D, isoform CRA_d [Homo sapiens]             Homo sapiens    human           9606       88.2   88.2  44%   4e-19 10.19  202        EAW95667.1       
+unknown [Homo sapiens]                                            Homo sapiens    human           9606       77.4   77.4  51%   4e-15 11.69  220        AAX82020.1       
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       75.1   75.1  51%   3e-14 11.69  220        BAG37628.1       
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       66.6   66.6  65%   6e-11 15.07  300        BAH14155.1       
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       62.0   62.0  31%   2e-10 14.89  141        BAG51584.1       
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       58.9   58.9  31%   2e-09 14.18  141        BAG53205.1       
+unknown [Homo sapiens]                                            Homo sapiens    human           9606       49.3   49.3  28%   4e-06 15.56  143        AAX93112.1       
+unknown [Homo sapiens]                                            Homo sapiens    human           9606       46.6   46.6  18%   7e-05 16.30  183        AAY24300.1       
+
+Alignments:
+
+>probable D-lactate dehydrogenase, mitochondrial isoform 2 precursor [Homo sapiens]
+Sequence ID: NP_919417.1 Length: 484
+>lactate dehydrogenase D, isoform CRA_a [Homo sapiens]
+Sequence ID: EAW95664.1 Length: 484 
+Range 1: 66 to 483
+
+Score:229 bits(584), Expect:6e-69, 
+Method:Composition-based stats., 
+Identities:69/442(16%), Positives:132/442(29%), Gaps:51/442(11%)
+
+Query  21   PEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDI--ACTDGFMIHMGKMNRVLQV  78
+            P+    P +V +V  + AL  +Q   +   G G        A   G  +++  M+R+L++
+Sbjct  66   PDAVVWPQNVEQVSRLAALCYRQGVPIIPFGTGTGLEGGVCAVQGGVCVNLTHMDRILEL  125
+
+Query  79   DKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGGVIGSGTHNTG-IKHGILA  137
+            ++E   V VE G+    L+  L   GL         D ++ G+  +G   T  +++G + 
+Sbjct  126  NQEDFSVVVEPGVTRKALNAHLRDSGLWFPVDPGA-DASLCGMAATGASGTNAVRYGTMR  184
+
+Query  138  TQVVALTLMKADGTVLEC---SESSNADVFQ----AARVH-LGCLGVILTVTLQCVPQFH  189
+              V+ L ++  DG +L                      V   G LG+I   TL+  P   
+Sbjct  185  DNVLNLEVVLPDGRLLHTAGRGRHFRKSAAGYNLTGLFVGSEGTLGLITATTLRLHPAPE  244
+
+Query  190  LLE---TSFPSTLKEVLDNLD--SHLKKSEYFRFLWFPHSENVSIIYQDHTNKEPSSASN  244
+                   +FPS    V   +             FL     +  +   + +    P+    
+Sbjct  245  ATVAATCAFPSVQAAVDSTVHILQAAVPVARIEFLDEVMMDACNRYSKLNCLVAPT---L  301
+
+Query  245  WFWDYAIGFYLLEFLLWTSTYLPRLVG--------WINRFFFWLLFNCKKESSNLSHKIF  296
+            +   +     L E L  T   + +              R   W          N  +   
+Sbjct  302  FLEFHGSQQALEEQLQRTEEIVQQNGASDFSWAKEAEERSRLWT------ARHNAWYAAL  355
+
+Query  297  SYECRFKQHVQDWAIPREKTKEALLELKAMLEAHPKVVAHYPVEVRFTRGDDILLSPCFQ  356
+            +     K +  D  +P  +  E +++ K  L A           +    GD         
+Sbjct  356  ATRPGCKGYSTDVCVPISRLPEIVVQTKEDLNASGLT-----GSIVGHVGDGNFHC----  406
+
+Query  357  RDSCYMNIIMYRPYGKDVPRLDYWLAYETIMKKFGGRPHWAKAHNCTRKDFEKMY---PA  413
+                 + ++      +      +            G           ++   +       
+Sbjct  407  -----ILLVNPDDAEELGRVKAFAEQLGRRALALHGTCTGEHGIGMGKRQLLQEEVGAVG  461
+
+Query  414  FHKFCDIREKLDPTGMFLNSYL  435
+                  ++  LDP G+     +
+Sbjct  462  VETMRQLKAVLDPQGLMNPGKV  483
+
+
+
+
+>lactate dehydrogenase D, isoform CRA_b [Homo sapiens]
+Sequence ID: EAW95665.1 Length: 495
+Range 1: 66 to 494
+
+Score:222 bits(566), Expect:3e-66, 
+Method:Composition-based stats., 
+Identities:70/453(15%), Positives:132/453(29%), Gaps:62/453(13%)
+
+Query  21   PEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDI--ACTDGFMIHMGKMNRVLQV  78
+            P+    P +V +V  + AL  +Q   +   G G        A   G  +++  M+R+L++
+Sbjct  66   PDAVVWPQNVEQVSRLAALCYRQGVPIIPFGTGTGLEGGVCAVQGGVCVNLTHMDRILEL  125
+
+Query  79   DKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGGVIGSGTHNTG-IKHGILA  137
+            ++E   V VE G+    L+  L   GL         D ++ G+  +G   T  +++G + 
+Sbjct  126  NQEDFSVVVEPGVTRKALNAHLRDSGLWFPVDPGA-DASLCGMAATGASGTNAVRYGTMR  184
+
+Query  138  TQVVALTLMKADGTVLEC---SESSNADVFQ----AARVH-LGCLGVILTVTLQCVPQFH  189
+              V+ L ++  DG +L                      V   G LG+I   TL+  P   
+Sbjct  185  DNVLNLEVVLPDGRLLHTAGRGRHFRKSAAGYNLTGLFVGSEGTLGLITATTLRLHPAPE  244
+
+Query  190  LLE---TSFPSTLKEVLDNLD--SHLKKSEYFRFLWFPHSENVSIIYQDHTNKEPSSASN  244
+                   +FPS    V   +             FL     +  +   + +    P+    
+Sbjct  245  ATVAATCAFPSVQAAVDSTVHILQAAVPVARIEFLDEVMMDACNRYSKLNCLVAPT---L  301
+
+Query  245  WFWDYAIGFYLLEFLLWTSTYLPRLVG--------WINRFFFWLLFNCKKESSNLSHKIF  296
+            +   +     L E L  T   + +              R   W          N  +   
+Sbjct  302  FLEFHGSQQALEEQLQRTEEIVQQNGASDFSWAKEAEERSRLWT------ARHNAWYAAL  355
+
+Query  297  SYECRFKQHV-----------QDWAIPREKTKEALLELKAMLEAHPKVVAHYPVEVRFTR  345
+            +     K  V            D  +P  +  E +++ K  L A           +    
+Sbjct  356  ATRPGCKAGVTHRLPSDQGYSTDVCVPISRLPEIVVQTKEDLNASGLT-----GSIVGHV  410
+
+Query  346  GDDILLSPCFQRDSCYMNIIMYRPYGKDVPRLDYWLAYETIMKKFGGRPHWAKAHNCTRK  405
+            GD              + ++      +      +            G           ++
+Sbjct  411  GDGNFHC---------ILLVNPDDAEELGRVKAFAEQLGRRALALHGTCTGEHGIGMGKR  461
+
+Query  406  DFEKMY---PAFHKFCDIREKLDPTGMFLNSYL  435
+               +             ++  LDP G+     +
+Sbjct  462  QLLQEEVGAVGVETMRQLKAVLDPQGLMNPGKV  494
+
+
+
+
+>probable D-lactate dehydrogenase, mitochondrial isoform 1 precursor [Homo sapiens]
+Sequence ID: NP_705690.2 Length: 507
+>RecName: Full=Probable D-lactate dehydrogenase, mitochondrial; Short=DLD; Short=Lactate dehydrogenase D; Flags: Precursor [Homo sapiens]
+Sequence ID: Q86WU2.1 Length: 507
+>Lactate dehydrogenase D [Homo sapiens]
+Sequence ID: AAH40279.1 Length: 507
+>Lactate dehydrogenase D [Homo sapiens]
+Sequence ID: AAH47902.1 Length: 507
+>lactate dehydrogenase D, isoform CRA_c [Homo sapiens]
+Sequence ID: EAW95666.1 Length: 507 
+Range 1: 66 to 506
+
+Score:221 bits(562), Expect:2e-65, 
+Method:Composition-based stats., 
+Identities:70/465(15%), Positives:134/465(28%), Gaps:74/465(15%)
+
+Query  21   PEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDI--ACTDGFMIHMGKMNRVLQV  78
+            P+    P +V +V  + AL  +Q   +   G G        A   G  +++  M+R+L++
+Sbjct  66   PDAVVWPQNVEQVSRLAALCYRQGVPIIPFGTGTGLEGGVCAVQGGVCVNLTHMDRILEL  125
+
+Query  79   DKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGGVIGSGTHNTG-IKHGILA  137
+            ++E   V VE G+    L+  L   GL         D ++ G+  +G   T  +++G + 
+Sbjct  126  NQEDFSVVVEPGVTRKALNAHLRDSGLWFPVDPGA-DASLCGMAATGASGTNAVRYGTMR  184
+
+Query  138  TQVVALTLMKADGTVLECSESSNADVFQ------------------------------AA  167
+              V+ L ++  DG +L  +       F                                 
+Sbjct  185  DNVLNLEVVLPDGRLLHTAGRGRHFRFGFWPEIPHHTAWYSPCVSLGRRKSAAGYNLTGL  244
+
+Query  168  RVH-LGCLGVILTVTLQCVPQFHLLE---TSFPSTLKEVLDNLD--SHLKKSEYFRFLWF  221
+             V   G LG+I   TL+  P          +FPS    V   +             FL  
+Sbjct  245  FVGSEGTLGLITATTLRLHPAPEATVAATCAFPSVQAAVDSTVHILQAAVPVARIEFLDE  304
+
+Query  222  PHSENVSIIYQDHTNKEPSSASNWFWDYAIGFYLLEFLLWTSTYLPRLVG--------WI  273
+               +  +   + +    P+    +   +     L E L  T   + +             
+Sbjct  305  VMMDACNRYSKLNCLVAPT---LFLEFHGSQQALEEQLQRTEEIVQQNGASDFSWAKEAE  361
+
+Query  274  NRFFFWLLFNCKKESSNLSHKIFSYECRFKQHVQDWAIPREKTKEALLELKAMLEAHPKV  333
+             R   W          N  +   +     K +  D  +P  +  E +++ K  L A    
+Sbjct  362  ERSRLWT------ARHNAWYAALATRPGCKGYSTDVCVPISRLPEIVVQTKEDLNASGLT  415
+
+Query  334  VAHYPVEVRFTRGDDILLSPCFQRDSCYMNIIMYRPYGKDVPRLDYWLAYETIMKKFGGR  393
+                   +    GD              + ++      +      +            G 
+Sbjct  416  -----GSIVGHVGDGNFHC---------ILLVNPDDAEELGRVKAFAEQLGRRALALHGT  461
+
+Query  394  PHWAKAHNCTRKDFEKMY---PAFHKFCDIREKLDPTGMFLNSYL  435
+                      ++   +             ++  LDP G+     +
+Sbjct  462  CTGEHGIGMGKRQLLQEEVGAVGVETMRQLKAVLDPQGLMNPGKV  506
+
+
+
+
+>probable D-lactate dehydrogenase, mitochondrial isoform X5 [Homo sapiens]
+Sequence ID: XP_024305946.1 Length: 524
+Range 1: 66 to 523
+
+Score:217 bits(552), Expect:7e-64, 
+Method:Composition-based stats., 
+Identities:72/477(15%), Positives:135/477(28%), Gaps:81/477(16%)
+
+Query  21   PEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDI--ACTDGFMIHMGKMNRVLQV  78
+            P+    P +V +V  + AL  +Q   +   G G        A   G  +++  M+R+L++
+Sbjct  66   PDAVVWPQNVEQVSRLAALCYRQGVPIIPFGTGTGLEGGVCAVQGGVCVNLTHMDRILEL  125
+
+Query  79   DKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGGVIGSGTHNTG-IKHGILA  137
+            ++E   V VE G+    L+  L   GL         D ++ G+  +G   T  +++G + 
+Sbjct  126  NQEDFSVVVEPGVTRKALNAHLRDSGLWFPVDPGA-DASLCGMAATGASGTNAVRYGTMR  184
+
+Query  138  TQVVALTLMKADGTVLEC---SESSNADVFQ----AARVH-LGCLGVILTVTLQCVPQFH  189
+              V+ L ++  DG +L                      V   G LG+I   TL+  P   
+Sbjct  185  DNVLNLEVVLPDGRLLHTAGRGRHFRKSAAGYNLTGLFVGSEGTLGLITATTLRLHPAPE  244
+
+Query  190  LLE---TSFPSTLKEVLDNLD--SHLKKSEYFRFLWFPHSENVSIIYQDHTNKEPSSASN  244
+                   +FPS    V   +             FL     +  +   + +    P+    
+Sbjct  245  ATVAATCAFPSVQAAVDSTVHILQAAVPVARIEFLDEVMMDACNRYSKLNCLVAPT---L  301
+
+Query  245  WFWDYAIGFYLLEFLLWTSTYLPRLVG--------WINRFFFWLLFNCKKESSNLSHKIF  296
+            +   +     L E L  T   + +              R   W          N  +   
+Sbjct  302  FLEFHGSQQALEEQLQRTEEIVQQNGASDFSWAKEAEERSRLWT------ARHNAWYAAL  355
+
+Query  297  SYECRFKQHVQDWAIPREKTKEALLELKAMLEAHPK-VVAH-------------------  336
+            +     K +  D  +P  +  E +++ K  L A      AH                   
+Sbjct  356  ATRPGCKGYSTDVCVPISRLPEIVVQTKEDLNASGLTGSAHPAAGERWGGVRADQSLGQQ  415
+
+Query  337  ---------------YPVEVRFTRGDDILLSPCFQRDSCYMNIIMYRPYGKDVPRLDYWL  381
+                            P  +    GD              + ++      +      +  
+Sbjct  416  EARGGLGWRIVLSSGPPGSIVGHVGDGNFHC---------ILLVNPDDAEELGRVKAFAE  466
+
+Query  382  AYETIMKKFGGRPHWAKAHNCTRKDFEKMY---PAFHKFCDIREKLDPTGMFLNSYL  435
+                      G           ++   +             ++  LDP G+     +
+Sbjct  467  QLGRRALALHGTCTGEHGIGMGKRQLLQEEVGAVGVETMRQLKAVLDPQGLMNPGKV  523
+
+
+
+
+>Chain A, D-2-hydroxyglutarate dehydrogenase, mitochondrial [Homo sapiens]
+Sequence ID: 6LPN_A Length: 481
+>Chain B, D-2-hydroxyglutarate dehydrogenase, mitochondrial [Homo sapiens]
+Sequence ID: 6LPN_B Length: 481
+>Chain A, D-2-hydroxyglutarate dehydrogenase, mitochondrial [Homo sapiens]
+Sequence ID: 6LPP_A Length: 481
+>Chain B, D-2-hydroxyglutarate dehydrogenase, mitochondrial [Homo sapiens]
+Sequence ID: 6LPP_B Length: 481
+>Chain A, D-2-hydroxyglutarate dehydrogenase, mitochondrial [Homo sapiens]
+Sequence ID: 6LPQ_A Length: 481
+>Chain B, D-2-hydroxyglutarate dehydrogenase, mitochondrial [Homo sapiens]
+Sequence ID: 6LPQ_B Length: 481
+>Chain A, D-2-hydroxyglutarate dehydrogenase, mitochondrial [Homo sapiens]
+Sequence ID: 6LPT_A Length: 481
+>Chain B, D-2-hydroxyglutarate dehydrogenase, mitochondrial [Homo sapiens]
+Sequence ID: 6LPT_B Length: 481
+>Chain A, D-2-hydroxyglutarate dehydrogenase, mitochondrial [Homo sapiens]
+Sequence ID: 6LPU_A Length: 481
+>Chain B, D-2-hydroxyglutarate dehydrogenase, mitochondrial [Homo sapiens]
+Sequence ID: 6LPU_B Length: 481
+>Chain A, D-2-hydroxyglutarate dehydrogenase, mitochondrial [Homo sapiens]
+Sequence ID: 6LPX_A Length: 481
+>Chain B, D-2-hydroxyglutarate dehydrogenase, mitochondrial [Homo sapiens]
+Sequence ID: 6LPX_B Length: 481 
+Range 1: 45 to 469
+
+Score:212 bits(540), Expect:2e-62, 
+Method:Composition-based stats., 
+Identities:72/442(16%), Positives:136/442(30%), Gaps:36/442(8%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  45   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  104
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  105  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  164
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  165  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  224
+
+Query  183  QCVPQFHLLET------SFPSTLKEVLDNLDSHLKKSEYFRFLWFPHSENVSIIYQDHTN  236
+             C P+   +         F   L+          +    F F+     + V       + 
+Sbjct  225  LCPPKPRAVNVAFLGCPGFAEVLQTFSTCKGMLGEILSAFEFMDAVCMQLVGRHLHLASP  284
+
+Query  237  KEPSSASNWFWDYAIGFYLLEFLLW-TSTYLPRLVGWINRFFFWLLFNCKKESSNLSHKI  295
+             + S                   L     +        +          K   +      
+Sbjct  285  VQESPFYVLIETSGSNAGHDAEKLGHFLEHALGSGLVTDGTMATDQRKVKMLWALRERIT  344
+
+Query  296  FSYECRFKQHVQDWAIPREKTKEALLELKAMLEAHPKVVAHYPVEVRFTRGDDILLSPCF  355
+             +       +  D ++P E+  + + +L+A L        H  V      GD  L     
+Sbjct  345  EALSRDGYVYKYDLSLPVERLYDIVTDLRARL---GPHAKH--VVGYGHLGDGNLHLN--  397
+
+Query  356  QRDSCYMNIIMYRPYGKDVPRLDYWLAYETIMKKFGGRPHWAKAHNCTRKD---FEKMYP  412
+                     +    +   +        YE    +  G           ++D   + K   
+Sbjct  398  ---------VTAEAFSPSLLAALEPHVYEWTAGQ-QGSVSAEHGVGFRKRDVLGYSKPPG  447
+
+Query  413  AFHKFCDIREKLDPTGMFLNSY  434
+            A      ++  LDP G+     
+Sbjct  448  ALQLMQQLKALLDPKGILNPYK  469
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase [Homo sapiens]
+Sequence ID: AAH36604.2 Length: 521
+Range 1: 91 to 515
+
+Score:211 bits(538), Expect:9e-62, 
+Method:Composition-based stats., 
+Identities:72/442(16%), Positives:136/442(30%), Gaps:36/442(8%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLET------SFPSTLKEVLDNLDSHLKKSEYFRFLWFPHSENVSIIYQDHTN  236
+             C P+   +         F   L+          +    F F+     + V       + 
+Sbjct  271  LCPPKPRAVNVAFLGCPGFAEVLQTFSTCKGMLGEILSAFEFMDAVCMQLVGRHLHLASP  330
+
+Query  237  KEPSSASNWFWDYAIGFYLLEFLLW-TSTYLPRLVGWINRFFFWLLFNCKKESSNLSHKI  295
+             + S                   L     +        +          K   +      
+Sbjct  331  VQESPFYVLIETSGSNAGHDAEKLGHFLEHALGSGLVTDGTMATDQRKVKMLWALRERIT  390
+
+Query  296  FSYECRFKQHVQDWAIPREKTKEALLELKAMLEAHPKVVAHYPVEVRFTRGDDILLSPCF  355
+             +       +  D ++P E+  + + +L+A L        H  V      GD  L     
+Sbjct  391  EALSRDGYVYKYDLSLPVERLYDIVTDLRARL---GPHAKH--VVGYGHLGDGNLHLN--  443
+
+Query  356  QRDSCYMNIIMYRPYGKDVPRLDYWLAYETIMKKFGGRPHWAKAHNCTRKD---FEKMYP  412
+                     +    +   +        YE    +  G           ++D   + K   
+Sbjct  444  ---------VTAEAFSPSLLAALEPHVYEWTAGQ-QGSVSAEHGVGFRKRDVLGYSKPPG  493
+
+Query  413  AFHKFCDIREKLDPTGMFLNSY  434
+            A      ++  LDP G+     
+Sbjct  494  ALQLMQQLKALLDPKGILNPYK  515
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform 1 precursor [Homo sapiens]
+Sequence ID: NP_689996.4 Length: 521
+>RecName: Full=D-2-hydroxyglutarate dehydrogenase, mitochondrial; Flags: Precursor [Homo sapiens]
+Sequence ID: Q8N465.3 Length: 521
+>D-2-hydroxyglutarate dehydrogenase, isoform CRA_a [Homo sapiens]
+Sequence ID: EAW71290.1 Length: 521 
+Range 1: 91 to 515
+
+Score:211 bits(537), Expect:1e-61, 
+Method:Composition-based stats., 
+Identities:72/442(16%), Positives:136/442(30%), Gaps:36/442(8%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLET------SFPSTLKEVLDNLDSHLKKSEYFRFLWFPHSENVSIIYQDHTN  236
+             C P+   +         F   L+          +    F F+     + V       + 
+Sbjct  271  LCPPKPRAVNVAFLGCPGFAEVLQTFSTCKGMLGEILSAFEFMDAVCMQLVGRHLHLASP  330
+
+Query  237  KEPSSASNWFWDYAIGFYLLEFLLW-TSTYLPRLVGWINRFFFWLLFNCKKESSNLSHKI  295
+             + S                   L     +        +          K   +      
+Sbjct  331  VQESPFYVLIETSGSNAGHDAEKLGHFLEHALGSGLVTDGTMATDQRKVKMLWALRERIT  390
+
+Query  296  FSYECRFKQHVQDWAIPREKTKEALLELKAMLEAHPKVVAHYPVEVRFTRGDDILLSPCF  355
+             +       +  D ++P E+  + + +L+A L        H  V      GD  L     
+Sbjct  391  EALSRDGYVYKYDLSLPVERLYDIVTDLRARL---GPHAKH--VVGYGHLGDGNLHLN--  443
+
+Query  356  QRDSCYMNIIMYRPYGKDVPRLDYWLAYETIMKKFGGRPHWAKAHNCTRKD---FEKMYP  412
+                     +    +   +        YE    +  G           ++D   + K   
+Sbjct  444  ---------VTAEAFSPSLLAALEPHVYEWTAGQ-QGSVSAEHGVGFRKRDVLGYSKPPG  493
+
+Query  413  AFHKFCDIREKLDPTGMFLNSY  434
+            A      ++  LDP G+     
+Sbjct  494  ALQLMQQLKALLDPKGILNPYK  515
+
+
+
+
+>probable D-lactate dehydrogenase, mitochondrial isoform X2 [Homo sapiens]
+Sequence ID: XP_024305943.1 Length: 547
+Range 1: 66 to 546
+
+Score:209 bits(531), Expect:2e-60, 
+Method:Composition-based stats., 
+Identities:73/500(15%), Positives:137/500(27%), Gaps:104/500(20%)
+
+Query  21   PEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDI--ACTDGFMIHMGKMNRVLQV  78
+            P+    P +V +V  + AL  +Q   +   G G        A   G  +++  M+R+L++
+Sbjct  66   PDAVVWPQNVEQVSRLAALCYRQGVPIIPFGTGTGLEGGVCAVQGGVCVNLTHMDRILEL  125
+
+Query  79   DKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGGVIGSGTHNTG-IKHGILA  137
+            ++E   V VE G+    L+  L   GL         D ++ G+  +G   T  +++G + 
+Sbjct  126  NQEDFSVVVEPGVTRKALNAHLRDSGLWFPVDPGA-DASLCGMAATGASGTNAVRYGTMR  184
+
+Query  138  TQVVALTLMKADGTVLECSESSNADVFQ------------------------------AA  167
+              V+ L ++  DG +L  +       F                                 
+Sbjct  185  DNVLNLEVVLPDGRLLHTAGRGRHFRFGFWPEIPHHTAWYSPCVSLGRRKSAAGYNLTGL  244
+
+Query  168  RVH-LGCLGVILTVTLQCVPQFHLLE---TSFPSTLKEVLDNLD--SHLKKSEYFRFLWF  221
+             V   G LG+I   TL+  P          +FPS    V   +             FL  
+Sbjct  245  FVGSEGTLGLITATTLRLHPAPEATVAATCAFPSVQAAVDSTVHILQAAVPVARIEFLDE  304
+
+Query  222  PHSENVSIIYQDHTNKEPSSASNWFWDYAIGFYLLEFLLWTSTYLPRLVG--------WI  273
+               +  +   + +    P+    +   +     L E L  T   + +             
+Sbjct  305  VMMDACNRYSKLNCLVAPT---LFLEFHGSQQALEEQLQRTEEIVQQNGASDFSWAKEAE  361
+
+Query  274  NRFFFWLLFNCKKESSNLSHKIFSYECRFKQHVQDWAIPREKTKEALLELKAMLEAHPK-  332
+             R   W          N  +   +     K +  D  +P  +  E +++ K  L A    
+Sbjct  362  ERSRLWT------ARHNAWYAALATRPGCKGYSTDVCVPISRLPEIVVQTKEDLNASGLT  415
+
+Query  333  VVAH----------------------------------YPVEVRFTRGDDILLSPCFQRD  358
+              AH                                   P  +    GD           
+Sbjct  416  GSAHPAAGERWGGVRADQSLGQQEARGGLGWRIVLSSGPPGSIVGHVGDGNFHC------  469
+
+Query  359  SCYMNIIMYRPYGKDVPRLDYWLAYETIMKKFGGRPHWAKAHNCTRKDFEKMY---PAFH  415
+               + ++      +      +            G           ++   +         
+Sbjct  470  ---ILLVNPDDAEELGRVKAFAEQLGRRALALHGTCTGEHGIGMGKRQLLQEEVGAVGVE  526
+
+Query  416  KFCDIREKLDPTGMFLNSYL  435
+                ++  LDP G+     +
+Sbjct  527  TMRQLKAVLDPQGLMNPGKV  546
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X3 [Homo sapiens]
+Sequence ID: XP_011510038.1 Length: 535
+Range 1: 91 to 529
+
+Score:206 bits(524), Expect:1e-59, 
+Method:Composition-based stats., 
+Identities:70/448(16%), Positives:134/448(29%), Gaps:34/448(7%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLET------SFPSTLKEVLDNLDSHLKKSEYFRFLWFPHSENVSIIYQDHTN  236
+             C P+   +         F   L+          +    F F+     + V       + 
+Sbjct  271  LCPPKPRAVNVAFLGCPGFAEVLQTFSTCKGMLGEILSAFEFMDAVCMQLVGRHLHLASP  330
+
+Query  237  KEPSSASNWFWDYAIGFYLLEFLLW-TSTYLPRLVGWINRFFFWLLFNCKKESSNLSHKI  295
+             + S                   L     +        +          K   +      
+Sbjct  331  VQESPFYVLIETSGSNAGHDAEKLGHFLEHALGSGLVTDGTMATDQRKVKMLWALRERIT  390
+
+Query  296  FSYECRFKQHVQDWAIPREKTKEALLELKAMLEAHPKVVAHYPVEVRFTRGDD------I  349
+             +       +  D ++P E+  + + +L+A L        H  V      G        +
+Sbjct  391  EALSRDGYVYKYDLSLPVERLYDIVTDLRARL---GPHAKH--VVGYGHLGAGDTDWKTV  445
+
+Query  350  LLSPCFQRDSCYMNIIMYRPYGKDVPRLDYWLAYETIMKKFGGRPHWAKAHNCTRKD---  406
+               P        +    + P          +           G           ++D   
+Sbjct  446  WTLPGDGNLHLNVTAEAFSPSLLAALEPHVYEWTAG----QQGSVSAEHGVGFRKRDVLG  501
+
+Query  407  FEKMYPAFHKFCDIREKLDPTGMFLNSY  434
+            + K   A      ++  LDP G+     
+Sbjct  502  YSKPPGALQLMQQLKALLDPKGILNPYK  529
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X2 [Homo sapiens]
+Sequence ID: XP_011510037.1 Length: 547
+Range 1: 91 to 541
+
+Score:201 bits(512), Expect:8e-58, 
+Method:Composition-based stats., 
+Identities:72/468(15%), Positives:136/468(29%), Gaps:62/468(13%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLET--------------------------------SFPSTLKEVLDNLDSHL  210
+             C P+   +                                   F   L+          
+Sbjct  271  LCPPKPRAVNVAFLVTCVPPACGPGSPRPARLPHPALRTPGCPGFAEVLQTFSTCKGMLG  330
+
+Query  211  KKSEYFRFLWFPHSENVSIIYQDHTNKEPSSASNWFWDYAIGFYLLEFLLW-TSTYLPRL  269
+            +    F F+     + V       +  + S                   L     +    
+Sbjct  331  EILSAFEFMDAVCMQLVGRHLHLASPVQESPFYVLIETSGSNAGHDAEKLGHFLEHALGS  390
+
+Query  270  VGWINRFFFWLLFNCKKESSNLSHKIFSYECRFKQHVQDWAIPREKTKEALLELKAMLEA  329
+                +          K   +       +       +  D ++P E+  + + +L+A L  
+Sbjct  391  GLVTDGTMATDQRKVKMLWALRERITEALSRDGYVYKYDLSLPVERLYDIVTDLRARL--  448
+
+Query  330  HPKVVAHYPVEVRFTRGDDILLSPCFQRDSCYMNIIMYRPYGKDVPRLDYWLAYETIMKK  389
+                  H  V      GD  L              +    +   +        YE    +
+Sbjct  449  -GPHAKH--VVGYGHLGDGNLHLN-----------VTAEAFSPSLLAALEPHVYEWTAGQ  494
+
+Query  390  FGGRPHWAKAHNCTRKD---FEKMYPAFHKFCDIREKLDPTGMFLNSY  434
+              G           ++D   + K   A      ++  LDP G+     
+Sbjct  495  -QGSVSAEHGVGFRKRDVLGYSKPPGALQLMQQLKALLDPKGILNPYK  541
+
+
+
+
+>D-lactate dehydrogenase [Homo sapiens]
+Sequence ID: AAM50322.1 Length: 486
+Range 1: 66 to 485
+
+Score:199 bits(505), Expect:3e-57, 
+Method:Composition-based stats., 
+Identities:66/438(15%), Positives:130/438(29%), Gaps:41/438(9%)
+
+Query  21   PEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDI--ACTDGFMIHMGKMNRVLQV  78
+            P+    P +V +V  + AL  +Q   +   G G        A   G  +++  M+R+L++
+Sbjct  66   PDAVVWPQNVEQVSRLAALCYRQGVPIIPFGTGTGLEGGVCAVQGGVCVNLTHMDRILEL  125
+
+Query  79   DKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGGVIGSGTHNTG-IKHGILA  137
+            ++E   V VE G+    L+  L   GL         D ++ G+  +G   T  +++G + 
+Sbjct  126  NQEDFSVVVEPGVTRKALNAHLRDSGLWFPVDPGA-DASLCGMAATGASGTNAVRYGTMR  184
+
+Query  138  TQVVALTLMKADGTVLEC---SESSNADVFQ----AARVH-LGCLGVILTVTLQCVPQFH  189
+              V+ L ++  DG +L                      V   G LG+I   TL+  P   
+Sbjct  185  DNVLNLEVVLPDGRLLHTAGRGRHFRKSAAGYNLTGLFVGSEGTLGLITATTLRLHPAPE  244
+
+Query  190  LLE---TSFPSTLKEVLDNLD--SHLKKSEYFRFLWFPHSENVSIIYQDHTNKEPSSASN  244
+                   +FPS    V   +             FL     +  +   + +      +   
+Sbjct  245  ATVAATCAFPSVQAAVDSTVHILQAAVPVARIEFLDEVMMDACNRYSKLNC---LVAPIL  301
+
+Query  245  WFWDYAIGFYLLEFLLWTSTYLPRLV--GWINRFFFWLLFNCKKESSNLSHKIFSYECRF  302
+            +   +     L E L  T   + +     +             +  +       +     
+Sbjct  302  FLEFHGSQQALEEQLQRTEEIVQQNGASDFSWAKEARSARGFGQHGTMPGTSALATRPGC  361
+
+Query  303  KQHVQDWAIPREKTKEALLELKAMLEAHPKVVAHYPVEVRFTRGDDILLSPCFQRDSCYM  362
+            K +  D  +P  +  E +++ K  L A           +    GD              +
+Sbjct  362  KGYSTDVCVPISRLPEIVVQTKEDLNASGLT-----GSIVGHVGDGNFHC---------I  407
+
+Query  363  NIIMYRPYGKDVPRLDYWLAYETIMKKFGGRPHWAKAHNCTRKDFEKMYPAFHKFCDI--  420
+             ++      +      +            G  +     +   K          +      
+Sbjct  408  LLVNPDDAEELGRVKAFAEQLGRRALALHGTCNGGSMASEMGKRHVLQGGGGRRGLGRPC  467
+
+Query  421  ---REKLDPTGMFLNSYL  435
+               +  LDP G+     +
+Sbjct  468  GTSKAVLDPQGLMNPGKV  485
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X4 [Homo sapiens]
+Sequence ID: XP_024308870.1 Length: 485
+Range 1: 25 to 479
+
+Score:196 bits(499), Expect:2e-56, 
+Method:Composition-based stats., 
+Identities:68/464(15%), Positives:130/464(28%), Gaps:60/464(12%)
+
+Query  22   EMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHMGKMNRVLQVD  79
+            ++  +P +  EV  +L    ++N  V   GG       +    D  ++   +MNRVL   
+Sbjct  25   KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILSTARMNRVLSFH  84
+
+Query  80   KEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHNTGI-KHGILA  137
+                 +  +AG +L +L   +++    +           +GG + +        ++G L 
+Sbjct  85   SVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGGLRFLRYGSLH  144
+
+Query  138  TQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTLQCVPQFHLLE  192
+              V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++ C P+   + 
+Sbjct  145  GTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSILCPPKPRAVN  204
+
+Query  193  T--------------------------------SFPSTLKEVLDNLDSHLKKSEYFRFLW  220
+                                              F   L+          +    F F+ 
+Sbjct  205  VAFLVTCVPPACGPGSPRPARLPHPALRTPGCPGFAEVLQTFSTCKGMLGEILSAFEFMD  264
+
+Query  221  FPHSENVSIIYQDHTNKEPSSASNWFWDYAIGFYLLEFLLW-TSTYLPRLVGWINRFFFW  279
+                + V       +  + S                   L     +        +     
+Sbjct  265  AVCMQLVGRHLHLASPVQESPFYVLIETSGSNAGHDAEKLGHFLEHALGSGLVTDGTMAT  324
+
+Query  280  LLFNCKKESSNLSHKIFSYECRFKQHVQDWAIPREKTKEALLELKAMLEAHPKVVAHYPV  339
+                 K   +       +       +  D ++P E+  + + +L+A L        H  V
+Sbjct  325  DQRKVKMLWALRERITEALSRDGYVYKYDLSLPVERLYDIVTDLRARL---GPHAKH--V  379
+
+Query  340  EVRFTRGDD------ILLSPCFQRDSCYMNIIMYRPYGKDVPRLDYWLAYETIMKKFGGR  393
+                  G        +   P        +    + P          +           G 
+Sbjct  380  VGYGHLGAGDTDWKTVWTLPGDGNLHLNVTAEAFSPSLLAALEPHVYEWTAG----QQGS  435
+
+Query  394  PHWAKAHNCTRKD---FEKMYPAFHKFCDIREKLDPTGMFLNSY  434
+                      ++D   + K   A      ++  LDP G+     
+Sbjct  436  VSAEHGVGFRKRDVLGYSKPPGALQLMQQLKALLDPKGILNPYK  479
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X1 [Homo sapiens]
+Sequence ID: XP_011510036.1 Length: 561
+Range 1: 91 to 555
+
+Score:196 bits(499), Expect:9e-56, 
+Method:Composition-based stats., 
+Identities:70/474(15%), Positives:134/474(28%), Gaps:60/474(12%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLET--------------------------------SFPSTLKEVLDNLDSHL  210
+             C P+   +                                   F   L+          
+Sbjct  271  LCPPKPRAVNVAFLVTCVPPACGPGSPRPARLPHPALRTPGCPGFAEVLQTFSTCKGMLG  330
+
+Query  211  KKSEYFRFLWFPHSENVSIIYQDHTNKEPSSASNWFWDYAIGFYLLEFLLW-TSTYLPRL  269
+            +    F F+     + V       +  + S                   L     +    
+Sbjct  331  EILSAFEFMDAVCMQLVGRHLHLASPVQESPFYVLIETSGSNAGHDAEKLGHFLEHALGS  390
+
+Query  270  VGWINRFFFWLLFNCKKESSNLSHKIFSYECRFKQHVQDWAIPREKTKEALLELKAMLEA  329
+                +          K   +       +       +  D ++P E+  + + +L+A L  
+Sbjct  391  GLVTDGTMATDQRKVKMLWALRERITEALSRDGYVYKYDLSLPVERLYDIVTDLRARL--  448
+
+Query  330  HPKVVAHYPVEVRFTRGDD------ILLSPCFQRDSCYMNIIMYRPYGKDVPRLDYWLAY  383
+                  H  V      G        +   P        +    + P          +   
+Sbjct  449  -GPHAKH--VVGYGHLGAGDTDWKTVWTLPGDGNLHLNVTAEAFSPSLLAALEPHVYEWT  505
+
+Query  384  ETIMKKFGGRPHWAKAHNCTRKD---FEKMYPAFHKFCDIREKLDPTGMFLNSY  434
+                    G           ++D   + K   A      ++  LDP G+     
+Sbjct  506  AG----QQGSVSAEHGVGFRKRDVLGYSKPPGALQLMQQLKALLDPKGILNPYK  555
+
+
+
+
+>probable D-lactate dehydrogenase, mitochondrial isoform X6 [Homo sapiens]
+Sequence ID: XP_024305947.1 Length: 504
+Range 1: 121 to 503
+
+Score:194 bits(492), Expect:3e-55, 
+Method:Composition-based stats., 
+Identities:60/407(15%), Positives:117/407(28%), Gaps:49/407(12%)
+
+Query  54   HSPSDIACTDGFMIHMGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAV  113
+               S      G  +++  M+R+L++++E   V VE G+    L+  L   GL        
+Sbjct  121  SGLSTCPNQGGVCVNLTHMDRILELNQEDFSVVVEPGVTRKALNAHLRDSGLWFPVDPGA  180
+
+Query  114  SDVTVGGVIGSGTHNTG-IKHGILATQVVALTLMKADGTVLEC---SESSNADVFQ----  165
+             D ++ G+  +G   T  +++G +   V+ L ++  DG +L                   
+Sbjct  181  -DASLCGMAATGASGTNAVRYGTMRDNVLNLEVVLPDGRLLHTAGRGRHFRKSAAGYNLT  239
+
+Query  166  AARVH-LGCLGVILTVTLQCVPQFHLLE---TSFPSTLKEVLDNLD--SHLKKSEYFRFL  219
+               V   G LG+I   TL+  P          +FPS    V   +             FL
+Sbjct  240  GLFVGSEGTLGLITATTLRLHPAPEATVAATCAFPSVQAAVDSTVHILQAAVPVARIEFL  299
+
+Query  220  WFPHSENVSIIYQDHTNKEPSSASNWFWDYAIGFYLLEFLLWTSTYLPRLVG--------  271
+                 +  +   + +    P+    +   +     L E L  T   + +           
+Sbjct  300  DEVMMDACNRYSKLNCLVAPT---LFLEFHGSQQALEEQLQRTEEIVQQNGASDFSWAKE  356
+
+Query  272  WINRFFFWLLFNCKKESSNLSHKIFSYECRFKQHVQDWAIPREKTKEALLELKAMLEAHP  331
+               R   W          N  +   +     K +  D  +P  +  E +++ K  L A  
+Sbjct  357  AEERSRLWT------ARHNAWYAALATRPGCKGYSTDVCVPISRLPEIVVQTKEDLNASG  410
+
+Query  332  KVVAHYPVEVRFTRGDDILLSPCFQRDSCYMNIIMYRPYGKDVPRLDYWLAYETIMKKFG  391
+                     +    GD              + ++      +      +            
+Sbjct  411  LT-----GSIVGHVGDGNFHC---------ILLVNPDDAEELGRVKAFAEQLGRRALALH  456
+
+Query  392  GRPHWAKAHNCTRKDFEKMY---PAFHKFCDIREKLDPTGMFLNSYL  435
+            G           ++   +             ++  LDP G+     +
+Sbjct  457  GTCTGEHGIGMGKRQLLQEEVGAVGVETMRQLKAVLDPQGLMNPGKV  503
+
+
+
+
+>probable D-lactate dehydrogenase, mitochondrial isoform X4 [Homo sapiens]
+Sequence ID: XP_024305945.1 Length: 527
+Range 1: 121 to 526
+
+Score:185 bits(470), Expect:6e-52, 
+Method:Composition-based stats., 
+Identities:61/430(14%), Positives:119/430(27%), Gaps:72/430(16%)
+
+Query  54   HSPSDIACTDGFMIHMGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAV  113
+               S      G  +++  M+R+L++++E   V VE G+    L+  L   GL        
+Sbjct  121  SGLSTCPNQGGVCVNLTHMDRILELNQEDFSVVVEPGVTRKALNAHLRDSGLWFPVDPGA  180
+
+Query  114  SDVTVGGVIGSGTHNTG-IKHGILATQVVALTLMKADGTVLECSESSNADVFQ-------  165
+             D ++ G+  +G   T  +++G +   V+ L ++  DG +L  +       F        
+Sbjct  181  -DASLCGMAATGASGTNAVRYGTMRDNVLNLEVVLPDGRLLHTAGRGRHFRFGFWPEIPH  239
+
+Query  166  -----------------------AARVH-LGCLGVILTVTLQCVPQFHLLE---TSFPST  198
+                                      V   G LG+I   TL+  P          +FPS 
+Sbjct  240  HTAWYSPCVSLGRRKSAAGYNLTGLFVGSEGTLGLITATTLRLHPAPEATVAATCAFPSV  299
+
+Query  199  LKEVLDNLD--SHLKKSEYFRFLWFPHSENVSIIYQDHTNKEPSSASNWFWDYAIGFYLL  256
+               V   +             FL     +  +   + +    P+    +   +     L 
+Sbjct  300  QAAVDSTVHILQAAVPVARIEFLDEVMMDACNRYSKLNCLVAPT---LFLEFHGSQQALE  356
+
+Query  257  EFLLWTSTYLPRLVG--------WINRFFFWLLFNCKKESSNLSHKIFSYECRFKQHVQD  308
+            E L  T   + +              R   W          N  +   +     K +  D
+Sbjct  357  EQLQRTEEIVQQNGASDFSWAKEAEERSRLWT------ARHNAWYAALATRPGCKGYSTD  410
+
+Query  309  WAIPREKTKEALLELKAMLEAHPKVVAHYPVEVRFTRGDDILLSPCFQRDSCYMNIIMYR  368
+              +P  +  E +++ K  L A           +    GD              + ++   
+Sbjct  411  VCVPISRLPEIVVQTKEDLNASGLT-----GSIVGHVGDGNFHC---------ILLVNPD  456
+
+Query  369  PYGKDVPRLDYWLAYETIMKKFGGRPHWAKAHNCTRKDFEKMYPA---FHKFCDIREKLD  425
+               +      +            G           ++   +             ++  LD
+Sbjct  457  DAEELGRVKAFAEQLGRRALALHGTCTGEHGIGMGKRQLLQEEVGAVGVETMRQLKAVLD  516
+
+Query  426  PTGMFLNSYL  435
+            P G+     +
+Sbjct  517  PQGLMNPGKV  526
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform 2 [Homo sapiens]
+Sequence ID: NP_001274178.1 Length: 387
+Range 1: 1 to 381
+
+Score:178 bits(452), Expect:1e-50, 
+Method:Composition-based stats., 
+Identities:65/402(16%), Positives:120/402(29%), Gaps:38/402(9%)
+
+Query  50   VGGGHSPSDIACTDGFMIHMGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSN  109
+            + GG  P      D  ++   +MNRVL        +  +AG +L +L   +++    +  
+Sbjct  1    MVGGSVP----VFDEIILSTARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPL  56
+
+Query  110  LGAVSDVT-VGGVIGSGTHNTGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ--  165
+                     +GG + +        ++G L   V+ L ++ ADGTVL+C  S   D     
+Sbjct  57   DLGAKGSCHIGGNVATNAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYD  116
+
+Query  166  --AARVH-LGCLGVILTVTLQCVPQFHLLET------SFPSTLKEVLDNLDSHLKKSEYF  216
+                 +   G LG+I TV++ C P+   +         F   L+          +    F
+Sbjct  117  LKQLFIGSEGTLGIITTVSILCPPKPRAVNVAFLGCPGFAEVLQTFSTCKGMLGEILSAF  176
+
+Query  217  RFLWFPHSENVSIIYQDHTNKEPSSASNWFWDYAIGFYLLEFLLW-TSTYLPRLVGWINR  275
+             F+     + V       +  + S                   L     +        + 
+Sbjct  177  EFMDAVCMQLVGRHLHLASPVQESPFYVLIETSGSNAGHDAEKLGHFLEHALGSGLVTDG  236
+
+Query  276  FFFWLLFNCKKESSNLSHKIFSYECRFKQHVQDWAIPREKTKEALLELKAMLEAHPKVVA  335
+                     K   +       +       +  D ++P E+  + + +L+A L        
+Sbjct  237  TMATDQRKVKMLWALRERITEALSRDGYVYKYDLSLPVERLYDIVTDLRARL---GPHAK  293
+
+Query  336  HYPVEVRFTRGDDILLSPCFQRDSCYMNIIMYRPYGKDVPRLDYWLAYETIMKKFGGRPH  395
+            H  V      GD  L              +    +   +        YE    +  G   
+Sbjct  294  H--VVGYGHLGDGNLHLN-----------VTAEAFSPSLLAALEPHVYEWTAGQ-QGSVS  339
+
+Query  396  WAKAHNCTRKD---FEKMYPAFHKFCDIREKLDPTGMFLNSY  434
+                    ++D   + K   A      ++  LDP G+     
+Sbjct  340  AEHGVGFRKRDVLGYSKPPGALQLMQQLKALLDPKGILNPYK  381
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAG52828.1 Length: 387
+Range 1: 1 to 381
+
+Score:178 bits(451), Expect:2e-50, 
+Method:Composition-based stats., 
+Identities:65/402(16%), Positives:120/402(29%), Gaps:38/402(9%)
+
+Query  50   VGGGHSPSDIACTDGFMIHMGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSN  109
+            + GG  P      D  ++   +MNRVL        +  +AG +L +L   +++    +  
+Sbjct  1    MVGGSVP----VFDEIILSTARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPL  56
+
+Query  110  LGAVSDVT-VGGVIGSGTHNTGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ--  165
+                     +GG + +        ++G L   V+ L ++ ADGTVL+C  S   D     
+Sbjct  57   DLGAKGSCHIGGNVATNAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYD  116
+
+Query  166  --AARVH-LGCLGVILTVTLQCVPQFHLLET------SFPSTLKEVLDNLDSHLKKSEYF  216
+                 +   G LG+I TV++ C P+   +         F   L+          +    F
+Sbjct  117  LKQLFIGSEGTLGIITTVSILCPPKPRAVNVAFLGCPGFAEVLQTFSTCKGMLGEILSAF  176
+
+Query  217  RFLWFPHSENVSIIYQDHTNKEPSSASNWFWDYAIGFYLLEFLLW-TSTYLPRLVGWINR  275
+             F+     + V       +  + S                   L     +        + 
+Sbjct  177  EFMDAVCMQLVGRHLHLASPVQESPFYILIETSGSNAGHDAEKLGHFLEHALGSGLVTDG  236
+
+Query  276  FFFWLLFNCKKESSNLSHKIFSYECRFKQHVQDWAIPREKTKEALLELKAMLEAHPKVVA  335
+                     K   +       +       +  D ++P E+  + + +L+A L        
+Sbjct  237  TMATDQRKVKMLWALRERITEALSRDGYVYKYDLSLPVERLYDIVTDLRARL---GPHAK  293
+
+Query  336  HYPVEVRFTRGDDILLSPCFQRDSCYMNIIMYRPYGKDVPRLDYWLAYETIMKKFGGRPH  395
+            H  V      GD  L              +    +   +        YE    +  G   
+Sbjct  294  H--VVGYGHLGDGNLHLN-----------VTAEAFSPSLLAALEPHVYEWTAGQ-QGSVS  339
+
+Query  396  WAKAHNCTRKD---FEKMYPAFHKFCDIREKLDPTGMFLNSY  434
+                    ++D   + K   A      ++  LDP G+     
+Sbjct  340  AEHGVGFRKRDVLGYSKPPGALQLMQQLKALLDPKGILNPYK  381
+
+
+
+
+>probable D-lactate dehydrogenase, mitochondrial isoform X3 [Homo sapiens]
+Sequence ID: XP_024305944.1 Length: 544
+Range 1: 121 to 543
+
+Score:182 bits(461), Expect:2e-50, 
+Method:Composition-based stats., 
+Identities:63/442(14%), Positives:120/442(27%), Gaps:79/442(17%)
+
+Query  54   HSPSDIACTDGFMIHMGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAV  113
+               S      G  +++  M+R+L++++E   V VE G+    L+  L   GL        
+Sbjct  121  SGLSTCPNQGGVCVNLTHMDRILELNQEDFSVVVEPGVTRKALNAHLRDSGLWFPVDPGA  180
+
+Query  114  SDVTVGGVIGSGTHNTG-IKHGILATQVVALTLMKADGTVLEC---SESSNADVFQ----  165
+             D ++ G+  +G   T  +++G +   V+ L ++  DG +L                   
+Sbjct  181  -DASLCGMAATGASGTNAVRYGTMRDNVLNLEVVLPDGRLLHTAGRGRHFRKSAAGYNLT  239
+
+Query  166  AARVH-LGCLGVILTVTLQCVPQFHLLE---TSFPSTLKEVLDNLD--SHLKKSEYFRFL  219
+               V   G LG+I   TL+  P          +FPS    V   +             FL
+Sbjct  240  GLFVGSEGTLGLITATTLRLHPAPEATVAATCAFPSVQAAVDSTVHILQAAVPVARIEFL  299
+
+Query  220  WFPHSENVSIIYQDHTNKEPSSASNWFWDYAIGFYLLEFLLWTSTYLPRLVG--------  271
+                 +  +   + +    P+    +   +     L E L  T   + +           
+Sbjct  300  DEVMMDACNRYSKLNCLVAPT---LFLEFHGSQQALEEQLQRTEEIVQQNGASDFSWAKE  356
+
+Query  272  WINRFFFWLLFNCKKESSNLSHKIFSYECRFKQHVQDWAIPREKTKEALLELKAMLEAHP  331
+               R   W          N  +   +     K +  D  +P  +  E +++ K  L A  
+Sbjct  357  AEERSRLWT------ARHNAWYAALATRPGCKGYSTDVCVPISRLPEIVVQTKEDLNASG  410
+
+Query  332  K-VVAH----------------------------------YPVEVRFTRGDDILLSPCFQ  356
+                AH                                   P  +    GD         
+Sbjct  411  LTGSAHPAAGERWGGVRADQSLGQQEARGGLGWRIVLSSGPPGSIVGHVGDGNFHC----  466
+
+Query  357  RDSCYMNIIMYRPYGKDVPRLDYWLAYETIMKKFGGRPHWAKAHNCTRKDFEKMY---PA  413
+                 + ++      +      +            G           ++   +       
+Sbjct  467  -----ILLVNPDDAEELGRVKAFAEQLGRRALALHGTCTGEHGIGMGKRQLLQEEVGAVG  521
+
+Query  414  FHKFCDIREKLDPTGMFLNSYL  435
+                  ++  LDP G+     +
+Sbjct  522  VETMRQLKAVLDPQGLMNPGKV  543
+
+
+
+
+>alkylglycerone phosphate synthase, isoform CRA_a [Homo sapiens]
+Sequence ID: EAX11057.1 Length: 536
+Range 1: 78 to 532
+
+Score:177 bits(449), Expect:8e-49, 
+Method:Composition-based stats., 
+Identities:73/464(16%), Positives:134/464(28%), Gaps:55/464(11%)
+
+Query  15   KTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIAC------TDGFMIH  68
+              +   P++   PT   +V +++ LA + N  +  +GGG S S               + 
+Sbjct  78   GMFERIPDIVLWPTCHDDVVKIVNLACKYNLCIIPIGGGTSVSYGLMCPADETRTIISLD  137
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLG-AVSDVTVGGVIGSGTH  127
+              +MNR+L VD+      VEAGI   +L  QL + G    +   ++   TVGG + +   
+Sbjct  138  TSQMNRILWVDENNLTAHVEAGITGQELERQLKESGYCTGHEPDSLEFSTVGGWVSTRAS  197
+
+Query  128  NT-GIKHGILATQVVALTLMKADGTVLEC--SES--SNADVFQAARVHLGCLGVILTVTL  182
+                  +G +   VV + ++   G + +        +  D+        G LGVI   T+
+Sbjct  198  GMKKNIYGNIEDLVVHIKMVTPRGIIEKSCQGPRMSTGPDIHHFIMGSEGTLGVITEATI  257
+
+Query  183  QCVP---QFHLLETSFPSTLK--EVLDNLDSHLKKSEYFRFLW-----FPHSENVSIIYQ  232
+            +  P          +FP+  +    L  +          R +      F H+    +   
+Sbjct  258  KIRPVPEYQKYGSVAFPNFEQGVACLREIAKQRCAPASIRLMDNKQFQFGHALKPQVSSI  317
+
+Query  233  DHTNKEPSSASNWFWDYAIGFYLLEFLLWTSTYLPRLVGWINRFFF--------------  278
+              +  +                 L             V    +  +              
+Sbjct  318  FTSFLDGLKKFYITKFKGFDPNQLSVATLLFEGDREKVLQHEKQVYDIAAKFGGLAAGED  377
+
+Query  279  WLLFNCKKESSNLSHKIFSYECRFKQHVQDWAIPREKTKEALLELKAML----EAHPKVV  334
+                           +  + E        + + P ++  +    +K  +    +      
+Sbjct  378  NGQRGYLLTYVIAYIRDLALEYYVLGESFETSAPWDRVVDLCRNVKERITRECKEKGVQF  437
+
+Query  335  AHY---PVEVRFTRGDDILLSPCFQRDSCYMNIIMYRPYGKDVPRLDYWLAYETIMKKFG  391
+            A +    V   +  G  I     F     Y  I                 A    +   G
+Sbjct  438  APFSTCRVTQTYDAGACIYFYFAFN----YRGI-----SDPLTVFEQTEAAAREEILANG  488
+
+Query  392  GRPHWAKAHNCTRKDFEKMY---PAFHKFCDIREKLDPTGMFLN  432
+            G           RK + K       F     ++E +DP  +F N
+Sbjct  489  GSLSHHHGVGKLRKQWLKESISDVGFGMLKSVKEYVDPNNIFGN  532
+
+
+
+
+>alkyldihydroxyacetonephosphate synthase, peroxisomal isoform X1 [Homo sapiens]
+Sequence ID: XP_011510343.1 Length: 568
+>alkyldihydroxyacetonephosphate synthase, peroxisomal isoform X1 [Homo sapiens]
+Sequence ID: XP_011510344.1 Length: 568
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAH12290.1 Length: 568 
+Range 1: 110 to 564
+
+Score:177 bits(449), Expect:1e-48, 
+Method:Composition-based stats., 
+Identities:73/464(16%), Positives:134/464(28%), Gaps:55/464(11%)
+
+Query  15   KTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIAC------TDGFMIH  68
+              +   P++   PT   +V +++ LA + N  +  +GGG S S               + 
+Sbjct  110  GMFERIPDIVLWPTCHDDVVKIVNLACKYNLCIIPIGGGTSVSYGLMCPADETRTIISLD  169
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLG-AVSDVTVGGVIGSGTH  127
+              +MNR+L VD+      VEAGI   +L  QL + G    +   ++   TVGG + +   
+Sbjct  170  TSQMNRILWVDENNLTAHVEAGITGQELERQLKESGYCTGHEPDSLEFSTVGGWVSTRAS  229
+
+Query  128  NT-GIKHGILATQVVALTLMKADGTVLEC--SES--SNADVFQAARVHLGCLGVILTVTL  182
+                  +G +   VV + ++   G + +        +  D+        G LGVI   T+
+Sbjct  230  GMKKNIYGNIEDLVVHIKMVTPRGIIEKSCQGPRMSTGPDIHHFIMGSEGTLGVITEATI  289
+
+Query  183  QCVP---QFHLLETSFPSTLK--EVLDNLDSHLKKSEYFRFLW-----FPHSENVSIIYQ  232
+            +  P          +FP+  +    L  +          R +      F H+    +   
+Sbjct  290  KIRPVPEYQKYGSVAFPNFEQGVACLREIAKQRCAPASIRLMDNKQFQFGHALKPQVSSI  349
+
+Query  233  DHTNKEPSSASNWFWDYAIGFYLLEFLLWTSTYLPRLVGWINRFFF--------------  278
+              +  +                 L             V    +  +              
+Sbjct  350  FTSFLDGLKKFYITKFKGFDPNQLSVATLLFEGDREKVLQHEKQVYDIAAKFGGLAAGED  409
+
+Query  279  WLLFNCKKESSNLSHKIFSYECRFKQHVQDWAIPREKTKEALLELKAML----EAHPKVV  334
+                           +  + E        + + P ++  +    +K  +    +      
+Sbjct  410  NGQRGYLLTYVIAYIRDLALEYYVLGESFETSAPWDRVVDLCRNVKERITRECKEKGVQF  469
+
+Query  335  AHY---PVEVRFTRGDDILLSPCFQRDSCYMNIIMYRPYGKDVPRLDYWLAYETIMKKFG  391
+            A +    V   +  G  I     F     Y  I                 A    +   G
+Sbjct  470  APFSTCRVTQTYDAGACIYFYFAFN----YRGI-----SDPLTVFEQTEAAAREEILANG  520
+
+Query  392  GRPHWAKAHNCTRKDFEKMY---PAFHKFCDIREKLDPTGMFLN  432
+            G           RK + K       F     ++E +DP  +F N
+Sbjct  521  GSLSHHHGVGKLRKQWLKESISDVGFGMLKSVKEYVDPNNIFGN  564
+
+
+
+
+>alkyldihydroxyacetonephosphate synthase, peroxisomal precursor [Homo sapiens]
+Sequence ID: NP_003650.1 Length: 658
+>RecName: Full=Alkyldihydroxyacetonephosphate synthase, peroxisomal; Short=Alkyl-DHAP synthase; AltName: Full=Aging-associated gene 5 protein; AltName: Full=Alkylglycerone-phosphate synthase; Flags: Precursor [Homo sapiens]
+Sequence ID: O00116.1 Length: 658
+>Alkylglycerone phosphate synthase [Homo sapiens]
+Sequence ID: AAI41821.1 Length: 658
+>aging-associated protein 5 [Homo sapiens]
+Sequence ID: AAT11152.1 Length: 658
+>alkyl-dihydroxyacetonephosphate synthase precursor [Homo sapiens]
+Sequence ID: CAA70591.1 Length: 658
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAG36924.1 Length: 658 
+Range 1: 200 to 654
+
+Score:177 bits(449), Expect:4e-48, 
+Method:Composition-based stats., 
+Identities:73/464(16%), Positives:134/464(28%), Gaps:55/464(11%)
+
+Query  15   KTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIAC------TDGFMIH  68
+              +   P++   PT   +V +++ LA + N  +  +GGG S S               + 
+Sbjct  200  GMFERIPDIVLWPTCHDDVVKIVNLACKYNLCIIPIGGGTSVSYGLMCPADETRTIISLD  259
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLG-AVSDVTVGGVIGSGTH  127
+              +MNR+L VD+      VEAGI   +L  QL + G    +   ++   TVGG + +   
+Sbjct  260  TSQMNRILWVDENNLTAHVEAGITGQELERQLKESGYCTGHEPDSLEFSTVGGWVSTRAS  319
+
+Query  128  NT-GIKHGILATQVVALTLMKADGTVLEC--SES--SNADVFQAARVHLGCLGVILTVTL  182
+                  +G +   VV + ++   G + +        +  D+        G LGVI   T+
+Sbjct  320  GMKKNIYGNIEDLVVHIKMVTPRGIIEKSCQGPRMSTGPDIHHFIMGSEGTLGVITEATI  379
+
+Query  183  QCVP---QFHLLETSFPSTLK--EVLDNLDSHLKKSEYFRFLW-----FPHSENVSIIYQ  232
+            +  P          +FP+  +    L  +          R +      F H+    +   
+Sbjct  380  KIRPVPEYQKYGSVAFPNFEQGVACLREIAKQRCAPASIRLMDNKQFQFGHALKPQVSSI  439
+
+Query  233  DHTNKEPSSASNWFWDYAIGFYLLEFLLWTSTYLPRLVGWINRFFF--------------  278
+              +  +                 L             V    +  +              
+Sbjct  440  FTSFLDGLKKFYITKFKGFDPNQLSVATLLFEGDREKVLQHEKQVYDIAAKFGGLAAGED  499
+
+Query  279  WLLFNCKKESSNLSHKIFSYECRFKQHVQDWAIPREKTKEALLELKAML----EAHPKVV  334
+                           +  + E        + + P ++  +    +K  +    +      
+Sbjct  500  NGQRGYLLTYVIAYIRDLALEYYVLGESFETSAPWDRVVDLCRNVKERITRECKEKGVQF  559
+
+Query  335  AHY---PVEVRFTRGDDILLSPCFQRDSCYMNIIMYRPYGKDVPRLDYWLAYETIMKKFG  391
+            A +    V   +  G  I     F     Y  I                 A    +   G
+Sbjct  560  APFSTCRVTQTYDAGACIYFYFAFN----YRGI-----SDPLTVFEQTEAAAREEILANG  610
+
+Query  392  GRPHWAKAHNCTRKDFEKMY---PAFHKFCDIREKLDPTGMFLN  432
+            G           RK + K       F     ++E +DP  +F N
+Sbjct  611  GSLSHHHGVGKLRKQWLKESISDVGFGMLKSVKEYVDPNNIFGN  654
+
+
+
+
+>alkylglycerone phosphate synthase, isoform CRA_b [Homo sapiens]
+Sequence ID: EAX11058.1 Length: 684
+Range 1: 226 to 680
+
+Score:177 bits(449), Expect:6e-48, 
+Method:Composition-based stats., 
+Identities:73/464(16%), Positives:134/464(28%), Gaps:55/464(11%)
+
+Query  15   KTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIAC------TDGFMIH  68
+              +   P++   PT   +V +++ LA + N  +  +GGG S S               + 
+Sbjct  226  GMFERIPDIVLWPTCHDDVVKIVNLACKYNLCIIPIGGGTSVSYGLMCPADETRTIISLD  285
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLG-AVSDVTVGGVIGSGTH  127
+              +MNR+L VD+      VEAGI   +L  QL + G    +   ++   TVGG + +   
+Sbjct  286  TSQMNRILWVDENNLTAHVEAGITGQELERQLKESGYCTGHEPDSLEFSTVGGWVSTRAS  345
+
+Query  128  NT-GIKHGILATQVVALTLMKADGTVLEC--SES--SNADVFQAARVHLGCLGVILTVTL  182
+                  +G +   VV + ++   G + +        +  D+        G LGVI   T+
+Sbjct  346  GMKKNIYGNIEDLVVHIKMVTPRGIIEKSCQGPRMSTGPDIHHFIMGSEGTLGVITEATI  405
+
+Query  183  QCVP---QFHLLETSFPSTLK--EVLDNLDSHLKKSEYFRFLW-----FPHSENVSIIYQ  232
+            +  P          +FP+  +    L  +          R +      F H+    +   
+Sbjct  406  KIRPVPEYQKYGSVAFPNFEQGVACLREIAKQRCAPASIRLMDNKQFQFGHALKPQVSSI  465
+
+Query  233  DHTNKEPSSASNWFWDYAIGFYLLEFLLWTSTYLPRLVGWINRFFF--------------  278
+              +  +                 L             V    +  +              
+Sbjct  466  FTSFLDGLKKFYITKFKGFDPNQLSVATLLFEGDREKVLQHEKQVYDIAAKFGGLAAGED  525
+
+Query  279  WLLFNCKKESSNLSHKIFSYECRFKQHVQDWAIPREKTKEALLELKAML----EAHPKVV  334
+                           +  + E        + + P ++  +    +K  +    +      
+Sbjct  526  NGQRGYLLTYVIAYIRDLALEYYVLGESFETSAPWDRVVDLCRNVKERITRECKEKGVQF  585
+
+Query  335  AHY---PVEVRFTRGDDILLSPCFQRDSCYMNIIMYRPYGKDVPRLDYWLAYETIMKKFG  391
+            A +    V   +  G  I     F     Y  I                 A    +   G
+Sbjct  586  APFSTCRVTQTYDAGACIYFYFAFN----YRGI-----SDPLTVFEQTEAAAREEILANG  636
+
+Query  392  GRPHWAKAHNCTRKDFEKMY---PAFHKFCDIREKLDPTGMFLN  432
+            G           RK + K       F     ++E +DP  +F N
+Sbjct  637  GSLSHHHGVGKLRKQWLKESISDVGFGMLKSVKEYVDPNNIFGN  680
+
+
+
+
+>probable D-lactate dehydrogenase, mitochondrial isoform X1 [Homo sapiens]
+Sequence ID: XP_024305942.1 Length: 567
+Range 1: 121 to 566
+
+Score:173 bits(439), Expect:3e-47, 
+Method:Composition-based stats., 
+Identities:64/465(14%), Positives:122/465(26%), Gaps:102/465(21%)
+
+Query  54   HSPSDIACTDGFMIHMGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAV  113
+               S      G  +++  M+R+L++++E   V VE G+    L+  L   GL        
+Sbjct  121  SGLSTCPNQGGVCVNLTHMDRILELNQEDFSVVVEPGVTRKALNAHLRDSGLWFPVDPGA  180
+
+Query  114  SDVTVGGVIGSGTHNTG-IKHGILATQVVALTLMKADGTVLECSESSNADVFQ-------  165
+             D ++ G+  +G   T  +++G +   V+ L ++  DG +L  +       F        
+Sbjct  181  -DASLCGMAATGASGTNAVRYGTMRDNVLNLEVVLPDGRLLHTAGRGRHFRFGFWPEIPH  239
+
+Query  166  -----------------------AARVH-LGCLGVILTVTLQCVPQFHLLE---TSFPST  198
+                                      V   G LG+I   TL+  P          +FPS 
+Sbjct  240  HTAWYSPCVSLGRRKSAAGYNLTGLFVGSEGTLGLITATTLRLHPAPEATVAATCAFPSV  299
+
+Query  199  LKEVLDNLD--SHLKKSEYFRFLWFPHSENVSIIYQDHTNKEPSSASNWFWDYAIGFYLL  256
+               V   +             FL     +  +   + +    P+    +   +     L 
+Sbjct  300  QAAVDSTVHILQAAVPVARIEFLDEVMMDACNRYSKLNCLVAPT---LFLEFHGSQQALE  356
+
+Query  257  EFLLWTSTYLPRLVG--------WINRFFFWLLFNCKKESSNLSHKIFSYECRFKQHVQD  308
+            E L  T   + +              R   W          N  +   +     K +  D
+Sbjct  357  EQLQRTEEIVQQNGASDFSWAKEAEERSRLWT------ARHNAWYAALATRPGCKGYSTD  410
+
+Query  309  WAIPREKTKEALLELKAMLEAHPK-VVAH-------------------------------  336
+              +P  +  E +++ K  L A      AH                               
+Sbjct  411  VCVPISRLPEIVVQTKEDLNASGLTGSAHPAAGERWGGVRADQSLGQQEARGGLGWRIVL  470
+
+Query  337  ---YPVEVRFTRGDDILLSPCFQRDSCYMNIIMYRPYGKDVPRLDYWLAYETIMKKFGGR  393
+                P  +    GD              + ++      +      +            G 
+Sbjct  471  SSGPPGSIVGHVGDGNFHC---------ILLVNPDDAEELGRVKAFAEQLGRRALALHGT  521
+
+Query  394  PHWAKAHNCTRKDFEKMY---PAFHKFCDIREKLDPTGMFLNSYL  435
+                      ++   +             ++  LDP G+     +
+Sbjct  522  CTGEHGIGMGKRQLLQEEVGAVGVETMRQLKAVLDPQGLMNPGKV  566
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X8 [Homo sapiens]
+Sequence ID: XP_016860317.1 Length: 445
+Range 1: 91 to 437
+
+Score:169 bits(429), Expect:1e-46, 
+Method:Composition-based stats., 
+Identities:60/352(17%), Positives:115/352(32%), Gaps:21/352(5%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLET------SFPSTLKEVLDNLDSHLKKSEYFRFLWFPHSENVSIIYQDHTN  236
+             C P+   +         F   L+          +    F F+     + V       + 
+Sbjct  271  LCPPKPRAVNVAFLGCPGFAEVLQTFSTCKGMLGEILSAFEFMDAVCMQLVGRHLHLASP  330
+
+Query  237  KEPSSASNWFWDYAIGFYLLEFLLW-TSTYLPRLVGWINRFFFWLLFNCKKESSNLSHKI  295
+             + S                   L     +        +          K   +      
+Sbjct  331  VQESPFYVLIETSGSNAGHDAEKLGHFLEHALGSGLVTDGTMATDQRKVKMLWALRERIT  390
+
+Query  296  FSYECRFKQHVQDWAIPREKTKEALLELKAMLEAHPKVVAHYPVEVRFTRGD  347
+             +       +  D ++P E+  + + +L+A L        H  V      G+
+Sbjct  391  EALSRDGYVYKYDLSLPVERLYDIVTDLRARL---GPHAKH--VVGYGHLGN  437
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X5 [Homo sapiens]
+Sequence ID: XP_011510039.1 Length: 471
+Range 1: 91 to 463
+
+Score:160 bits(404), Expect:5e-43, 
+Method:Composition-based stats., 
+Identities:60/378(16%), Positives:115/378(30%), Gaps:47/378(12%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLET--------------------------------SFPSTLKEVLDNLDSHL  210
+             C P+   +                                   F   L+          
+Sbjct  271  LCPPKPRAVNVAFLVTCVPPACGPGSPRPARLPHPALRTPGCPGFAEVLQTFSTCKGMLG  330
+
+Query  211  KKSEYFRFLWFPHSENVSIIYQDHTNKEPSSASNWFWDYAIGFYLLEFLLW-TSTYLPRL  269
+            +    F F+     + V       +  + S                   L     +    
+Sbjct  331  EILSAFEFMDAVCMQLVGRHLHLASPVQESPFYVLIETSGSNAGHDAEKLGHFLEHALGS  390
+
+Query  270  VGWINRFFFWLLFNCKKESSNLSHKIFSYECRFKQHVQDWAIPREKTKEALLELKAMLEA  329
+                +          K   +       +       +  D ++P E+  + + +L+A L  
+Sbjct  391  GLVTDGTMATDQRKVKMLWALRERITEALSRDGYVYKYDLSLPVERLYDIVTDLRARL--  448
+
+Query  330  HPKVVAHYPVEVRFTRGD  347
+                  H  V      G+
+Sbjct  449  -GPHAKH--VVGYGHLGN  463
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X11 [Homo sapiens]
+Sequence ID: XP_011510047.1 Length: 428
+Range 1: 91 to 398
+
+Score:150 bits(379), Expect:9e-40, 
+Method:Composition-based stats., 
+Identities:50/308(16%), Positives:94/308(30%), Gaps:42/308(13%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLET--------------------------------SFPSTLKEVLDNLDSHL  210
+             C P+   +                                   F   L+          
+Sbjct  271  LCPPKPRAVNVAFLVTCVPPACGPGSPRPARLPHPALRTPGCPGFAEVLQTFSTCKGMLG  330
+
+Query  211  KKSEYFRFLWFPHSENVSIIYQDHTNKEPSSASNWFWDYAIGFYLLEFLLW-TSTYLPRL  269
+            +    F F+     + V       +  + S                   L     +    
+Sbjct  331  EILSAFEFMDAVCMQLVGRHLHLASPVQESPFYVLIETSGSNAGHDAEKLGHFLEHALGS  390
+
+Query  270  VGWINRFF  277
+                +   
+Sbjct  391  GLVTDGTM  398
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X16 [Homo sapiens]
+Sequence ID: XP_011510052.1 Length: 414
+Range 1: 91 to 398
+
+Score:149 bits(377), Expect:1e-39, 
+Method:Composition-based stats., 
+Identities:50/308(16%), Positives:94/308(30%), Gaps:42/308(13%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLET--------------------------------SFPSTLKEVLDNLDSHL  210
+             C P+   +                                   F   L+          
+Sbjct  271  LCPPKPRAVNVAFLVTCVPPACGPGSPRPARLPHPALRTPGCPGFAEVLQTFSTCKGMLG  330
+
+Query  211  KKSEYFRFLWFPHSENVSIIYQDHTNKEPSSASNWFWDYAIGFYLLEFLLW-TSTYLPRL  269
+            +    F F+     + V       +  + S                   L     +    
+Sbjct  331  EILSAFEFMDAVCMQLVGRHLHLASPVQESPFYVLIETSGSNAGHDAEKLGHFLEHALGS  390
+
+Query  270  VGWINRFF  277
+                +   
+Sbjct  391  GLVTDGTM  398
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X18 [Homo sapiens]
+Sequence ID: XP_011510054.1 Length: 386
+Range 1: 91 to 283
+
+Score:149 bits(375), Expect:1e-39, 
+Method:Composition-based stats., 
+Identities:44/193(23%), Positives:81/193(41%), Gaps:9/193(4%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLETSF  195
+             C P+   +  +F
+Sbjct  271  LCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X15 [Homo sapiens]
+Sequence ID: XP_011510051.1 Length: 415
+Range 1: 91 to 283
+
+Score:149 bits(375), Expect:3e-39, 
+Method:Composition-based stats., 
+Identities:44/193(23%), Positives:81/193(41%), Gaps:9/193(4%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLETSF  195
+             C P+   +  +F
+Sbjct  271  LCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X14 [Homo sapiens]
+Sequence ID: XP_016860319.1 Length: 418
+Range 1: 91 to 381
+
+Score:149 bits(375), Expect:3e-39, 
+Method:Composition-based stats., 
+Identities:50/291(17%), Positives:92/291(31%), Gaps:41/291(14%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLET--------------------------------SFPSTLKEVLDNLDSHL  210
+             C P+   +                                   F   L+          
+Sbjct  271  LCPPKPRAVNVAFLVTCVPPACGPGSPRPARLPHPALRTPGCPGFAEVLQTFSTCKGMLG  330
+
+Query  211  KKSEYFRFLWFPHSENVSIIYQDHTNKEPSSASNWFWDYAIGFYLLEFLLW  261
+            +    F F+     + V       +  + S                   L 
+Sbjct  331  EILSAFEFMDAVCMQLVGRHLHLASPVQESPFYVLIETSGSNAGHDAEKLG  381
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X25 [Homo sapiens]
+Sequence ID: XP_016860321.1 Length: 309
+Range 1: 91 to 291
+
+Score:145 bits(367), Expect:4e-39, 
+Method:Composition-based stats., 
+Identities:45/201(22%), Positives:82/201(40%), Gaps:9/201(4%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLETSFPSTLKEVL  203
+             C P+   +  +F      V 
+Sbjct  271  LCPPKPRAVNVAFLGWSAVVQ  291
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X13 [Homo sapiens]
+Sequence ID: XP_011510049.1 Length: 419
+Range 1: 91 to 283
+
+Score:148 bits(374), Expect:4e-39, 
+Method:Composition-based stats., 
+Identities:44/193(23%), Positives:81/193(41%), Gaps:9/193(4%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLETSF  195
+             C P+   +  +F
+Sbjct  271  LCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X9 [Homo sapiens]
+Sequence ID: XP_011510043.1 Length: 441
+Range 1: 91 to 283
+
+Score:149 bits(375), Expect:5e-39, 
+Method:Composition-based stats., 
+Identities:44/193(23%), Positives:81/193(41%), Gaps:9/193(4%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLETSF  195
+             C P+   +  +F
+Sbjct  271  LCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X24 [Homo sapiens]
+Sequence ID: XP_011510062.1 Length: 319
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAG65528.1 Length: 319 
+Range 1: 91 to 283
+
+Score:145 bits(367), Expect:5e-39, 
+Method:Composition-based stats., 
+Identities:44/193(23%), Positives:81/193(41%), Gaps:9/193(4%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLETSF  195
+             C P+   +  +F
+Sbjct  271  LCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X12 [Homo sapiens]
+Sequence ID: XP_011510048.1 Length: 423
+Range 1: 91 to 350
+
+Score:148 bits(373), Expect:6e-39, 
+Method:Composition-based stats., 
+Identities:55/262(21%), Positives:96/262(36%), Gaps:11/262(4%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLETSFPSTLKEVLDNLDSHLKKSEYFRFLWFPHSENVSIIYQDHTNKEPSSA  242
+             C P+   +  +F   L        S    +    FL   +   +S I      K  S A
+Sbjct  271  LCPPKPRAVNVAFLGLLHSQPLLRFSWDLPAAP--FLLHLNRAGLSSISSSGVQKSHSPA  328
+
+Query  243  SNWFWDYAIGFYLLEFLLWTST  264
+                    +   L    L    
+Sbjct  329  VFAREVAGLAHQLPVRCLELPE  350
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAG65519.1 Length: 325
+Range 1: 91 to 283
+
+Score:145 bits(367), Expect:6e-39, 
+Method:Composition-based stats., 
+Identities:44/193(23%), Positives:81/193(41%), Gaps:9/193(4%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLETSF  195
+             C P+   +  +F
+Sbjct  271  LCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X19 [Homo sapiens]
+Sequence ID: XP_011510055.1 Length: 378
+Range 1: 91 to 283
+
+Score:147 bits(370), Expect:7e-39, 
+Method:Composition-based stats., 
+Identities:44/193(23%), Positives:81/193(41%), Gaps:9/193(4%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLETSF  195
+             C P+   +  +F
+Sbjct  271  LCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X22 [Homo sapiens]
+Sequence ID: XP_011510060.1 Length: 325
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X22 [Homo sapiens]
+Sequence ID: XP_011510061.1 Length: 325 
+Range 1: 91 to 283
+
+Score:145 bits(367), Expect:7e-39, 
+Method:Composition-based stats., 
+Identities:44/193(23%), Positives:81/193(41%), Gaps:9/193(4%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLETSF  195
+             C P+   +  +F
+Sbjct  271  LCPPKPRAVNVAF  283
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAG52404.1 Length: 320
+Range 1: 91 to 310
+
+Score:145 bits(366), Expect:9e-39, 
+Method:Composition-based stats., 
+Identities:47/222(21%), Positives:87/222(39%), Gaps:11/222(4%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLETSFPSTLKEVLDNLDSHLKKSEYFRFLWFPHS  224
+             C P+   +  +F        +  D    +  + R    P  
+Sbjct  271  LCPPKPRAVNVAF--LDAVGPEGKDHRGAEPGWLRVQVRPLP  310
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X21 [Homo sapiens]
+Sequence ID: XP_011510059.1 Length: 364
+Range 1: 91 to 283
+
+Score:146 bits(368), Expect:1e-38, 
+Method:Composition-based stats., 
+Identities:44/193(23%), Positives:81/193(41%), Gaps:9/193(4%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLETSF  195
+             C P+   +  +F
+Sbjct  271  LCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X17 [Homo sapiens]
+Sequence ID: XP_011510053.1 Length: 414
+Range 1: 91 to 283
+
+Score:147 bits(370), Expect:1e-38, 
+Method:Composition-based stats., 
+Identities:44/193(23%), Positives:81/193(41%), Gaps:9/193(4%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLETSF  195
+             C P+   +  +F
+Sbjct  271  LCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, isoform CRA_b [Homo sapiens]
+Sequence ID: EAW71291.1 Length: 320
+Range 1: 91 to 310
+
+Score:144 bits(364), Expect:1e-38, 
+Method:Composition-based stats., 
+Identities:47/222(21%), Positives:87/222(39%), Gaps:11/222(4%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLETSFPSTLKEVLDNLDSHLKKSEYFRFLWFPHS  224
+             C P+   +  +F        +  D    +  + R    P  
+Sbjct  271  LCPPKPRAVNVAF--LDAVGPEGKDHRGAEPGWLRVQVRPLP  310
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X23 [Homo sapiens]
+Sequence ID: XP_024308871.1 Length: 321
+Range 1: 91 to 283
+
+Score:144 bits(364), Expect:1e-38, 
+Method:Composition-based stats., 
+Identities:44/193(23%), Positives:81/193(41%), Gaps:9/193(4%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLETSF  195
+             C P+   +  +F
+Sbjct  271  LCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X7 [Homo sapiens]
+Sequence ID: XP_016860316.1 Length: 449
+Range 1: 91 to 283
+
+Score:147 bits(372), Expect:1e-38, 
+Method:Composition-based stats., 
+Identities:44/193(23%), Positives:81/193(41%), Gaps:9/193(4%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLETSF  195
+             C P+   +  +F
+Sbjct  271  LCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X10 [Homo sapiens]
+Sequence ID: XP_011510045.1 Length: 438
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X10 [Homo sapiens]
+Sequence ID: XP_011510046.1 Length: 438
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X10 [Homo sapiens]
+Sequence ID: XP_016860318.1 Length: 438 
+Range 1: 91 to 283
+
+Score:147 bits(371), Expect:2e-38, 
+Method:Composition-based stats., 
+Identities:44/193(23%), Positives:81/193(41%), Gaps:9/193(4%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLETSF  195
+             C P+   +  +F
+Sbjct  271  LCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X6 [Homo sapiens]
+Sequence ID: XP_011510040.1 Length: 460
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X6 [Homo sapiens]
+Sequence ID: XP_011510041.1 Length: 460
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X6 [Homo sapiens]
+Sequence ID: XP_011510042.1 Length: 460 
+Range 1: 91 to 283
+
+Score:147 bits(372), Expect:2e-38, 
+Method:Composition-based stats., 
+Identities:44/193(23%), Positives:81/193(41%), Gaps:9/193(4%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLETSF  195
+             C P+   +  +F
+Sbjct  271  LCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X20 [Homo sapiens]
+Sequence ID: XP_011510058.1 Length: 370
+Range 1: 91 to 283
+
+Score:145 bits(367), Expect:2e-38, 
+Method:Composition-based stats., 
+Identities:44/193(23%), Positives:81/193(41%), Gaps:9/193(4%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL        +  +AG +L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  210
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  211  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  270
+
+Query  183  QCVPQFHLLETSF  195
+             C P+   +  +F
+Sbjct  271  LCPPKPRAVNVAF  283
+
+
+
+
+Range 2: 285 to 364
+
+Score:47.4 bits(111), Expect:1e-04, 
+Method:Composition-based stats., 
+Identities:13/92(14%), Positives:23/92(25%), Gaps:15/92(16%)
+
+Query  346  GDDILLSPCFQRDSCYMNIIMYRPYGKDVPRLDYWLAYETIMKKFGGRPHWAKAHNCTRK  405
+            GD  L              +    +   +        YE    +  G           ++
+Sbjct  285  GDGNLHLN-----------VTAEAFSPSLLAALEPHVYEWTAGQ-QGSVSAEHGVGFRKR  332
+
+Query  406  D---FEKMYPAFHKFCDIREKLDPTGMFLNSY  434
+            D   + K   A      ++  LDP G+     
+Sbjct  333  DVLGYSKPPGALQLMQQLKALLDPKGILNPYK  364
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform 3 [Homo sapiens]
+Sequence ID: NP_001339753.1 Length: 334
+Range 1: 4 to 328
+
+Score:144 bits(362), Expect:4e-38, 
+Method:Composition-based stats., 
+Identities:55/342(16%), Positives:99/342(28%), Gaps:33/342(9%)
+
+Query  109  NLGAVSDVTVGGVIGSGTHNTGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ--  165
+            +LGA     +GG + +        ++G L   V+ L ++ ADGTVL+C  S   D     
+Sbjct  4    DLGAKGSCHIGGNVATNAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYD  63
+
+Query  166  --AARVH-LGCLGVILTVTLQCVPQFHLLET------SFPSTLKEVLDNLDSHLKKSEYF  216
+                 +   G LG+I TV++ C P+   +         F   L+          +    F
+Sbjct  64   LKQLFIGSEGTLGIITTVSILCPPKPRAVNVAFLGCPGFAEVLQTFSTCKGMLGEILSAF  123
+
+Query  217  RFLWFPHSENVSIIYQDHTNKEPSSASNWFWDYAIGFYLLEFLLW-TSTYLPRLVGWINR  275
+             F+     + V       +  + S                   L     +        + 
+Sbjct  124  EFMDAVCMQLVGRHLHLASPVQESPFYVLIETSGSNAGHDAEKLGHFLEHALGSGLVTDG  183
+
+Query  276  FFFWLLFNCKKESSNLSHKIFSYECRFKQHVQDWAIPREKTKEALLELKAMLEAHPKVVA  335
+                     K   +       +       +  D ++P E+  + + +L+A L        
+Sbjct  184  TMATDQRKVKMLWALRERITEALSRDGYVYKYDLSLPVERLYDIVTDLRARL---GPHAK  240
+
+Query  336  HYPVEVRFTRGDDILLSPCFQRDSCYMNIIMYRPYGKDVPRLDYWLAYETIMKKFGGRPH  395
+            H  V      GD  L              +    +   +        YE    +  G   
+Sbjct  241  H--VVGYGHLGDGNLHLN-----------VTAEAFSPSLLAALEPHVYEWTAGQ-QGSVS  286
+
+Query  396  WAKAHNCTRKD---FEKMYPAFHKFCDIREKLDPTGMFLNSY  434
+                    ++D   + K   A      ++  LDP G+     
+Sbjct  287  AEHGVGFRKRDVLGYSKPPGALQLMQQLKALLDPKGILNPYK  328
+
+
+
+
+>alkyldihydroxyacetonephosphate synthase, peroxisomal isoform X2 [Homo sapiens]
+Sequence ID: XP_011510345.1 Length: 413
+Range 1: 11 to 409
+
+Score:144 bits(363), Expect:1e-37, 
+Method:Composition-based stats., 
+Identities:61/408(15%), Positives:112/408(27%), Gaps:49/408(12%)
+
+Query  65   FMIHMGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLG-AVSDVTVGGVIG  123
+              +   +MNR+L VD+      VEAGI   +L  QL + G    +   ++   TVGG + 
+Sbjct  11   ISLDTSQMNRILWVDENNLTAHVEAGITGQELERQLKESGYCTGHEPDSLEFSTVGGWVS  70
+
+Query  124  SGTHNT-GIKHGILATQVVALTLMKADGTVLEC--SES--SNADVFQAARVHLGCLGVIL  178
+            +         +G +   VV + ++   G + +        +  D+        G LGVI 
+Sbjct  71   TRASGMKKNIYGNIEDLVVHIKMVTPRGIIEKSCQGPRMSTGPDIHHFIMGSEGTLGVIT  130
+
+Query  179  TVTLQCVP---QFHLLETSFPSTLK--EVLDNLDSHLKKSEYFRFLW-----FPHSENVS  228
+              T++  P          +FP+  +    L  +          R +      F H+    
+Sbjct  131  EATIKIRPVPEYQKYGSVAFPNFEQGVACLREIAKQRCAPASIRLMDNKQFQFGHALKPQ  190
+
+Query  229  IIYQDHTNKEPSSASNWFWDYAIGFYLLEFLLWTSTYLPRLVGWINRFFF----------  278
+            +     +  +                 L             V    +  +          
+Sbjct  191  VSSIFTSFLDGLKKFYITKFKGFDPNQLSVATLLFEGDREKVLQHEKQVYDIAAKFGGLA  250
+
+Query  279  ----WLLFNCKKESSNLSHKIFSYECRFKQHVQDWAIPREKTKEALLELKAML----EAH  330
+                               +  + E        + + P ++  +    +K  +    +  
+Sbjct  251  AGEDNGQRGYLLTYVIAYIRDLALEYYVLGESFETSAPWDRVVDLCRNVKERITRECKEK  310
+
+Query  331  PKVVAHY---PVEVRFTRGDDILLSPCFQRDSCYMNIIMYRPYGKDVPRLDYWLAYETIM  387
+                A +    V   +  G  I     F     Y  I                 A    +
+Sbjct  311  GVQFAPFSTCRVTQTYDAGACIYFYFAFN----YRGI-----SDPLTVFEQTEAAAREEI  361
+
+Query  388  KKFGGRPHWAKAHNCTRKDFEKMY---PAFHKFCDIREKLDPTGMFLN  432
+               GG           RK + K       F     ++E +DP  +F N
+Sbjct  362  LANGGSLSHHHGVGKLRKQWLKESISDVGFGMLKSVKEYVDPNNIFGN  409
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAH14611.1 Length: 320
+Range 1: 70 to 294
+
+Score:140 bits(352), Expect:9e-37, 
+Method:Composition-based stats., 
+Identities:49/225(22%), Positives:86/225(38%), Gaps:17/225(7%)
+
+Query  15   KTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIAC--TDGF--MI--H  68
+              +   P++   PT   +V +++ LA + N  +  +GGG S S       D    +I   
+Sbjct  70   GMFERIPDVVLWPTCHDDVVKIVNLACKYNLCIIPIGGGTSVSYGLMCPADETRTIISSD  129
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLG-AVSDVTVGGVIGSGTH  127
+              +MNR+L VD+      VEAGI   +L  QL + G    +   ++   TVGG + +   
+Sbjct  130  TSQMNRILWVDENNLTAHVEAGITGQELERQLKESGYCTGHEPDSLEFSTVGGWVSTRAS  189
+
+Query  128  NT-GIKHGILATQVVALTLMKADGTVLEC--SES--SNADVFQAARVHLGCLGVILTVTL  182
+                  +G +   VV + ++   G + +        +  D+        G LGVI   T+
+Sbjct  190  GMKKNIYGNIEDLVVHIKMVTPRGIIEKSCQGPRMSTGPDIHHFTMGSEGTLGVITEATI  249
+
+Query  183  QCVP---QFHLLETSFPSTLK--EVLDNLDSHLKKSEYFRFLWFP  222
+            +  P          +FP+  +    L  +          R +   
+Sbjct  250  KIRPVPEYQKYGSVAFPNFEQGVACLREIAKQRCAPASIRLMDNK  294
+
+
+
+
+>D2HGDH protein [Homo sapiens]
+Sequence ID: AAH71598.1 Length: 307
+Range 1: 91 to 277
+
+Score:133 bits(335), Expect:2e-34, 
+Method:Composition-based stats., 
+Identities:44/193(23%), Positives:80/193(41%), Gaps:15/193(7%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHM  69
+            +W +T     ++  +P +  EV  +L    ++N  V   GG       +    D  ++  
+Sbjct  91   DWLRTLRGCSKVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILST  150
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVT-VGGVIGSGTHN  128
+             +MNRVL          V  G++L +L   +++    +           +GG + +    
+Sbjct  151  ARMNRVLSFHS------VSGGLVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAGG  204
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLECSESSNADVFQ----AARVH-LGCLGVILTVTL  182
+                ++G L   V+ L ++ ADGTVL+C  S   D          +   G LG+I TV++
+Sbjct  205  LRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSI  264
+
+Query  183  QCVPQFHLLETSF  195
+             C P+   +  +F
+Sbjct  265  LCPPKPRAVNVAF  277
+
+
+
+
+>unknown, partial [Homo sapiens]
+Sequence ID: AAY14986.1 Length: 332
+Range 1: 200 to 331
+
+Score:103 bits(256), Expect:3e-23, 
+Method:Composition-based stats., 
+Identities:32/132(24%), Positives:55/132(41%), Gaps:8/132(6%)
+
+Query  15   KTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIAC------TDGFMIH  68
+              +   P++   PT   +V +++ LA + N  +  +GGG S S               + 
+Sbjct  200  GMFERIPDIVLWPTCHDDVVKIVNLACKYNLCIIPIGGGTSVSYGLMCPADETRTIISLD  259
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLG-AVSDVTVGGVIGSGTH  127
+              +MNR+L VD+      VEAGI   +L  QL + G    +   ++   TVGG + +   
+Sbjct  260  TSQMNRILWVDENNLTAHVEAGITGQELERQLKESGYCTGHEPDSLEFSTVGGWVSTRAS  319
+
+Query  128  NT-GIKHGILAT  138
+                  +G +  
+Sbjct  320  GMKKNIYGNIED  331
+
+
+
+
+>putative protein product of Nbla03646 [Homo sapiens]
+Sequence ID: BAE45721.1 Length: 427
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAH14186.1 Length: 427
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAH14798.1 Length: 427 
+Range 1: 26 to 396
+
+Score:101 bits(251), Expect:3e-22, 
+Method:Composition-based stats., 
+Identities:73/376(19%), Positives:144/376(38%), Gaps:38/376(10%)
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGG-VIGSGTH  127
+            M  +  +L+VD +K+ V VE  + +  +   L   G  L  L  + D+TVGG ++G+G  
+Sbjct  26   MINLMDILEVDTKKQIVRVEPLVTMGQVTALLTSIGWTLPVLPELDDLTVGGLIMGTGIE  85
+
+Query  128  NTGIKHGILATQVVALTLMKADGTVLECSESSNADVFQAARVHLGCLGVILTVTLQCVPQ  187
+            ++  K+G+      A  L+ ADG+ + C+ S N+D+F A     G LG ++   ++ +P 
+Sbjct  86   SSSHKYGLFQHICTAYELVLADGSFVRCTPSENSDLFYAVPWSCGTLGFLVAAEIRIIPA  145
+
+Query  188  FHLLETSFPST----LKEVLDNLDSHLKKSEYFRFLWFPHSENVSIIYQDHTNKEPSSAS  243
+               ++  F               +S  +++ +   L +   E V +        EPS  +
+Sbjct  146  KKYVKLRFEPVRGLEAICAKFTHESQRQENHFVEGLLYSLDEAVIMTGVMTDEAEPSKLN  205
+
+Query  244  NW-----FWDYAIGFYLLEFLLWTSTYLP-----------------RLVGWINRFFFWLL  281
+            +       W +      L+       Y+P                  ++ + N   F  L
+Sbjct  206  SIGNYYKPWFFKHVENYLKTNREGLEYIPLRHYYHRHTRSIFWELQDIIPFGNNPIFRYL  265
+
+Query  282  FNC---KKESSNLSHKIFSYECRFKQH--VQDWAIPREKTKEALLELKAMLEAHPKVVAH  336
+            F      K S     +  +    ++QH  VQD  +P +  ++AL   +  +  +P  +  
+Sbjct  266  FGWMVPPKISLLKLTQGETLRKLYEQHHVVQDMLVPMKCLQQALHTFQNDIHVYPIWLCP  325
+
+Query  337  YPVEVRFTRGDDILLSPCFQRDSCYMNIIMY-RPYGKDVPRLDYWLAYETIMKKFGGRPH  395
+            + +         ++     + +  Y++I  Y  P  K           E  ++   G   
+Sbjct  326  FIL----PSQPGLVHPKGNEAE-LYIDIGAYGEPRVKHFEARSCMRQLEKFVRSVHGFQM  380
+
+Query  396  WAKAHNCTRKDFEKMY  411
+                    R++F +M+
+Sbjct  381  LYADCYMNREEFWEMF  396
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAH14790.1 Length: 475
+Range 1: 74 to 444
+
+Score:101 bits(252), Expect:4e-22, 
+Method:Composition-based stats., 
+Identities:74/376(20%), Positives:144/376(38%), Gaps:38/376(10%)
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGG-VIGSGTH  127
+            M  +  +L+VD +K+ V VE  + +  +   L   G  L  L  + D+TVGG ++G+G  
+Sbjct  74   MINLMDILEVDTKKQIVRVEPLVTMGQVTALLTSIGWTLPVLPELDDLTVGGLIMGTGIE  133
+
+Query  128  NTGIKHGILATQVVALTLMKADGTVLECSESSNADVFQAARVHLGCLGVILTVTLQCVPQ  187
+            ++  K+G+      A  L+ ADG+ + C+ S N+D+F A     G LG ++   ++ +P 
+Sbjct  134  SSSHKYGLFQHICTAYELVLADGSFVRCTPSENSDLFYAVPWSCGTLGFLVAAEIRIIPA  193
+
+Query  188  FHLLETSFPST----LKEVLDNLDSHLKKSEYFRFLWFPHSENVSIIYQDHTNKEPSSAS  243
+               ++  F               +S  +++ +   L +   E V +        EPS  S
+Sbjct  194  KKYVKLRFEPVRGLEAICAKFTHESQRQENHFVEGLLYSLDEAVIMTGVMTDEAEPSKLS  253
+
+Query  244  NW-----FWDYAIGFYLLEFLLWTSTYLP-----------------RLVGWINRFFFWLL  281
+            +       W +      L+       Y+P                  ++ + N   F  L
+Sbjct  254  SIGNYYKPWFFKHVENYLKTNREGLEYIPLRHYYHRHTRSIFWELQDIIPFGNNPIFRYL  313
+
+Query  282  FNC---KKESSNLSHKIFSYECRFKQH--VQDWAIPREKTKEALLELKAMLEAHPKVVAH  336
+            F      K S     +  +    ++QH  VQD  +P +  ++AL   +  +  +P  +  
+Sbjct  314  FGWMVPPKISLLKLTQGETLRKLYEQHHVVQDMLVPMKCLQQALHTFQNDIHVYPIWLCP  373
+
+Query  337  YPVEVRFTRGDDILLSPCFQRDSCYMNIIMY-RPYGKDVPRLDYWLAYETIMKKFGGRPH  395
+            + +         ++     + +  Y++I  Y  P  K           E  ++   G   
+Sbjct  374  FIL----PSQPGLVHPKGNEAE-LYIDIGAYGEPRVKHFEARSCMRQLEKFVRSVHGFQM  428
+
+Query  396  WAKAHNCTRKDFEKMY  411
+                    R++F +M+
+Sbjct  429  LYADCYMNREEFWEMF  444
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAH13803.1 Length: 475
+Range 1: 74 to 444
+
+Score:101 bits(251), Expect:4e-22, 
+Method:Composition-based stats., 
+Identities:73/376(19%), Positives:144/376(38%), Gaps:38/376(10%)
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGG-VIGSGTH  127
+            M  +  +L+VD +K+ V VE  + +  +   L   G  L  L  + D+TVGG ++G+G  
+Sbjct  74   MINLMDILEVDTKKQIVRVEPLVTMGQVTALLTSIGWTLPVLPELDDLTVGGLIMGTGIE  133
+
+Query  128  NTGIKHGILATQVVALTLMKADGTVLECSESSNADVFQAARVHLGCLGVILTVTLQCVPQ  187
+            ++  K+G+      A  L+ ADG+ + C+ S N+D+F A     G LG ++   ++ +P 
+Sbjct  134  SSSHKYGLFQHICTAYELVLADGSFVRCTPSENSDLFYAVPWSCGTLGFLVAAEIRIIPA  193
+
+Query  188  FHLLETSFPST----LKEVLDNLDSHLKKSEYFRFLWFPHSENVSIIYQDHTNKEPSSAS  243
+               ++  F               +S  +++ +   L +   E V +        EPS  +
+Sbjct  194  KKYVKLRFEPVRGLEAICAKFTHESQRQENHFVEGLLYSLDEAVIMTGVMTDEAEPSKLN  253
+
+Query  244  NW-----FWDYAIGFYLLEFLLWTSTYLP-----------------RLVGWINRFFFWLL  281
+            +       W +      L+       Y+P                  ++ + N   F  L
+Sbjct  254  SIGNYYKPWFFKHVENYLKTNREGLEYIPLRHYYHRHTRSIFWELQDIIPFGNNPIFRYL  313
+
+Query  282  FNC---KKESSNLSHKIFSYECRFKQH--VQDWAIPREKTKEALLELKAMLEAHPKVVAH  336
+            F      K S     +  +    ++QH  VQD  +P +  ++AL   +  +  +P  +  
+Sbjct  314  FGWMVPPKISLLKLTQGETLRKLYEQHHVVQDMLVPMKCLQQALHTFQNDIHVYPIWLCP  373
+
+Query  337  YPVEVRFTRGDDILLSPCFQRDSCYMNIIMY-RPYGKDVPRLDYWLAYETIMKKFGGRPH  395
+            + +         ++     + +  Y++I  Y  P  K           E  ++   G   
+Sbjct  374  FIL----PSQPGLVHPKGNEAE-LYIDIGAYGEPRVKHFEARSCMRQLEKFVRSVHGFQM  428
+
+Query  396  WAKAHNCTRKDFEKMY  411
+                    R++F +M+
+Sbjct  429  LYADCYMNREEFWEMF  444
+
+
+
+
+>delta(24)-sterol reductase precursor [Homo sapiens]
+Sequence ID: NP_055577.1 Length: 516
+>RecName: Full=Delta(24)-sterol reductase; AltName: Full=24-dehydrocholesterol reductase; AltName: Full=3-beta-hydroxysterol Delta-24-reductase; AltName: Full=Diminuto/dwarf1 homolog; AltName: Full=Seladin-1; Flags: Precursor [Homo sapiens]
+Sequence ID: Q15392.2 Length: 516
+>seladin-1 [Homo sapiens]
+Sequence ID: AAG17288.1 Length: 516
+>24-dehydrocholesterol reductase [Homo sapiens]
+Sequence ID: AAH04375.1 Length: 516
+>24-dehydrocholesterol reductase [Homo sapiens]
+Sequence ID: AAH11669.1 Length: 516 
+Range 1: 115 to 485
+
+Score:101 bits(251), Expect:7e-22, 
+Method:Composition-based stats., 
+Identities:73/376(19%), Positives:144/376(38%), Gaps:38/376(10%)
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGG-VIGSGTH  127
+            M  +  +L+VD +K+ V VE  + +  +   L   G  L  L  + D+TVGG ++G+G  
+Sbjct  115  MINLMDILEVDTKKQIVRVEPLVTMGQVTALLTSIGWTLPVLPELDDLTVGGLIMGTGIE  174
+
+Query  128  NTGIKHGILATQVVALTLMKADGTVLECSESSNADVFQAARVHLGCLGVILTVTLQCVPQ  187
+            ++  K+G+      A  L+ ADG+ + C+ S N+D+F A     G LG ++   ++ +P 
+Sbjct  175  SSSHKYGLFQHICTAYELVLADGSFVRCTPSENSDLFYAVPWSCGTLGFLVAAEIRIIPA  234
+
+Query  188  FHLLETSFPST----LKEVLDNLDSHLKKSEYFRFLWFPHSENVSIIYQDHTNKEPSSAS  243
+               ++  F               +S  +++ +   L +   E V +        EPS  +
+Sbjct  235  KKYVKLRFEPVRGLEAICAKFTHESQRQENHFVEGLLYSLDEAVIMTGVMTDEAEPSKLN  294
+
+Query  244  NW-----FWDYAIGFYLLEFLLWTSTYLP-----------------RLVGWINRFFFWLL  281
+            +       W +      L+       Y+P                  ++ + N   F  L
+Sbjct  295  SIGNYYKPWFFKHVENYLKTNREGLEYIPLRHYYHRHTRSIFWELQDIIPFGNNPIFRYL  354
+
+Query  282  FNC---KKESSNLSHKIFSYECRFKQH--VQDWAIPREKTKEALLELKAMLEAHPKVVAH  336
+            F      K S     +  +    ++QH  VQD  +P +  ++AL   +  +  +P  +  
+Sbjct  355  FGWMVPPKISLLKLTQGETLRKLYEQHHVVQDMLVPMKCLQQALHTFQNDIHVYPIWLCP  414
+
+Query  337  YPVEVRFTRGDDILLSPCFQRDSCYMNIIMY-RPYGKDVPRLDYWLAYETIMKKFGGRPH  395
+            + +         ++     + +  Y++I  Y  P  K           E  ++   G   
+Sbjct  415  FIL----PSQPGLVHPKGNEAE-LYIDIGAYGEPRVKHFEARSCMRQLEKFVRSVHGFQM  469
+
+Query  396  WAKAHNCTRKDFEKMY  411
+                    R++F +M+
+Sbjct  470  LYADCYMNREEFWEMF  485
+
+
+
+
+>lactate dehydrogenase D, isoform CRA_d [Homo sapiens]
+Sequence ID: EAW95667.1 Length: 202
+Range 1: 16 to 201
+
+Score:88.2 bits(217), Expect:4e-19, 
+Method:Composition-based stats., 
+Identities:21/206(10%), Positives:48/206(23%), Gaps:31/206(15%)
+
+Query  241  SASNWFWDYAIGFYLLEFLLWTSTYLPRLVG--------WINRFFFWLLFNCKKESSNLS  292
+            + + +   +     L E L  T   + +              R   W          N  
+Sbjct  16   APTLFLEFHGSQQALEEQLQRTEEIVQQNGASDFSWAKEAEERSRLWT------ARHNAW  69
+
+Query  293  HKIFSYECRFKQHVQDWAIPREKTKEALLELKAMLEAHPKVVAHYPVEVRFTRGDDILLS  352
+            +   +     K +  D  +P  +  E +++ K  L A           +    GD     
+Sbjct  70   YAALATRPGCKGYSTDVCVPISRLPEIVVQTKEDLNASGLT-----GSIVGHVGDGNFHC  124
+
+Query  353  PCFQRDSCYMNIIMYRPYGKDVPRLDYWLAYETIMKKFGGRPHWAKAHNCTRKDFEKMYP  412
+                     + ++      +      +            G           ++   +   
+Sbjct  125  ---------ILLVNPDDAEELGRVKAFAEQLGRRALALHGTCTGEHGIGMGKRQLLQEEV  175
+
+Query  413  A---FHKFCDIREKLDPTGMFLNSYL  435
+                      ++  LDP G+     +
+Sbjct  176  GAVGVETMRQLKAVLDPQGLMNPGKV  201
+
+
+
+
+>unknown [Homo sapiens]
+Sequence ID: AAX82020.1 Length: 220
+>D-2-hydroxyglutarate dehydrogenase, isoform CRA_c [Homo sapiens]
+Sequence ID: EAW71292.1 Length: 220 
+Range 1: 1 to 214
+
+Score:77.4 bits(189), Expect:4e-15, 
+Method:Composition-based stats., 
+Identities:27/231(12%), Positives:54/231(23%), Gaps:21/231(9%)
+
+Query  208  SHLKKSEYFRFLWFPHSENVSIIYQDHTNKEPSSASNWFWDYAIGFYLLEFLLW-TSTYL  266
+               +    F F+     + V       +  + S                   L     + 
+Sbjct  1    MLGEILSAFEFMDAVCMQLVGRHLHLASPVQESPFYVLIETSGSNAGHDAEKLGHFLEHA  60
+
+Query  267  PRLVGWINRFFFWLLFNCKKESSNLSHKIFSYECRFKQHVQDWAIPREKTKEALLELKAM  326
+                   +          K   +       +       +  D ++P E+  + + +L+A 
+Sbjct  61   LGSGLVTDGTMATDQRKVKMLWALRERITEALSRDGYVYKYDLSLPVERLYDIVTDLRAR  120
+
+Query  327  LEAHPKVVAHYPVEVRFTRGDDILLSPCFQRDSCYMNIIMYRPYGKDVPRLDYWLAYETI  386
+            L        H  V      GD  L              +    +   +        YE  
+Sbjct  121  L---GPHAKH--VVGYGHLGDGNLHLN-----------VTAEAFSPSLLAALEPHVYEWT  164
+
+Query  387  MKKFGGRPHWAKAHNCTRKD---FEKMYPAFHKFCDIREKLDPTGMFLNSY  434
+              +  G           ++D   + K   A      ++  LDP G+     
+Sbjct  165  AGQ-QGSVSAEHGVGFRKRDVLGYSKPPGALQLMQQLKALLDPKGILNPYK  214
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAG37628.1 Length: 220
+Range 1: 1 to 214
+
+Score:75.1 bits(183), Expect:3e-14, 
+Method:Composition-based stats., 
+Identities:27/231(12%), Positives:55/231(23%), Gaps:21/231(9%)
+
+Query  208  SHLKKSEYFRFLWFPHSENVSIIYQDHTNKEPSSASNWFWDYAIGFYLLEFLLW-TSTYL  266
+               +    F F+     + V       +  + S                   L     ++
+Sbjct  1    MLGEILSAFEFMDAVCMQLVGRHLHLASPVQESPFYVLIETSGSNAGHDAEKLGHFLEHV  60
+
+Query  267  PRLVGWINRFFFWLLFNCKKESSNLSHKIFSYECRFKQHVQDWAIPREKTKEALLELKAM  326
+                   +          K   +       +       +  D ++P E+  + + +L+A 
+Sbjct  61   LGSGLVTDGTMATDQRKVKMLWALRERITEALSWDGYVYKYDLSLPVERLYDIVTDLRAR  120
+
+Query  327  LEAHPKVVAHYPVEVRFTRGDDILLSPCFQRDSCYMNIIMYRPYGKDVPRLDYWLAYETI  386
+            L        H  V      GD  L              +    +   +        YE  
+Sbjct  121  L---GPHAKH--VVGYGHLGDGNLHLN-----------VTAEAFSPSLLAALEPHVYEWT  164
+
+Query  387  MKKFGGRPHWAKAHNCTRKD---FEKMYPAFHKFCDIREKLDPTGMFLNSY  434
+              +  G           ++D   + K   A      ++  LDP G+     
+Sbjct  165  AGQ-QGSVSAEHGVGFRKRDVLGYSKPPGALQLMQQLKALLDPKGILNPYK  214
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAH14155.1 Length: 300
+Range 1: 1 to 269
+
+Score:66.6 bits(161), Expect:6e-11, 
+Method:Composition-based stats., 
+Identities:44/292(15%), Positives:95/292(32%), Gaps:25/292(8%)
+
+Query  122  IGSGTHNTGIKHGILATQVVALTLMKADGTVLECSESSNADVFQAARVHLGCLGVILTVT  181
+            +G+G  ++  K+G+      A  L+ ADG+ + C+ S N+D+F A     G LG ++   
+Sbjct  1    MGTGIESSSHKYGLFQHICTAYELVLADGSFVRCTPSENSDLFYAVPWSCGTLGFLVAAE  60
+
+Query  182  LQCVPQFHLL-ETSFPSTLKEVLDNLDSHLKKSEYFRFLWFPHSENVSIIYQDHTNKEPS  240
+            ++ +P    +     P    E +    +H  + +   F+          +       + +
+Sbjct  61   IRIIPAKKYVKLRFEPVRGLEAICAKFTHESQRQENHFVEGLLYSLDEAVIMTGVMTDEA  120
+
+Query  241  SASNWFWDYAIGFYLLEFLLWTSTYLPRLVGWINRFFFWLLFNCKKESSNLSHKIFSYEC  300
+              S     +           W       L+          L+                  
+Sbjct  121  EPSKDIIPFGNNPIFRYLFGWMVPPKISLLKLTQGETLRKLYEQHHV-------------  167
+
+Query  301  RFKQHVQDWAIPREKTKEALLELKAMLEAHPKVVAHYPVEVRFTRGDDILLSPCFQRDSC  360
+                 VQD  +P +  ++AL   +  +  +P  +  + +         ++     + +  
+Sbjct  168  -----VQDMLVPMKCLQQALHTFQNDIHVYPIWLCPFIL----PSQPGLVHPKGNEAE-L  217
+
+Query  361  YMNIIMY-RPYGKDVPRLDYWLAYETIMKKFGGRPHWAKAHNCTRKDFEKMY  411
+            Y++I  Y  P  K           E  ++   G           R++F +M+
+Sbjct  218  YIDIGAYGEPRVKHFEARSCLRQLEKFVRSVHGFQMLYADCYMNREEFWEMF  269
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAG51584.1 Length: 141
+Range 1: 12 to 135
+
+Score:62.0 bits(149), Expect:2e-10, 
+Method:Composition-based stats., 
+Identities:21/141(15%), Positives:40/141(28%), Gaps:20/141(14%)
+
+Query  297  SYECRFKQHVQDWAIPREKTKEALLELKAMLEAHPKVVAHYPVEVRFTRGDDILLSPCFQ  356
+            +       +  D ++P E+  + + +L+A L        H  V      GD  L      
+Sbjct  12   ALSRDGYVYKYDLSLPVERLYDIVTDLRARL---GPHAKH--VVGYGHLGDGNLHLN---  63
+
+Query  357  RDSCYMNIIMYRPYGKDVPRLDYWLAYETIMKKFGGRPHWAKAHNCTRKD---FEKMYPA  413
+                    +    +   +        YE    +  G           ++D   + K   A
+Sbjct  64   --------VTAEAFSPSLLAALEPHVYEWTAGQ-QGSVSAEHGVGFRKRDVLGYSKPPGA  114
+
+Query  414  FHKFCDIREKLDPTGMFLNSY  434
+                  ++  LDP G+     
+Sbjct  115  LQLMQQLKALLDPKGILNPYK  135
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAG53205.1 Length: 141
+Range 1: 12 to 135
+
+Score:58.9 bits(141), Expect:2e-09, 
+Method:Composition-based stats., 
+Identities:20/141(14%), Positives:39/141(27%), Gaps:20/141(14%)
+
+Query  297  SYECRFKQHVQDWAIPREKTKEALLELKAMLEAHPKVVAHYPVEVRFTRGDDILLSPCFQ  356
+            +       +  D ++P  +  + + +L+A L        H  V      GD  L      
+Sbjct  12   ALSRDGYVYKYDLSLPVGRLYDIVTDLRARL---GPHAKH--VVGYGHLGDGNLHLN---  63
+
+Query  357  RDSCYMNIIMYRPYGKDVPRLDYWLAYETIMKKFGGRPHWAKAHNCTRKD---FEKMYPA  413
+                    +    +   +        YE    +  G           ++D   + K   A
+Sbjct  64   --------VTAEAFSPSLLAALEPHVYEWTAGQ-QGSVSAGHGVGFRKRDVLGYSKPPGA  114
+
+Query  414  FHKFCDIREKLDPTGMFLNSY  434
+                  ++  LDP G+     
+Sbjct  115  LQLMQQLKALLDPKGILNPYK  135
+
+
+
+
+>unknown, partial [Homo sapiens]
+Sequence ID: AAX93112.1 Length: 143
+Range 1: 14 to 139
+
+Score:49.3 bits(116), Expect:4e-06, 
+Method:Composition-based stats., 
+Identities:21/135(16%), Positives:37/135(27%), Gaps:19/135(14%)
+
+Query  308  DWAIPREKTKEALLELKAML----EAHPKVVAHY---PVEVRFTRGDDILLSPCFQRDSC  360
+            + + P ++  +    +K  +    +      A +    V   +  G  I     F     
+Sbjct  14   ETSAPWDRVVDLCRNVKERITRECKEKGVQFAPFSTCRVTQTYDAGACIYFYFAFN----  69
+
+Query  361  YMNIIMYRPYGKDVPRLDYWLAYETIMKKFGGRPHWAKAHNCTRKDFEKMY---PAFHKF  417
+            Y  I                 A    +   GG           RK + K       F   
+Sbjct  70   YRGI-----SDPLTVFEQTEAAAREEILANGGSLSHHHGVGKLRKQWLKESISDVGFGML  124
+
+Query  418  CDIREKLDPTGMFLN  432
+              ++E +DP  +F N
+Sbjct  125  KSVKEYVDPNNIFGN  139
+
+
+
+
+>unknown, partial [Homo sapiens]
+Sequence ID: AAY24300.1 Length: 183
+Range 1: 1 to 92
+
+Score:46.6 bits(109), Expect:7e-05, 
+Method:Composition-based stats., 
+Identities:15/92(16%), Positives:29/92(31%), Gaps:9/92(9%)
+
+Query  140  VVALTLMKADGTVLEC--SES--SNADVFQAARVHLGCLGVILTVTLQCVP---QFHLLE  192
+            VV + ++   G + +        +  D+        G LGVI   T++  P         
+Sbjct  1    VVHIKMVTPRGIIEKSCQGPRMSTGPDIHHFIMGSEGTLGVITEATIKIRPVPEYQKYGS  60
+
+Query  193  TSFPSTLK--EVLDNLDSHLKKSEYFRFLWFP  222
+             +FP+  +    L  +          R +   
+Sbjct  61   VAFPNFEQGVACLREIAKQRCAPASIRLMDNK  92
+
+
+
+
+
+
+
+		
+
+

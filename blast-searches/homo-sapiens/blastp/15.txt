@@ -1,0 +1,91 @@
+RID: RAE43MP8013	
+Job Title:blastp nr				
+Program: BLASTP 
+Database: refseq_select_prot RefSeq Select proteins
+Query #1: L-gulonolactone oxidase [Mus musculus] Query ID: ref|NP_848862.1 Length: 440
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform 1...    Homo sapiens    human           9606       53.2   53.2  41%   4e-08 25.77  521        NP_689996.4      
+delta(24)-sterol reductase precursor [Homo sapiens]               Homo sapiens    human           9606       52.6   52.6  26%   5e-08 31.09  516        NP_055577.1      
+probable D-lactate dehydrogenase, mitochondrial isoform 2...      Homo sapiens    human           9606       38.2   38.2  28%   0.004 24.62  484        NP_919417.1      
+
+
+Alignments:
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform 1 precursor [Homo sapiens]
+Sequence ID: NP_689996.4 Length: 521
+Range 1: 91 to 283
+
+Score:53.2 bits(182), Expect:4e-08, 
+Method:Compositional matrix adjust., 
+Identities:50/194(26%), Positives:109/194(56%), Gaps:11/194(5%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS  +  +P +  EV ++L   +++N  V+  GG  G   + ++  D +++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+             ++MNRVL  +     +  +AG +L +L   ++ +++ ++ +LGA +   +GG +++ + 
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVATNAG  209
+
+Query  128  NTG-IKHGILATQVVALTLMKADGTVLECSES--SNADVFQAARVHLGC---LGVILTVT  181
+                ++ G L   V++L ++ ADGTVL+C  S   +   ++  ++ +G    LG+I TV+
+Sbjct  210  GLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVS  269
+
+Query  182  LQCVPQFHLLETSF  195
+            + C P+ + ++ +F
+Sbjct  270  ILCPPKPRAVNVAF  283
+
+
+
+
+>delta(24)-sterol reductase precursor [Homo sapiens]
+Sequence ID: NP_055577.1 Length: 516
+Range 1: 115 to 233
+
+Score:52.6 bits(180), Expect:5e-08, 
+Method:Compositional matrix adjust., 
+Identities:37/119(31%), Positives:72/119(60%), Gaps:1/119(0%)
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGGVI-GSGTH  127
+            M ++  +L+VD  K+ V VE+ + + ++ + L   G +L+ L  + D+TVGG+I G+G +
+Sbjct  115  MINLMDILEVDTKKQIVRVEPLVTMGQVTALLTSIGWTLPVLPELDDLTVGGLIMGTGIE  174
+
+Query  128  NTGIKHGILATQVVALTLMKADGTVLECSESSNADVFQAARVHLGCLGVILTVTLQCVP  186
+            +++ K G++     A  L+ ADG+ + C+ S N+D+F A     G LG +++  ++ +P
+Sbjct  175  SSSHKYGLFQHICTAYELVLADGSFVRCTPSENSDLFYAVPWSCGTLGFLVAAEIRIIP  233
+
+
+
+
+>probable D-lactate dehydrogenase, mitochondrial isoform 2 precursor [Homo sapiens]
+Sequence ID: NP_919417.1 Length: 484
+Range 1: 72 to 200
+
+Score:38.2 bits(125), Expect:0.004, 
+Method:Compositional matrix adjust., 
+Identities:32/130(25%), Positives:77/130(59%), Gaps:4/130(3%)
+
+Query  27   PTSVGEVREVLALARQQNKKVKVVGGGHSPSDIACT--DGFMIHMGKMNRVLQVDKEKKQ  84
+            P +V +V  + AL  +Q   +   G G +  +  C+  +G  +++  M+R+L++++E   
+Sbjct  72   PQNVEQVSRLAALCYRQGVPIIPFGTGTGLEGGVCAVQGGVCVNLTHMDRILELNQEDFS  131
+
+Query  85   VTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGGVIGSGTHNT-GIKHGILATQVVAL  143
+            V VE+G+    L+++L   GL ++ +++ +D ++ G+ ++G+  T +++ G +  +V+ L
+Sbjct  132  VVVEPGVTRKALNAHLRDSGLWFP-VDPGADASLCGMAATGASGTNAVRYGTMRDNVLNL  190
+
+Query  144  TLMKADGTVL  153
+             ++ +DG +L
+Sbjct  191  EVVLPDGRLL  200
+
+
+
+
+
+
+
+		
+
+

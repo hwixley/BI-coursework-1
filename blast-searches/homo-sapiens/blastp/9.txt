@@ -1,0 +1,95 @@
+RID: RADRA66X016	
+Job Title:blastp nr				
+Program: BLASTP 
+Database: refseq_select_prot RefSeq Select proteins
+Query #1: L-gulonolactone oxidase [Mus musculus] Query ID: ref|NP_848862.1 Length: 440
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+
+delta(24)-sterol reductase precursor [Homo sapiens]               Homo sapiens    human           9606       67.0   67.0  26%   6e-12 31.09  516        NP_055577.1      
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform 1...    Homo sapiens    human           9606       63.9   63.9  41%   6e-11 26.90  521        NP_689996.4      
+alkyldihydroxyacetonephosphate synthase, peroxisomal precursor... Homo sapiens    human           9606       47.4   47.4  37%   1e-05 27.07  658        NP_003650.1      
+
+Alignments:
+
+>delta(24)-sterol reductase precursor [Homo sapiens]
+Sequence ID: NP_055577.1 Length: 516
+Range 1: 115 to 233
+
+Score:67.0 bits(162), Expect:6e-12, 
+Method:Compositional matrix adjust., 
+Identities:37/119(31%), Positives:64/119(53%), Gaps:1/119(0%)
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGGVI-GSGTH  127
+            M  +  +L+VD +K+ V VE  + +  +   L   G  L  L  + D+TVGG+I G+G  
+Sbjct  115  MINLMDILEVDTKKQIVRVEPLVTMGQVTALLTSIGWTLPVLPELDDLTVGGLIMGTGIE  174
+
+Query  128  NTGIKHGILATQVVALTLMKADGTVLECSESSNADVFQAARVHLGCLGVILTVTLQCVP  186
+            ++  K+G+      A  L+ ADG+ + C+ S N+D+F A     G LG ++   ++ +P
+Sbjct  175  SSSHKYGLFQHICTAYELVLADGSFVRCTPSENSDLFYAVPWSCGTLGFLVAAEIRIIP  233
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform 1 precursor [Homo sapiens]
+Sequence ID: NP_689996.4 Length: 521
+Range 1: 91 to 283
+
+Score:63.9 bits(154), Expect:6e-11, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>alkyldihydroxyacetonephosphate synthase, peroxisomal precursor [Homo sapiens]
+Sequence ID: NP_003650.1 Length: 658
+Range 1: 206 to 383
+
+Score:47.4 bits(111), Expect:1e-05, 
+Method:Compositional matrix adjust., 
+Identities:49/181(27%), Positives:83/181(45%), Gaps:18/181(9%)
+
+Query  21   PEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHS-------PSDIACTDGFMIHMGKMN  73
+            P++   PT   +V +++ LA + N  +  +GGG S       P+D   T    +   +MN
+Sbjct  206  PDIVLWPTCHDDVVKIVNLACKYNLCIIPIGGGTSVSYGLMCPADETRTI-ISLDTSQMN  264
+
+Query  74   RVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNL-GAVSDVTVGGVIGSGTHNTGIK  132
+            R+L VD+      VEAGI   +L  QL + G    +   ++   TVGG +   T  +G+K
+Sbjct  265  RILWVDENNLTAHVEAGITGQELERQLKESGYCTGHEPDSLEFSTVGGWV--STRASGMK  322
+
+Query  133  ---HGILATQVVALTLMKADGTVLECSE----SSNADVFQAARVHLGCLGVILTVTLQCV  185
+               +G +   VV + ++   G + +  +    S+  D+        G LGVI   T++  
+Sbjct  323  KNIYGNIEDLVVHIKMVTPRGIIEKSCQGPRMSTGPDIHHFIMGSEGTLGVITEATIKIR  382
+
+Query  186  P  186
+            P
+Sbjct  383  P  383
+
+
+
+
+
+
+
+		
+
+

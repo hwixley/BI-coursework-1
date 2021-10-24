@@ -1,0 +1,1311 @@
+RID: RACND0J0013	
+Job Title:blastp nr				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: L-gulonolactone oxidase [Mus musculus] Query ID: ref|NP_848862.1 Length: 440
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+
+delta(24)-sterol reductase precursor [Homo sapiens]               Homo sapiens    human           9606       67.0   67.0  26%   9e-11 31.09  516        NP_055577.1      
+putative protein product of Nbla03646 [Homo sapiens]              Homo sapiens    human           9606       66.6   66.6  26%   1e-10 31.09  427        BAE45721.1       
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       65.9   65.9  26%   2e-10 31.09  475        BAH13803.1       
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       65.9   65.9  26%   2e-10 31.09  475        BAH14790.1       
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X12...  Homo sapiens    human           9606       65.5   65.5  41%   3e-10 26.90  423        XP_011510048.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X8...   Homo sapiens    human           9606       64.3   64.3  41%   6e-10 26.90  445        XP_016860317.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X23...  Homo sapiens    human           9606       63.5   63.5  41%   6e-10 26.90  321        XP_024308871.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X5...   Homo sapiens    human           9606       64.3   64.3  41%   7e-10 26.90  471        XP_011510039.1   
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       63.2   63.2  41%   7e-10 26.90  320        BAG52404.1       
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X25...  Homo sapiens    human           9606       63.2   63.2  41%   8e-10 26.90  309        XP_016860321.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X10...  Homo sapiens    human           9606       63.9   63.9  41%   8e-10 26.90  438        XP_011510045.1   
+D-2-hydroxyglutarate dehydrogenase, isoform CRA_b [Homo sapiens]  Homo sapiens    human           9606       63.2   63.2  41%   8e-10 26.90  320        EAW71291.1       
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X3...   Homo sapiens    human           9606       63.9   63.9  41%   9e-10 26.90  535        XP_011510038.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform 1...    Homo sapiens    human           9606       63.9   63.9  41%   9e-10 26.90  521        NP_689996.4      
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X1...   Homo sapiens    human           9606       63.9   63.9  41%   1e-09 26.90  561        XP_011510036.1   
+D-2-hydroxyglutarate dehydrogenase [Homo sapiens]                 Homo sapiens    human           9606       63.9   63.9  41%   1e-09 26.90  521        AAH36604.2       
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X20...  Homo sapiens    human           9606       63.2   63.2  41%   1e-09 26.90  370        XP_011510058.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X2...   Homo sapiens    human           9606       63.9   63.9  41%   1e-09 26.90  547        XP_011510037.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X22...  Homo sapiens    human           9606       62.8   62.8  41%   1e-09 26.90  325        XP_011510060.1   
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       62.8   62.8  41%   1e-09 26.90  325        BAG65519.1       
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X15...  Homo sapiens    human           9606       63.2   63.2  41%   1e-09 26.90  415        XP_011510051.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X24...  Homo sapiens    human           9606       62.4   62.4  41%   1e-09 26.90  319        XP_011510062.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X11...  Homo sapiens    human           9606       63.2   63.2  41%   1e-09 26.90  428        XP_011510047.1   
+Chain A, D-2-hydroxyglutarate dehydrogenase, mitochondrial [Ho... Homo sapiens    human           9606       63.2   63.2  41%   2e-09 26.90  481        6LPN_A           
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X21...  Homo sapiens    human           9606       62.8   62.8  41%   2e-09 26.90  364        XP_011510059.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X17...  Homo sapiens    human           9606       62.8   62.8  41%   2e-09 26.90  414        XP_011510053.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X14...  Homo sapiens    human           9606       62.8   62.8  41%   2e-09 26.90  418        XP_016860319.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X16...  Homo sapiens    human           9606       62.8   62.8  41%   2e-09 26.90  414        XP_011510052.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X19...  Homo sapiens    human           9606       62.4   62.4  41%   2e-09 26.90  378        XP_011510055.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X18...  Homo sapiens    human           9606       62.4   62.4  41%   2e-09 26.90  386        XP_011510054.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X13...  Homo sapiens    human           9606       62.4   62.4  41%   2e-09 26.90  419        XP_011510049.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X9...   Homo sapiens    human           9606       62.0   62.0  41%   3e-09 26.90  441        XP_011510043.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X6...   Homo sapiens    human           9606       61.6   61.6  41%   4e-09 26.90  460        XP_011510040.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X7...   Homo sapiens    human           9606       61.6   61.6  41%   5e-09 26.90  449        XP_016860316.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X4...   Homo sapiens    human           9606       61.6   61.6  40%   5e-09 26.84  485        XP_024308870.1   
+D2HGDH protein [Homo sapiens]                                     Homo sapiens    human           9606       59.3   59.3  41%   1e-08 26.90  307        AAH71598.1       
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       51.6   51.6  30%   6e-06 27.27  387        BAG52828.1       
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform 2...    Homo sapiens    human           9606       51.6   51.6  30%   6e-06 27.27  387        NP_001274178.1   
+alkyldihydroxyacetonephosphate synthase, peroxisomal isoform X... Homo sapiens    human           9606       47.8   47.8  37%   1e-04 27.07  568        XP_011510343.1   
+alkyldihydroxyacetonephosphate synthase, peroxisomal precursor... Homo sapiens    human           9606       47.4   47.4  37%   2e-04 27.07  658        NP_003650.1      
+alkylglycerone phosphate synthase, isoform CRA_a [Homo sapiens]   Homo sapiens    human           9606       47.0   47.0  37%   2e-04 27.07  536        EAX11057.1       
+alkylglycerone phosphate synthase, isoform CRA_b [Homo sapiens]   Homo sapiens    human           9606       47.0   47.0  37%   2e-04 27.07  684        EAX11058.1       
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       45.4   45.4  38%   5e-04 26.88  320        BAH14611.1       
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       44.3   44.3  14%   0.001 29.23  300        BAH14155.1       
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform 3...    Homo sapiens    human           9606       41.2   41.2  19%   0.012 30.21  334        NP_001339753.1   
+unknown [Homo sapiens]                                            Homo sapiens    human           9606       39.7   39.7  26%   0.031 30.08  332        AAY14986.1       
+
+Alignments:
+
+>delta(24)-sterol reductase precursor [Homo sapiens]
+Sequence ID: NP_055577.1 Length: 516
+>RecName: Full=Delta(24)-sterol reductase; AltName: Full=24-dehydrocholesterol reductase; AltName: Full=3-beta-hydroxysterol Delta-24-reductase; AltName: Full=Diminuto/dwarf1 homolog; AltName: Full=Seladin-1; Flags: Precursor [Homo sapiens]
+Sequence ID: Q15392.2 Length: 516
+>seladin-1 [Homo sapiens]
+Sequence ID: AAG17288.1 Length: 516
+>24-dehydrocholesterol reductase [Homo sapiens]
+Sequence ID: AAH04375.1 Length: 516
+>24-dehydrocholesterol reductase [Homo sapiens]
+Sequence ID: AAH11669.1 Length: 516 
+Range 1: 115 to 233
+
+Score:67.0 bits(162), Expect:9e-11, 
+Method:Compositional matrix adjust., 
+Identities:37/119(31%), Positives:64/119(53%), Gaps:1/119(0%)
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGGVI-GSGTH  127
+            M  +  +L+VD +K+ V VE  + +  +   L   G  L  L  + D+TVGG+I G+G  
+Sbjct  115  MINLMDILEVDTKKQIVRVEPLVTMGQVTALLTSIGWTLPVLPELDDLTVGGLIMGTGIE  174
+
+Query  128  NTGIKHGILATQVVALTLMKADGTVLECSESSNADVFQAARVHLGCLGVILTVTLQCVP  186
+            ++  K+G+      A  L+ ADG+ + C+ S N+D+F A     G LG ++   ++ +P
+Sbjct  175  SSSHKYGLFQHICTAYELVLADGSFVRCTPSENSDLFYAVPWSCGTLGFLVAAEIRIIP  233
+
+
+
+
+>putative protein product of Nbla03646 [Homo sapiens]
+Sequence ID: BAE45721.1 Length: 427
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAH14186.1 Length: 427
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAH14798.1 Length: 427 
+Range 1: 26 to 144
+
+Score:66.6 bits(161), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:37/119(31%), Positives:64/119(53%), Gaps:1/119(0%)
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGGVI-GSGTH  127
+            M  +  +L+VD +K+ V VE  + +  +   L   G  L  L  + D+TVGG+I G+G  
+Sbjct  26   MINLMDILEVDTKKQIVRVEPLVTMGQVTALLTSIGWTLPVLPELDDLTVGGLIMGTGIE  85
+
+Query  128  NTGIKHGILATQVVALTLMKADGTVLECSESSNADVFQAARVHLGCLGVILTVTLQCVP  186
+            ++  K+G+      A  L+ ADG+ + C+ S N+D+F A     G LG ++   ++ +P
+Sbjct  86   SSSHKYGLFQHICTAYELVLADGSFVRCTPSENSDLFYAVPWSCGTLGFLVAAEIRIIP  144
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAH13803.1 Length: 475
+Range 1: 74 to 192
+
+Score:65.9 bits(159), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:37/119(31%), Positives:64/119(53%), Gaps:1/119(0%)
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGGVI-GSGTH  127
+            M  +  +L+VD +K+ V VE  + +  +   L   G  L  L  + D+TVGG+I G+G  
+Sbjct  74   MINLMDILEVDTKKQIVRVEPLVTMGQVTALLTSIGWTLPVLPELDDLTVGGLIMGTGIE  133
+
+Query  128  NTGIKHGILATQVVALTLMKADGTVLECSESSNADVFQAARVHLGCLGVILTVTLQCVP  186
+            ++  K+G+      A  L+ ADG+ + C+ S N+D+F A     G LG ++   ++ +P
+Sbjct  134  SSSHKYGLFQHICTAYELVLADGSFVRCTPSENSDLFYAVPWSCGTLGFLVAAEIRIIP  192
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAH14790.1 Length: 475
+Range 1: 74 to 192
+
+Score:65.9 bits(159), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:37/119(31%), Positives:64/119(53%), Gaps:1/119(0%)
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGGVI-GSGTH  127
+            M  +  +L+VD +K+ V VE  + +  +   L   G  L  L  + D+TVGG+I G+G  
+Sbjct  74   MINLMDILEVDTKKQIVRVEPLVTMGQVTALLTSIGWTLPVLPELDDLTVGGLIMGTGIE  133
+
+Query  128  NTGIKHGILATQVVALTLMKADGTVLECSESSNADVFQAARVHLGCLGVILTVTLQCVP  186
+            ++  K+G+      A  L+ ADG+ + C+ S N+D+F A     G LG ++   ++ +P
+Sbjct  134  SSSHKYGLFQHICTAYELVLADGSFVRCTPSENSDLFYAVPWSCGTLGFLVAAEIRIIP  192
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X12 [Homo sapiens]
+Sequence ID: XP_011510048.1 Length: 423
+Range 1: 91 to 283
+
+Score:65.5 bits(158), Expect:3e-10, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X8 [Homo sapiens]
+Sequence ID: XP_016860317.1 Length: 445
+Range 1: 91 to 283
+
+Score:64.3 bits(155), Expect:6e-10, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X23 [Homo sapiens]
+Sequence ID: XP_024308871.1 Length: 321
+Range 1: 91 to 283
+
+Score:63.5 bits(153), Expect:6e-10, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X5 [Homo sapiens]
+Sequence ID: XP_011510039.1 Length: 471
+Range 1: 91 to 283
+
+Score:64.3 bits(155), Expect:7e-10, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAG52404.1 Length: 320
+Range 1: 91 to 283
+
+Score:63.2 bits(152), Expect:7e-10, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X25 [Homo sapiens]
+Sequence ID: XP_016860321.1 Length: 309
+Range 1: 91 to 283
+
+Score:63.2 bits(152), Expect:8e-10, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X10 [Homo sapiens]
+Sequence ID: XP_011510045.1 Length: 438
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X10 [Homo sapiens]
+Sequence ID: XP_011510046.1 Length: 438
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X10 [Homo sapiens]
+Sequence ID: XP_016860318.1 Length: 438 
+Range 1: 91 to 283
+
+Score:63.9 bits(154), Expect:8e-10, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, isoform CRA_b [Homo sapiens]
+Sequence ID: EAW71291.1 Length: 320
+Range 1: 91 to 283
+
+Score:63.2 bits(152), Expect:8e-10, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X3 [Homo sapiens]
+Sequence ID: XP_011510038.1 Length: 535
+Range 1: 91 to 283
+
+Score:63.9 bits(154), Expect:9e-10, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform 1 precursor [Homo sapiens]
+Sequence ID: NP_689996.4 Length: 521
+>RecName: Full=D-2-hydroxyglutarate dehydrogenase, mitochondrial; Flags: Precursor [Homo sapiens]
+Sequence ID: Q8N465.3 Length: 521
+>D-2-hydroxyglutarate dehydrogenase, isoform CRA_a [Homo sapiens]
+Sequence ID: EAW71290.1 Length: 521 
+Range 1: 91 to 283
+
+Score:63.9 bits(154), Expect:9e-10, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X1 [Homo sapiens]
+Sequence ID: XP_011510036.1 Length: 561
+Range 1: 91 to 283
+
+Score:63.9 bits(154), Expect:1e-09, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase [Homo sapiens]
+Sequence ID: AAH36604.2 Length: 521
+Range 1: 91 to 283
+
+Score:63.9 bits(154), Expect:1e-09, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X20 [Homo sapiens]
+Sequence ID: XP_011510058.1 Length: 370
+Range 1: 91 to 283
+
+Score:63.2 bits(152), Expect:1e-09, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X2 [Homo sapiens]
+Sequence ID: XP_011510037.1 Length: 547
+Range 1: 91 to 283
+
+Score:63.9 bits(154), Expect:1e-09, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X22 [Homo sapiens]
+Sequence ID: XP_011510060.1 Length: 325
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X22 [Homo sapiens]
+Sequence ID: XP_011510061.1 Length: 325 
+Range 1: 91 to 283
+
+Score:62.8 bits(151), Expect:1e-09, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAG65519.1 Length: 325
+Range 1: 91 to 283
+
+Score:62.8 bits(151), Expect:1e-09, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X15 [Homo sapiens]
+Sequence ID: XP_011510051.1 Length: 415
+Range 1: 91 to 283
+
+Score:63.2 bits(152), Expect:1e-09, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X24 [Homo sapiens]
+Sequence ID: XP_011510062.1 Length: 319
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAG65528.1 Length: 319 
+Range 1: 91 to 283
+
+Score:62.4 bits(150), Expect:1e-09, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X11 [Homo sapiens]
+Sequence ID: XP_011510047.1 Length: 428
+Range 1: 91 to 283
+
+Score:63.2 bits(152), Expect:1e-09, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>Chain A, D-2-hydroxyglutarate dehydrogenase, mitochondrial [Homo sapiens]
+Sequence ID: 6LPN_A Length: 481
+>Chain B, D-2-hydroxyglutarate dehydrogenase, mitochondrial [Homo sapiens]
+Sequence ID: 6LPN_B Length: 481
+>Chain A, D-2-hydroxyglutarate dehydrogenase, mitochondrial [Homo sapiens]
+Sequence ID: 6LPP_A Length: 481
+>Chain B, D-2-hydroxyglutarate dehydrogenase, mitochondrial [Homo sapiens]
+Sequence ID: 6LPP_B Length: 481
+>Chain A, D-2-hydroxyglutarate dehydrogenase, mitochondrial [Homo sapiens]
+Sequence ID: 6LPQ_A Length: 481
+>Chain B, D-2-hydroxyglutarate dehydrogenase, mitochondrial [Homo sapiens]
+Sequence ID: 6LPQ_B Length: 481
+>Chain A, D-2-hydroxyglutarate dehydrogenase, mitochondrial [Homo sapiens]
+Sequence ID: 6LPT_A Length: 481
+>Chain B, D-2-hydroxyglutarate dehydrogenase, mitochondrial [Homo sapiens]
+Sequence ID: 6LPT_B Length: 481
+>Chain A, D-2-hydroxyglutarate dehydrogenase, mitochondrial [Homo sapiens]
+Sequence ID: 6LPU_A Length: 481
+>Chain B, D-2-hydroxyglutarate dehydrogenase, mitochondrial [Homo sapiens]
+Sequence ID: 6LPU_B Length: 481
+>Chain A, D-2-hydroxyglutarate dehydrogenase, mitochondrial [Homo sapiens]
+Sequence ID: 6LPX_A Length: 481
+>Chain B, D-2-hydroxyglutarate dehydrogenase, mitochondrial [Homo sapiens]
+Sequence ID: 6LPX_B Length: 481 
+Range 1: 45 to 237
+
+Score:63.2 bits(152), Expect:2e-09, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  45   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  103
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  104  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  160
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  161  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  220
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  221  TVSILCPPKPRAVNVAF  237
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X21 [Homo sapiens]
+Sequence ID: XP_011510059.1 Length: 364
+Range 1: 91 to 283
+
+Score:62.8 bits(151), Expect:2e-09, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X17 [Homo sapiens]
+Sequence ID: XP_011510053.1 Length: 414
+Range 1: 91 to 283
+
+Score:62.8 bits(151), Expect:2e-09, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X14 [Homo sapiens]
+Sequence ID: XP_016860319.1 Length: 418
+Range 1: 91 to 283
+
+Score:62.8 bits(151), Expect:2e-09, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X16 [Homo sapiens]
+Sequence ID: XP_011510052.1 Length: 414
+Range 1: 91 to 283
+
+Score:62.8 bits(151), Expect:2e-09, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X19 [Homo sapiens]
+Sequence ID: XP_011510055.1 Length: 378
+Range 1: 91 to 283
+
+Score:62.4 bits(150), Expect:2e-09, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X18 [Homo sapiens]
+Sequence ID: XP_011510054.1 Length: 386
+Range 1: 91 to 283
+
+Score:62.4 bits(150), Expect:2e-09, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X13 [Homo sapiens]
+Sequence ID: XP_011510049.1 Length: 419
+Range 1: 91 to 283
+
+Score:62.4 bits(150), Expect:2e-09, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X9 [Homo sapiens]
+Sequence ID: XP_011510043.1 Length: 441
+Range 1: 91 to 283
+
+Score:62.0 bits(149), Expect:3e-09, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X6 [Homo sapiens]
+Sequence ID: XP_011510040.1 Length: 460
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X6 [Homo sapiens]
+Sequence ID: XP_011510041.1 Length: 460
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X6 [Homo sapiens]
+Sequence ID: XP_011510042.1 Length: 460 
+Range 1: 91 to 283
+
+Score:61.6 bits(148), Expect:4e-09, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X7 [Homo sapiens]
+Sequence ID: XP_016860316.1 Length: 449
+Range 1: 91 to 283
+
+Score:61.6 bits(148), Expect:5e-09, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:17/197(8%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  206
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  207  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  266
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  267  TVSILCPPKPRAVNVAF  283
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X4 [Homo sapiens]
+Sequence ID: XP_024308870.1 Length: 485
+Range 1: 22 to 207
+
+Score:61.6 bits(148), Expect:5e-09, 
+Method:Compositional matrix adjust., 
+Identities:51/190(27%), Positives:91/190(47%), Gaps:16/190(8%)
+
+Query  18   GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIHMGKMNRV  75
+            GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++   +MNRV
+Sbjct  22   GCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILSTARMNRV  80
+
+Query  76   LQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTHNTG----  130
+            L        +  +AG +L +L   +++    +  +LGA     +GG + +   N G    
+Sbjct  81   LSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---NAGGLRF  137
+
+Query  131  IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVILTVTLQCV  185
+            +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I TV++ C 
+Sbjct  138  LRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIITTVSILCP  197
+
+Query  186  PQFHLLETSF  195
+            P+   +  +F
+Sbjct  198  PKPRAVNVAF  207
+
+
+
+
+>D2HGDH protein [Homo sapiens]
+Sequence ID: AAH71598.1 Length: 307
+Range 1: 91 to 277
+
+Score:59.3 bits(142), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:53/197(27%), Positives:95/197(48%), Gaps:23/197(11%)
+
+Query  12   NWAKTY-GCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIH  68
+            +W +T  GCS ++  +P +  EV  +L    ++N  V   GG  G     +   D  ++ 
+Sbjct  91   DWLRTLRGCS-KVLLRPRTSEEVSHILRHCHERNLAVNPQGGNTGMVGGSVPVFDEIILS  149
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTH  127
+              +MNRVL         +V  G++L +L   +++    +  +LGA     +GG + +   
+Sbjct  150  TARMNRVLSFH------SVSGGLVLEELSRYVEERDFIMPLDLGAKGSCHIGGNVAT---  200
+
+Query  128  NTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVIL  178
+            N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G LG+I 
+Sbjct  201  NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEGTLGIIT  260
+
+Query  179  TVTLQCVPQFHLLETSF  195
+            TV++ C P+   +  +F
+Sbjct  261  TVSILCPPKPRAVNVAF  277
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAG52828.1 Length: 387
+Range 1: 10 to 149
+
+Score:51.6 bits(122), Expect:6e-06, 
+Method:Compositional matrix adjust., 
+Identities:39/143(27%), Positives:71/143(49%), Gaps:13/143(9%)
+
+Query  63   DGFMIHMGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGV  121
+            D  ++   +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG 
+Sbjct  10   DEIILSTARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGN  69
+
+Query  122  IGSGTHNTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLG  172
+            + +   N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G
+Sbjct  70   VAT---NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEG  126
+
+Query  173  CLGVILTVTLQCVPQFHLLETSF  195
+             LG+I TV++ C P+   +  +F
+Sbjct  127  TLGIITTVSILCPPKPRAVNVAF  149
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform 2 [Homo sapiens]
+Sequence ID: NP_001274178.1 Length: 387
+Range 1: 10 to 149
+
+Score:51.6 bits(122), Expect:6e-06, 
+Method:Compositional matrix adjust., 
+Identities:39/143(27%), Positives:71/143(49%), Gaps:13/143(9%)
+
+Query  63   DGFMIHMGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGV  121
+            D  ++   +MNRVL        +  +AG +L +L   +++    +  +LGA     +GG 
+Sbjct  10   DEIILSTARMNRVLSFHSVSGILVCQAGCVLEELSRYVEERDFIMPLDLGAKGSCHIGGN  69
+
+Query  122  IGSGTHNTG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLG  172
+            + +   N G    +++G L   V+ L ++ ADGTVL+C      +++  D+ Q      G
+Sbjct  70   VAT---NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNTGYDLKQLFIGSEG  126
+
+Query  173  CLGVILTVTLQCVPQFHLLETSF  195
+             LG+I TV++ C P+   +  +F
+Sbjct  127  TLGIITTVSILCPPKPRAVNVAF  149
+
+
+
+
+>alkyldihydroxyacetonephosphate synthase, peroxisomal isoform X1 [Homo sapiens]
+Sequence ID: XP_011510343.1 Length: 568
+>alkyldihydroxyacetonephosphate synthase, peroxisomal isoform X1 [Homo sapiens]
+Sequence ID: XP_011510344.1 Length: 568
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAH12290.1 Length: 568 
+Range 1: 116 to 293
+
+Score:47.8 bits(112), Expect:1e-04, 
+Method:Compositional matrix adjust., 
+Identities:49/181(27%), Positives:83/181(45%), Gaps:18/181(9%)
+
+Query  21   PEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHS-------PSDIACTDGFMIHMGKMN  73
+            P++   PT   +V +++ LA + N  +  +GGG S       P+D   T    +   +MN
+Sbjct  116  PDIVLWPTCHDDVVKIVNLACKYNLCIIPIGGGTSVSYGLMCPADETRTI-ISLDTSQMN  174
+
+Query  74   RVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNL-GAVSDVTVGGVIGSGTHNTGIK  132
+            R+L VD+      VEAGI   +L  QL + G    +   ++   TVGG +   T  +G+K
+Sbjct  175  RILWVDENNLTAHVEAGITGQELERQLKESGYCTGHEPDSLEFSTVGGWV--STRASGMK  232
+
+Query  133  ---HGILATQVVALTLMKADGTVLECSE----SSNADVFQAARVHLGCLGVILTVTLQCV  185
+               +G +   VV + ++   G + +  +    S+  D+        G LGVI   T++  
+Sbjct  233  KNIYGNIEDLVVHIKMVTPRGIIEKSCQGPRMSTGPDIHHFIMGSEGTLGVITEATIKIR  292
+
+Query  186  P  186
+            P
+Sbjct  293  P  293
+
+
+
+
+>alkyldihydroxyacetonephosphate synthase, peroxisomal precursor [Homo sapiens]
+Sequence ID: NP_003650.1 Length: 658
+>RecName: Full=Alkyldihydroxyacetonephosphate synthase, peroxisomal; Short=Alkyl-DHAP synthase; AltName: Full=Aging-associated gene 5 protein; AltName: Full=Alkylglycerone-phosphate synthase; Flags: Precursor [Homo sapiens]
+Sequence ID: O00116.1 Length: 658
+>Alkylglycerone phosphate synthase [Homo sapiens]
+Sequence ID: AAI41821.1 Length: 658
+>aging-associated protein 5 [Homo sapiens]
+Sequence ID: AAT11152.1 Length: 658
+>alkyl-dihydroxyacetonephosphate synthase precursor [Homo sapiens]
+Sequence ID: CAA70591.1 Length: 658
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAG36924.1 Length: 658 
+Range 1: 206 to 383
+
+Score:47.4 bits(111), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:49/181(27%), Positives:83/181(45%), Gaps:18/181(9%)
+
+Query  21   PEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHS-------PSDIACTDGFMIHMGKMN  73
+            P++   PT   +V +++ LA + N  +  +GGG S       P+D   T    +   +MN
+Sbjct  206  PDIVLWPTCHDDVVKIVNLACKYNLCIIPIGGGTSVSYGLMCPADETRTI-ISLDTSQMN  264
+
+Query  74   RVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNL-GAVSDVTVGGVIGSGTHNTGIK  132
+            R+L VD+      VEAGI   +L  QL + G    +   ++   TVGG +   T  +G+K
+Sbjct  265  RILWVDENNLTAHVEAGITGQELERQLKESGYCTGHEPDSLEFSTVGGWV--STRASGMK  322
+
+Query  133  ---HGILATQVVALTLMKADGTVLECSE----SSNADVFQAARVHLGCLGVILTVTLQCV  185
+               +G +   VV + ++   G + +  +    S+  D+        G LGVI   T++  
+Sbjct  323  KNIYGNIEDLVVHIKMVTPRGIIEKSCQGPRMSTGPDIHHFIMGSEGTLGVITEATIKIR  382
+
+Query  186  P  186
+            P
+Sbjct  383  P  383
+
+
+
+
+>alkylglycerone phosphate synthase, isoform CRA_a [Homo sapiens]
+Sequence ID: EAX11057.1 Length: 536
+Range 1: 84 to 261
+
+Score:47.0 bits(110), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:49/181(27%), Positives:83/181(45%), Gaps:18/181(9%)
+
+Query  21   PEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHS-------PSDIACTDGFMIHMGKMN  73
+            P++   PT   +V +++ LA + N  +  +GGG S       P+D   T    +   +MN
+Sbjct  84   PDIVLWPTCHDDVVKIVNLACKYNLCIIPIGGGTSVSYGLMCPADETRTI-ISLDTSQMN  142
+
+Query  74   RVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNL-GAVSDVTVGGVIGSGTHNTGIK  132
+            R+L VD+      VEAGI   +L  QL + G    +   ++   TVGG +   T  +G+K
+Sbjct  143  RILWVDENNLTAHVEAGITGQELERQLKESGYCTGHEPDSLEFSTVGGWV--STRASGMK  200
+
+Query  133  ---HGILATQVVALTLMKADGTVLECSE----SSNADVFQAARVHLGCLGVILTVTLQCV  185
+               +G +   VV + ++   G + +  +    S+  D+        G LGVI   T++  
+Sbjct  201  KNIYGNIEDLVVHIKMVTPRGIIEKSCQGPRMSTGPDIHHFIMGSEGTLGVITEATIKIR  260
+
+Query  186  P  186
+            P
+Sbjct  261  P  261
+
+
+
+
+>alkylglycerone phosphate synthase, isoform CRA_b [Homo sapiens]
+Sequence ID: EAX11058.1 Length: 684
+Range 1: 232 to 409
+
+Score:47.0 bits(110), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:49/181(27%), Positives:83/181(45%), Gaps:18/181(9%)
+
+Query  21   PEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHS-------PSDIACTDGFMIHMGKMN  73
+            P++   PT   +V +++ LA + N  +  +GGG S       P+D   T    +   +MN
+Sbjct  232  PDIVLWPTCHDDVVKIVNLACKYNLCIIPIGGGTSVSYGLMCPADETRTI-ISLDTSQMN  290
+
+Query  74   RVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSN-LGAVSDVTVGGVIGSGTHNTGIK  132
+            R+L VD+      VEAGI   +L  QL + G    +   ++   TVGG +   T  +G+K
+Sbjct  291  RILWVDENNLTAHVEAGITGQELERQLKESGYCTGHEPDSLEFSTVGGWV--STRASGMK  348
+
+Query  133  ---HGILATQVVALTLMKADGTVLECSE----SSNADVFQAARVHLGCLGVILTVTLQCV  185
+               +G +   VV + ++   G + +  +    S+  D+        G LGVI   T++  
+Sbjct  349  KNIYGNIEDLVVHIKMVTPRGIIEKSCQGPRMSTGPDIHHFIMGSEGTLGVITEATIKIR  408
+
+Query  186  P  186
+            P
+Sbjct  409  P  409
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAH14611.1 Length: 320
+Range 1: 76 to 258
+
+Score:45.4 bits(106), Expect:5e-04, 
+Method:Compositional matrix adjust., 
+Identities:50/186(27%), Positives:86/186(46%), Gaps:20/186(10%)
+
+Query  21   PEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHS-------PSDIACTDGFMIHMGKMN  73
+            P++   PT   +V +++ LA + N  +  +GGG S       P+D   T        +MN
+Sbjct  76   PDVVLWPTCHDDVVKIVNLACKYNLCIIPIGGGTSVSYGLMCPADETRTI-ISSDTSQMN  134
+
+Query  74   RVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSN-LGAVSDVTVGGVIGSGTHNTGIK  132
+            R+L VD+      VEAGI   +L  QL + G    +   ++   TVGG +   T  +G+K
+Sbjct  135  RILWVDENNLTAHVEAGITGQELERQLKESGYCTGHEPDSLEFSTVGGWV--STRASGMK  192
+
+Query  133  ---HGILATQVVALTLMKADGTVLECSE----SSNADVFQAARVHLGCLGVIL--TVTLQ  183
+               +G +   VV + ++   G + +  +    S+  D+        G LGVI   T+ ++
+Sbjct  193  KNIYGNIEDLVVHIKMVTPRGIIEKSCQGPRMSTGPDIHHFTMGSEGTLGVITEATIKIR  252
+
+Query  184  CVPQFH  189
+             VP++ 
+Sbjct  253  PVPEYQ  258
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAH14155.1 Length: 300
+Range 1: 1 to 65
+
+Score:44.3 bits(103), Expect:0.001, 
+Method:Compositional matrix adjust., 
+Identities:19/65(29%), Positives:36/65(55%), Gaps:0/65(0%)
+
+Query  122  IGSGTHNTGIKHGILATQVVALTLMKADGTVLECSESSNADVFQAARVHLGCLGVILTVT  181
+            +G+G  ++  K+G+      A  L+ ADG+ + C+ S N+D+F A     G LG ++   
+Sbjct  1    MGTGIESSSHKYGLFQHICTAYELVLADGSFVRCTPSENSDLFYAVPWSCGTLGFLVAAE  60
+
+Query  182  LQCVP  186
+            ++ +P
+Sbjct  61   IRIIP  65
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform 3 [Homo sapiens]
+Sequence ID: NP_001339753.1 Length: 334
+Range 1: 4 to 96
+
+Score:41.2 bits(95), Expect:0.012, 
+Method:Compositional matrix adjust., 
+Identities:29/96(30%), Positives:50/96(52%), Gaps:12/96(12%)
+
+Query  109  NLGAVSDVTVGGVIGSGTHNTG----IKHGILATQVVALTLMKADGTVLEC-----SESS  159
+            +LGA     +GG + +   N G    +++G L   V+ L ++ ADGTVL+C      +++
+Sbjct  4    DLGAKGSCHIGGNVAT---NAGGLRFLRYGSLHGTVLGLEVVLADGTVLDCLTSLRKDNT  60
+
+Query  160  NADVFQAARVHLGCLGVILTVTLQCVPQFHLLETSF  195
+              D+ Q      G LG+I TV++ C P+   +  +F
+Sbjct  61   GYDLKQLFIGSEGTLGIITTVSILCPPKPRAVNVAF  96
+
+
+
+
+>unknown, partial [Homo sapiens]
+Sequence ID: AAY14986.1 Length: 332
+Range 1: 206 to 325
+
+Score:39.7 bits(91), Expect:0.031, 
+Method:Compositional matrix adjust., 
+Identities:37/123(30%), Positives:59/123(47%), Gaps:11/123(8%)
+
+Query  21   PEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHS-------PSDIACTDGFMIHMGKMN  73
+            P++   PT   +V +++ LA + N  +  +GGG S       P+D   T    +   +MN
+Sbjct  206  PDIVLWPTCHDDVVKIVNLACKYNLCIIPIGGGTSVSYGLMCPADETRTI-ISLDTSQMN  264
+
+Query  74   RVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNL-GAVSDVTVGGVIGSGTHNTGIK  132
+            R+L VD+      VEAGI   +L  QL + G    +   ++   TVGG +   T  +G+K
+Sbjct  265  RILWVDENNLTAHVEAGITGQELERQLKESGYCTGHEPDSLEFSTVGGWV--STRASGMK  322
+
+Query  133  HGI  135
+              I
+Sbjct  323  KNI  325
+
+
+
+
+
+
+
+		
+
+

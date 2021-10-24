@@ -1,0 +1,333 @@
+RID: RADCJZT501N	
+Job Title:blastp nr				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: L-gulonolactone oxidase [Mus musculus] Query ID: ref|NP_848862.1 Length: 440
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+delta(24)-sterol reductase precursor [Homo sapiens]               Homo sapiens    human           9606       68.6   68.6  26%   7e-11 31.09  516        NP_055577.1      
+putative protein product of Nbla03646 [Homo sapiens]              Homo sapiens    human           9606       68.2   68.2  26%   1e-10 31.09  427        BAE45721.1       
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       67.3   67.3  26%   2e-10 31.09  475        BAH13803.1       
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       67.3   67.3  26%   2e-10 31.09  475        BAH14790.1       
+alkyldihydroxyacetonephosphate synthase, peroxisomal isoform X... Homo sapiens    human           9606       51.0   51.0  38%   2e-05 26.88  568        XP_011510343.1   
+alkyldihydroxyacetonephosphate synthase, peroxisomal precursor... Homo sapiens    human           9606       50.6   50.6  38%   2e-05 26.88  658        NP_003650.1      
+alkylglycerone phosphate synthase, isoform CRA_b [Homo sapiens]   Homo sapiens    human           9606       50.6   50.6  38%   3e-05 26.88  684        EAX11058.1       
+alkylglycerone phosphate synthase, isoform CRA_a [Homo sapiens]   Homo sapiens    human           9606       50.6   50.6  38%   3e-05 26.88  536        EAX11057.1       
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       48.9   48.9  38%   7e-05 26.88  320        BAH14611.1       
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       44.3   44.3  14%   0.002 29.23  300        BAH14155.1       
+unknown [Homo sapiens]                                            Homo sapiens    human           9606       42.2   42.2  26%   0.008 30.08  332        AAY14986.1       
+alkyldihydroxyacetonephosphate synthase, peroxisomal isoform X... Homo sapiens    human           9606       41.0   41.0  27%   0.020 27.91  413        XP_011510345.1   
+
+
+Alignments:
+
+>delta(24)-sterol reductase precursor [Homo sapiens]
+Sequence ID: NP_055577.1 Length: 516
+>RecName: Full=Delta(24)-sterol reductase; AltName: Full=24-dehydrocholesterol reductase; AltName: Full=3-beta-hydroxysterol Delta-24-reductase; AltName: Full=Diminuto/dwarf1 homolog; AltName: Full=Seladin-1; Flags: Precursor [Homo sapiens]
+Sequence ID: Q15392.2 Length: 516
+>seladin-1 [Homo sapiens]
+Sequence ID: AAG17288.1 Length: 516
+>24-dehydrocholesterol reductase [Homo sapiens]
+Sequence ID: AAH04375.1 Length: 516
+>24-dehydrocholesterol reductase [Homo sapiens]
+Sequence ID: AAH11669.1 Length: 516 
+Range 1: 115 to 233
+
+Score:68.6 bits(155), Expect:7e-11, 
+Method:Compositional matrix adjust., 
+Identities:37/119(31%), Positives:54/119(45%), Gaps:1/119(0%)
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGGVI-GSGTH  127
+            M  +  +L+VD  K+ V VE  + +      L   G  L  L    D TVGG I G+G  
+Sbjct  115  MINLMDILEVDTKKQIVRVEPLVTMGQVTALLTSIGWTLPVLPELDDLTVGGLIMGTGIE  174
+
+Query  128  NTGIKHGILATQVVALTLMKADGTVLECSESSNADVFQAARVHLGCLGVILTVTLQCVP  186
+             +  K+G+      A  L  ADG+   C+ S N+D F A     G LG +    ++ +P
+Sbjct  175  SSSHKYGLFQHICTAYELVLADGSFVRCTPSENSDLFYAVPWSCGTLGFLVAAEIRIIP  233
+
+
+
+
+>putative protein product of Nbla03646 [Homo sapiens]
+Sequence ID: BAE45721.1 Length: 427
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAH14186.1 Length: 427
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAH14798.1 Length: 427 
+Range 1: 26 to 144
+
+Score:68.2 bits(154), Expect:1e-10, 
+Method:Compositional matrix adjust., 
+Identities:37/119(31%), Positives:54/119(45%), Gaps:1/119(0%)
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGGVI-GSGTH  127
+            M  +  +L+VD  K+ V VE  + +      L   G  L  L    D TVGG I G+G  
+Sbjct  26   MINLMDILEVDTKKQIVRVEPLVTMGQVTALLTSIGWTLPVLPELDDLTVGGLIMGTGIE  85
+
+Query  128  NTGIKHGILATQVVALTLMKADGTVLECSESSNADVFQAARVHLGCLGVILTVTLQCVP  186
+             +  K+G+      A  L  ADG+   C+ S N+D F A     G LG +    ++ +P
+Sbjct  86   SSSHKYGLFQHICTAYELVLADGSFVRCTPSENSDLFYAVPWSCGTLGFLVAAEIRIIP  144
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAH13803.1 Length: 475
+Range 1: 74 to 192
+
+Score:67.3 bits(152), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:37/119(31%), Positives:54/119(45%), Gaps:1/119(0%)
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGGVI-GSGTH  127
+            M  +  +L+VD  K+ V VE  + +      L   G  L  L    D TVGG I G+G  
+Sbjct  74   MINLMDILEVDTKKQIVRVEPLVTMGQVTALLTSIGWTLPVLPELDDLTVGGLIMGTGIE  133
+
+Query  128  NTGIKHGILATQVVALTLMKADGTVLECSESSNADVFQAARVHLGCLGVILTVTLQCVP  186
+             +  K+G+      A  L  ADG+   C+ S N+D F A     G LG +    ++ +P
+Sbjct  134  SSSHKYGLFQHICTAYELVLADGSFVRCTPSENSDLFYAVPWSCGTLGFLVAAEIRIIP  192
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAH14790.1 Length: 475
+Range 1: 74 to 192
+
+Score:67.3 bits(152), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:37/119(31%), Positives:54/119(45%), Gaps:1/119(0%)
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGGVI-GSGTH  127
+            M  +  +L+VD  K+ V VE  + +      L   G  L  L    D TVGG I G+G  
+Sbjct  74   MINLMDILEVDTKKQIVRVEPLVTMGQVTALLTSIGWTLPVLPELDDLTVGGLIMGTGIE  133
+
+Query  128  NTGIKHGILATQVVALTLMKADGTVLECSESSNADVFQAARVHLGCLGVILTVTLQCVP  186
+             +  K+G+      A  L  ADG+   C+ S N+D F A     G LG +    ++ +P
+Sbjct  134  SSSHKYGLFQHICTAYELVLADGSFVRCTPSENSDLFYAVPWSCGTLGFLVAAEIRIIP  192
+
+
+
+
+>alkyldihydroxyacetonephosphate synthase, peroxisomal isoform X1 [Homo sapiens]
+Sequence ID: XP_011510343.1 Length: 568
+>alkyldihydroxyacetonephosphate synthase, peroxisomal isoform X1 [Homo sapiens]
+Sequence ID: XP_011510344.1 Length: 568
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAH12290.1 Length: 568 
+Range 1: 116 to 298
+
+Score:51.0 bits(113), Expect:2e-05, 
+Method:Compositional matrix adjust., 
+Identities:50/186(27%), Positives:81/186(43%), Gaps:20/186(10%)
+
+Query  21   PEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHS-------PSDIACTDGFMIHMGKMN  73
+            P++   PT   +V  +  LA + N  +  +GGG S       P+D   T    +   +MN
+Sbjct  116  PDIVLWPTCHDDVVKIVNLACKYNLCIIPIGGGTSVSYGLMCPADETRTI-ISLDTSQMN  174
+
+Query  74   RVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSN-LGAVSDVTVGGVIGSGTHNTGIK  132
+            R+L VD       VEAGI   +L  QL   G        +    TVGG +   T  +G+K
+Sbjct  175  RILWVDENNLTAHVEAGITGQELERQLKESGYCTGHEPDSLEFSTVGGWV--STRASGMK  232
+
+Query  133  ---HGILATQVVALTLMKADGTVLECSE----SSNADVFQAARVHLGCLGVIL--TVTLQ  183
+               +G +   VV + +    G +    +    S+  D+ +      G LGVI   T+ ++
+Sbjct  233  KNIYGNIEDLVVHIKMVTPRGIIEKSCQGPRMSTGPDIHHFIMGSEGTLGVITEATIKIR  292
+
+Query  184  CVPQFH  189
+             VP+++
+Sbjct  293  PVPEYQ  298
+
+
+
+
+>alkyldihydroxyacetonephosphate synthase, peroxisomal precursor [Homo sapiens]
+Sequence ID: NP_003650.1 Length: 658
+>RecName: Full=Alkyldihydroxyacetonephosphate synthase, peroxisomal; Short=Alkyl-DHAP synthase; AltName: Full=Aging-associated gene 5 protein; AltName: Full=Alkylglycerone-phosphate synthase; Flags: Precursor [Homo sapiens]
+Sequence ID: O00116.1 Length: 658
+>Alkylglycerone phosphate synthase [Homo sapiens]
+Sequence ID: AAI41821.1 Length: 658
+>aging-associated protein 5 [Homo sapiens]
+Sequence ID: AAT11152.1 Length: 658
+>alkyl-dihydroxyacetonephosphate synthase precursor [Homo sapiens]
+Sequence ID: CAA70591.1 Length: 658
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAG36924.1 Length: 658 
+Range 1: 206 to 388
+
+Score:50.6 bits(112), Expect:2e-05, 
+Method:Compositional matrix adjust., 
+Identities:50/186(27%), Positives:81/186(43%), Gaps:20/186(10%)
+
+Query  21   PEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHS-------PSDIACTDGFMIHMGKMN  73
+            P++   PT   +V  +  LA + N  +  +GGG S       P+D   T    +   +MN
+Sbjct  206  PDIVLWPTCHDDVVKIVNLACKYNLCIIPIGGGTSVSYGLMCPADETRTI-ISLDTSQMN  264
+
+Query  74   RVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSN-LGAVSDVTVGGVIGSGTHNTGIK  132
+            R+L VD       VEAGI   +L  QL   G        +    TVGG +   T  +G+K
+Sbjct  265  RILWVDENNLTAHVEAGITGQELERQLKESGYCTGHEPDSLEFSTVGGWV--STRASGMK  322
+
+Query  133  ---HGILATQVVALTLMKADGTVLECSE----SSNADVFQAARVHLGCLGVIL--TVTLQ  183
+               +G +   VV + +    G +    +    S+  D+ +      G LGVI   T+ ++
+Sbjct  323  KNIYGNIEDLVVHIKMVTPRGIIEKSCQGPRMSTGPDIHHFIMGSEGTLGVITEATIKIR  382
+
+Query  184  CVPQFH  189
+             VP+++
+Sbjct  383  PVPEYQ  388
+
+
+
+
+>alkylglycerone phosphate synthase, isoform CRA_b [Homo sapiens]
+Sequence ID: EAX11058.1 Length: 684
+Range 1: 232 to 414
+
+Score:50.6 bits(112), Expect:3e-05, 
+Method:Compositional matrix adjust., 
+Identities:50/186(27%), Positives:81/186(43%), Gaps:20/186(10%)
+
+Query  21   PEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHS-------PSDIACTDGFMIHMGKMN  73
+            P++   PT   +V  +  LA + N  +  +GGG S       P+D   T    +   +MN
+Sbjct  232  PDIVLWPTCHDDVVKIVNLACKYNLCIIPIGGGTSVSYGLMCPADETRTI-ISLDTSQMN  290
+
+Query  74   RVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSN-LGAVSDVTVGGVIGSGTHNTGIK  132
+            R+L VD       VEAGI   +L  QL   G        +    TVGG +   T  +G+K
+Sbjct  291  RILWVDENNLTAHVEAGITGQELERQLKESGYCTGHEPDSLEFSTVGGWV--STRASGMK  348
+
+Query  133  ---HGILATQVVALTLMKADGTVLECSE----SSNADVFQAARVHLGCLGVIL--TVTLQ  183
+               +G +   VV + +    G +    +    S+  D+ +      G LGVI   T+ ++
+Sbjct  349  KNIYGNIEDLVVHIKMVTPRGIIEKSCQGPRMSTGPDIHHFIMGSEGTLGVITEATIKIR  408
+
+Query  184  CVPQFH  189
+             VP+++
+Sbjct  409  PVPEYQ  414
+
+
+
+
+>alkylglycerone phosphate synthase, isoform CRA_a [Homo sapiens]
+Sequence ID: EAX11057.1 Length: 536
+Range 1: 84 to 266
+
+Score:50.6 bits(112), Expect:3e-05, 
+Method:Compositional matrix adjust., 
+Identities:50/186(27%), Positives:81/186(43%), Gaps:20/186(10%)
+
+Query  21   PEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHS-------PSDIACTDGFMIHMGKMN  73
+            P++   PT   +V  +  LA + N  +  +GGG S       P+D   T    +   +MN
+Sbjct  84   PDIVLWPTCHDDVVKIVNLACKYNLCIIPIGGGTSVSYGLMCPADETRTI-ISLDTSQMN  142
+
+Query  74   RVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSN-LGAVSDVTVGGVIGSGTHNTGIK  132
+            R+L VD       VEAGI   +L  QL   G        +    TVGG +   T  +G+K
+Sbjct  143  RILWVDENNLTAHVEAGITGQELERQLKESGYCTGHEPDSLEFSTVGGWV--STRASGMK  200
+
+Query  133  ---HGILATQVVALTLMKADGTVLECSE----SSNADVFQAARVHLGCLGVIL--TVTLQ  183
+               +G +   VV + +    G +    +    S+  D+ +      G LGVI   T+ ++
+Sbjct  201  KNIYGNIEDLVVHIKMVTPRGIIEKSCQGPRMSTGPDIHHFIMGSEGTLGVITEATIKIR  260
+
+Query  184  CVPQFH  189
+             VP+++
+Sbjct  261  PVPEYQ  266
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAH14611.1 Length: 320
+Range 1: 76 to 258
+
+Score:48.9 bits(108), Expect:7e-05, 
+Method:Compositional matrix adjust., 
+Identities:50/186(27%), Positives:79/186(42%), Gaps:20/186(10%)
+
+Query  21   PEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHS-------PSDIACTDGFMIHMGKMN  73
+            P+    PT   +V  +  LA + N  +  +GGG S       P+D   T        +MN
+Sbjct  76   PDVVLWPTCHDDVVKIVNLACKYNLCIIPIGGGTSVSYGLMCPADETRTI-ISSDTSQMN  134
+
+Query  74   RVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSN-LGAVSDVTVGGVIGSGTHNTGIK  132
+            R+L VD       VEAGI   +L  QL   G        +    TVGG +   T  +G+K
+Sbjct  135  RILWVDENNLTAHVEAGITGQELERQLKESGYCTGHEPDSLEFSTVGGWV--STRASGMK  192
+
+Query  133  ---HGILATQVVALTLMKADGTVLECSE----SSNADVFQAARVHLGCLGVIL--TVTLQ  183
+               +G +   VV + +    G +    +    S+  D+ +      G LGVI   T+ ++
+Sbjct  193  KNIYGNIEDLVVHIKMVTPRGIIEKSCQGPRMSTGPDIHHFTMGSEGTLGVITEATIKIR  252
+
+Query  184  CVPQFH  189
+             VP+++
+Sbjct  253  PVPEYQ  258
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAH14155.1 Length: 300
+Range 1: 1 to 65
+
+Score:44.3 bits(97), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:19/65(29%), Positives:31/65(47%), Gaps:0/65(0%)
+
+Query  122  IGSGTHNTGIKHGILATQVVALTLMKADGTVLECSESSNADVFQAARVHLGCLGVILTVT  181
+            +G+G   +  K+G+      A  L  ADG+   C+ S N+D F A     G LG +    
+Sbjct  1    MGTGIESSSHKYGLFQHICTAYELVLADGSFVRCTPSENSDLFYAVPWSCGTLGFLVAAE  60
+
+Query  182  LQCVP  186
+            ++ +P
+Sbjct  61   IRIIP  65
+
+
+
+
+>unknown, partial [Homo sapiens]
+Sequence ID: AAY14986.1 Length: 332
+Range 1: 206 to 325
+
+Score:42.2 bits(92), Expect:0.008, 
+Method:Compositional matrix adjust., 
+Identities:37/123(30%), Positives:53/123(43%), Gaps:11/123(8%)
+
+Query  21   PEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHS-------PSDIACTDGFMIHMGKMN  73
+            P++   PT   +V  +  LA + N  +  +GGG S       P+D   T    +   +MN
+Sbjct  206  PDIVLWPTCHDDVVKIVNLACKYNLCIIPIGGGTSVSYGLMCPADETRTI-ISLDTSQMN  264
+
+Query  74   RVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSN-LGAVSDVTVGGVIGSGTHNTGIK  132
+            R+L VD       VEAGI   +L  QL   G        +    TVGG +   T  +G+K
+Sbjct  265  RILWVDENNLTAHVEAGITGQELERQLKESGYCTGHEPDSLEFSTVGGWV--STRASGMK  322
+
+Query  133  HGI  135
+              I
+Sbjct  323  KNI  325
+
+
+
+
+>alkyldihydroxyacetonephosphate synthase, peroxisomal isoform X2 [Homo sapiens]
+Sequence ID: XP_011510345.1 Length: 413
+Range 1: 17 to 143
+
+Score:41.0 bits(89), Expect:0.020, 
+Method:Compositional matrix adjust., 
+Identities:36/129(28%), Positives:58/129(44%), Gaps:12/129(9%)
+
+Query  71   KMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSN-LGAVSDVTVGGVIGSGTHNT  129
+            +MNR+L VD       VEAGI   +L  QL   G        +    TVGG +   T  +
+Sbjct  17   QMNRILWVDENNLTAHVEAGITGQELERQLKESGYCTGHEPDSLEFSTVGGWV--STRAS  74
+
+Query  130  GIK---HGILATQVVALTLMKADGTVLECSE----SSNADVFQAARVHLGCLGVIL--TV  180
+            G+K   +G +   VV + +    G +    +    S+  D+ +      G LGVI   T+
+Sbjct  75   GMKKNIYGNIEDLVVHIKMVTPRGIIEKSCQGPRMSTGPDIHHFIMGSEGTLGVITEATI  134
+
+Query  181  TLQCVPQFH  189
+             ++ VP+++
+Sbjct  135  KIRPVPEYQ  143
+
+
+
+
+
+
+
+		
+
+
