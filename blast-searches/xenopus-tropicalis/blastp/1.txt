@@ -1,0 +1,551 @@
+RID: RAPUZR1601N	
+Job Title:NP_848862:L-gulonolactone oxidase [Mus musculus]				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: L-gulonolactone oxidase [Mus musculus] Query ID: ref|NP_848862.1 Length: 440
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+L-gulonolactone oxidase [Xenopus tropicalis]                      Xenopus trop... tropical cla... 8364       683    683   100%  0.0   71.82  440        XP_031758963.1   
+delta(24)-sterol reductase [Xenopus tropicalis]                   Xenopus trop... tropical cla... 8364       62.8   62.8  26%   6e-10 28.57  516        NP_001016800.1   
+delta(24)-sterol reductase isoform X1 [Xenopus tropicalis]        Xenopus trop... tropical cla... 8364       62.8   62.8  26%   6e-10 28.57  516        XP_031755958.1   
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X1...   Xenopus trop... tropical cla... 8364       54.3   54.3  39%   3e-07 23.78  557        XP_004917918.1   
+hypothetical protein XENTR_v10014717 [Xenopus tropicalis]         Xenopus trop... tropical cla... 8364       53.9   53.9  39%   3e-07 23.08  346        KAE8604471.1     
+hypothetical protein XENTR_v10014717 [Xenopus tropicalis]         Xenopus trop... tropical cla... 8364       54.3   54.3  39%   3e-07 23.08  447        KAE8604466.1     
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X2...   Xenopus trop... tropical cla... 8364       54.3   54.3  39%   3e-07 23.78  525        XP_002936654.1   
+hypothetical protein XENTR_v10012084 [Xenopus tropicalis]         Xenopus trop... tropical cla... 8364       52.8   52.8  19%   7e-07 30.68  378        KAE8610327.1     
+hypothetical protein XENTR_v10011777 [Xenopus tropicalis]         Xenopus trop... tropical cla... 8364       46.2   46.2  41%   8e-05 23.47  369        KAE8609326.1     
+hypothetical protein XENTR_v10011777 [Xenopus tropicalis]         Xenopus trop... tropical cla... 8364       46.2   46.2  41%   9e-05 23.47  395        KAE8609325.1     
+hypothetical protein XENTR_v10011777 [Xenopus tropicalis]         Xenopus trop... tropical cla... 8364       45.4   45.4  41%   2e-04 23.47  430        KAE8609324.1     
+probable D-lactate dehydrogenase, mitochondrial [Xenopus...       Xenopus trop... tropical cla... 8364       44.7   44.7  41%   3e-04 23.47  484        XP_002931724.3   
+hypothetical protein XENTR_v10011777 [Xenopus tropicalis]         Xenopus trop... tropical cla... 8364       43.9   43.9  41%   4e-04 23.47  344        KAE8609328.1     
+hypothetical protein XENTR_v10011777 [Xenopus tropicalis]         Xenopus trop... tropical cla... 8364       42.7   42.7  41%   8e-04 23.47  277        KAE8609330.1     
+hypothetical protein XENTR_v10012084 [Xenopus tropicalis]         Xenopus trop... tropical cla... 8364       42.7   42.7  14%   0.001 27.69  348        KAE8610329.1     
+alkyldihydroxyacetonephosphate synthase, peroxisomal [Xenopus...  Xenopus trop... tropical cla... 8364       42.0   42.0  37%   0.003 23.89  626        NP_001120301.1   
+hypothetical protein XENTR_v10024571 [Xenopus tropicalis]         Xenopus trop... tropical cla... 8364       41.2   41.2  37%   0.005 23.89  663        KAE8580862.1     
+D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X3...   Xenopus trop... tropical cla... 8364       39.3   39.3  25%   0.013 26.02  369        XP_031758405.1   
+hypothetical protein XENTR_v10011777 [Xenopus tropicalis]         Xenopus trop... tropical cla... 8364       38.9   38.9  30%   0.020 24.66  369        KAE8609327.1     
+
+
+Alignments:
+
+>L-gulonolactone oxidase [Xenopus tropicalis]
+Sequence ID: XP_031758963.1 Length: 440
+>hypothetical protein XENTR_v10015201 [Xenopus tropicalis]
+Sequence ID: KAE8605568.1 Length: 440 
+Range 1: 1 to 440
+
+Score:683 bits(1763), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:316/440(72%), Positives:370/440(84%), Gaps:0/440(0%)
+
+Query  1    MVHGYKGVQFQNWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSDIA  60
+            MV G  G +FQNWA+TYG SPE+Y+QPT V E++E+L LARQ++K+VKVVGGGHSPSDIA
+Sbjct  1    MVVGRGGYKFQNWAQTYGSSPELYFQPTCVEEIKEILDLARQRSKRVKVVGGGHSPSDIA  60
+
+Query  61   CTDGFMIHMGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGG  120
+            CTD FMI M KMNR+L+VDKEKKQVTVE G+LLTDL+ +LDK GLALSNLGAVS+V   G
+Sbjct  61   CTDDFMIRMDKMNRILKVDKEKKQVTVEGGMLLTDLNKELDKRGLALSNLGAVSEVAAAG  120
+
+Query  121  VIGSGTHNTGIKHGILATQVVALTLMKADGTVLECSESSNADVFQAARVHLGCLGVILTV  180
+            VIG+GTHNTGI HGILATQVVAL LM A G +LECSE++N ++FQAAR+HLG LGVIL+V
+Sbjct  121  VIGTGTHNTGITHGILATQVVALALMTASGEILECSEATNPEIFQAARLHLGSLGVILSV  180
+
+Query  181  TLQCVPQFHLLETSFPSTLKEVLDNLDSHLKKSEYFRFLWFPHSENVSIIYQDHTNKEPS  240
+            T+QC   F L E  F S+L+EVLDNLD+HL  SEYFRF WFPH+ENVS+ YQD T+K P+
+Sbjct  181  TIQCRSAFRLKEIQFSSSLQEVLDNLDAHLNSSEYFRFFWFPHTENVSVFYQDPTDKPPA  240
+
+Query  241  SASNWFWDYAIGFYLLEFLLWTSTYLPRLVGWINRFFFWLLFNCKKESSNLSHKIFSYEC  300
+            S +NWF D  +G+YLLEFLLW ST++  +V WINRFFF LLF  K +  N+SHK+F+++C
+Sbjct  241  SKANWFRDSFLGYYLLEFLLWISTFMSGMVPWINRFFFRLLFASKSQRVNISHKVFNFDC  300
+
+Query  301  RFKQHVQDWAIPREKTKEALLELKAMLEAHPKVVAHYPVEVRFTRGDDILLSPCFQRDSC  360
+             FKQHVQDWAIP EKTK+AL++LK  LE +P VVAH+PVEVRF RGDDIL+SPC+ RDSC
+Sbjct  301  LFKQHVQDWAIPIEKTKDALMQLKDWLEKNPHVVAHFPVEVRFARGDDILMSPCYHRDSC  360
+
+Query  361  YMNIIMYRPYGKDVPRLDYWLAYETIMKKFGGRPHWAKAHNCTRKDFEKMYPAFHKFCDI  420
+            YMNIIMYRPYGKDVP  +YW+ YE IMKK GGRPHWAKAH CTRKDFEKMYPAF KF  I
+Sbjct  361  YMNIIMYRPYGKDVPHQEYWVEYENIMKKVGGRPHWAKAHTCTRKDFEKMYPAFGKFKGI  420
+
+Query  421  REKLDPTGMFLNSYLEKVFY  440
+            REKLD TGMFLN+YLEKVFY
+Sbjct  421  REKLDTTGMFLNAYLEKVFY  440
+
+
+
+
+>delta(24)-sterol reductase [Xenopus tropicalis]
+Sequence ID: NP_001016800.1 Length: 516
+>24-dehydrocholesterol reductase [Xenopus tropicalis]
+Sequence ID: CAJ81730.1 Length: 516 
+Range 1: 115 to 233
+
+Score:62.8 bits(151), Expect:6e-10, 
+Method:Compositional matrix adjust., 
+Identities:34/119(29%), Positives:65/119(54%), Gaps:1/119(0%)
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGGVI-GSGTH  127
+            M  +  +L+VD +++ V VE  + +  +   L+  G  L  +  + D+TVGG+I G+G  
+Sbjct  115  MINLMDILEVDTKRQVVRVEPLVNMGQVTALLNSIGWTLPVVPELDDLTVGGLIMGTGIE  174
+
+Query  128  NTGIKHGILATQVVALTLMKADGTVLECSESSNADVFQAARVHLGCLGVILTVTLQCVP  186
+            ++    G+     +A  L+ ADG+++ C+ + N+D+F A     G LG ++   ++ VP
+Sbjct  175  SSSHNFGLFQHICLAYELVLADGSLVRCTPTENSDLFYAVPWSCGTLGFLVAAEIKIVP  233
+
+
+
+
+>delta(24)-sterol reductase isoform X1 [Xenopus tropicalis]
+Sequence ID: XP_031755958.1 Length: 516
+>24-dehydrocholesterol reductase [Xenopus tropicalis]
+Sequence ID: AAI35188.1 Length: 516
+>hypothetical protein XENTR_v10012084 [Xenopus tropicalis]
+Sequence ID: KAE8610325.1 Length: 516
+>hypothetical protein XENTR_v10012084 [Xenopus tropicalis]
+Sequence ID: KAE8610326.1 Length: 516 
+Range 1: 115 to 233
+
+Score:62.8 bits(151), Expect:6e-10, 
+Method:Compositional matrix adjust., 
+Identities:34/119(29%), Positives:65/119(54%), Gaps:1/119(0%)
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGGVI-GSGTH  127
+            M  +  +L+VD +++ V VE  + +  +   L+  G  L  +  + D+TVGG+I G+G  
+Sbjct  115  MINLMDILEVDTKRQVVRVEPLVNMGQVTALLNSIGWTLPVVPELDDLTVGGLIMGTGIE  174
+
+Query  128  NTGIKHGILATQVVALTLMKADGTVLECSESSNADVFQAARVHLGCLGVILTVTLQCVP  186
+            ++    G+     +A  L+ ADG+++ C+ + N+D+F A     G LG ++   ++ VP
+Sbjct  175  SSSHNFGLFQHICLAYELVLADGSLVRCTPTENSDLFYAVPWSCGTLGFLVAAEIKIVP  233
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X1 [Xenopus tropicalis]
+Sequence ID: XP_004917918.1 Length: 557
+>hypothetical protein XENTR_v10014717 [Xenopus tropicalis]
+Sequence ID: KAE8604463.1 Length: 557 
+Range 1: 127 to 308
+
+Score:54.3 bits(129), Expect:3e-07, 
+Method:Compositional matrix adjust., 
+Identities:44/185(24%), Positives:84/185(45%), Gaps:15/185(8%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIHM  69
+            +W +T   + ++  +P +  EV ++L     +N  V   GG  G     +   D  ++  
+Sbjct  127  DWLRTVRGNSKLLLRPQNTEEVSKILKYCNDRNLAVSPQGGNTGLVGGSVPVFDEIILST  186
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTHN  128
+              M++V   D+    +  ++G +L  L+  L+  G  +  +LGA     +GG + +   N
+Sbjct  187  ALMDQVTSFDQVSGTLVCQSGCILESLNQYLEGQGYIMPLDLGAKGSCHIGGNLAT---N  243
+
+Query  129  TG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVILT  179
+             G    +++G L   V+ L  +  DG++L C      +++  D+ Q      G LGVI  
+Sbjct  244  AGGLRVLRYGSLRGTVLGLEAVLPDGSILNCLNSLRKDNTGYDLKQLFIGSEGTLGVITA  303
+
+Query  180  VTLQC  184
+            V++ C
+Sbjct  304  VSILC  308
+
+
+
+
+>hypothetical protein XENTR_v10014717 [Xenopus tropicalis]
+Sequence ID: KAE8604471.1 Length: 346
+Range 1: 95 to 276
+
+Score:53.9 bits(128), Expect:3e-07, 
+Method:Compositional matrix adjust., 
+Identities:42/182(23%), Positives:82/182(45%), Gaps:9/182(4%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIHM  69
+            +W +T   + ++  +P +  EV ++L     +N  V   GG  G     +   D  ++  
+Sbjct  95   DWLRTVRGNSKLLLRPQNTEEVSKILKYCNDRNLAVSPQGGNTGLVGGSVPVFDEIILST  154
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTHN  128
+              M++V   D+    +  ++G +L  L+  L+  G  +  +LGA     +GG + +    
+Sbjct  155  ALMDQVTSFDQVSGTLVCQSGCILESLNQYLEGQGYIMPLDLGAKGSCHIGGNLATNAGG  214
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVILTVTL  182
+              + ++G L   V+ L  +  DG++L C      +++  D+ Q      G LGVI  V++
+Sbjct  215  LRVLRYGSLRGTVLGLEAVLPDGSILNCLNSLRKDNTGYDLKQLFIGSEGTLGVITAVSI  274
+
+Query  183  QC  184
+             C
+Sbjct  275  LC  276
+
+
+
+
+>hypothetical protein XENTR_v10014717 [Xenopus tropicalis]
+Sequence ID: KAE8604466.1 Length: 447
+Range 1: 95 to 276
+
+Score:54.3 bits(129), Expect:3e-07, 
+Method:Compositional matrix adjust., 
+Identities:42/182(23%), Positives:82/182(45%), Gaps:9/182(4%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIHM  69
+            +W +T   + ++  +P +  EV ++L     +N  V   GG  G     +   D  ++  
+Sbjct  95   DWLRTVRGNSKLLLRPQNTEEVSKILKYCNDRNLAVSPQGGNTGLVGGSVPVFDEIILST  154
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTHN  128
+              M++V   D+    +  ++G +L  L+  L+  G  +  +LGA     +GG + +    
+Sbjct  155  ALMDQVTSFDQVSGTLVCQSGCILESLNQYLEGQGYIMPLDLGAKGSCHIGGNLATNAGG  214
+
+Query  129  TGI-KHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVILTVTL  182
+              + ++G L   V+ L  +  DG++L C      +++  D+ Q      G LGVI  V++
+Sbjct  215  LRVLRYGSLRGTVLGLEAVLPDGSILNCLNSLRKDNTGYDLKQLFIGSEGTLGVITAVSI  274
+
+Query  183  QC  184
+             C
+Sbjct  275  LC  276
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X2 [Xenopus tropicalis]
+Sequence ID: XP_002936654.1 Length: 525
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X2 [Xenopus tropicalis]
+Sequence ID: XP_031758404.1 Length: 525
+>hypothetical protein XENTR_v10014717 [Xenopus tropicalis]
+Sequence ID: KAE8604464.1 Length: 525
+>hypothetical protein XENTR_v10014717 [Xenopus tropicalis]
+Sequence ID: KAE8604465.1 Length: 525 
+Range 1: 95 to 276
+
+Score:54.3 bits(129), Expect:3e-07, 
+Method:Compositional matrix adjust., 
+Identities:44/185(24%), Positives:84/185(45%), Gaps:15/185(8%)
+
+Query  12   NWAKTYGCSPEMYYQPTSVGEVREVLALARQQNKKVKVVGG--GHSPSDIACTDGFMIHM  69
+            +W +T   + ++  +P +  EV ++L     +N  V   GG  G     +   D  ++  
+Sbjct  95   DWLRTVRGNSKLLLRPQNTEEVSKILKYCNDRNLAVSPQGGNTGLVGGSVPVFDEIILST  154
+
+Query  70   GKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTHN  128
+              M++V   D+    +  ++G +L  L+  L+  G  +  +LGA     +GG + +   N
+Sbjct  155  ALMDQVTSFDQVSGTLVCQSGCILESLNQYLEGQGYIMPLDLGAKGSCHIGGNLAT---N  211
+
+Query  129  TG----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVILT  179
+             G    +++G L   V+ L  +  DG++L C      +++  D+ Q      G LGVI  
+Sbjct  212  AGGLRVLRYGSLRGTVLGLEAVLPDGSILNCLNSLRKDNTGYDLKQLFIGSEGTLGVITA  271
+
+Query  180  VTLQC  184
+            V++ C
+Sbjct  272  VSILC  276
+
+
+
+
+>hypothetical protein XENTR_v10012084 [Xenopus tropicalis]
+Sequence ID: KAE8610327.1 Length: 378
+>hypothetical protein XENTR_v10012084 [Xenopus tropicalis]
+Sequence ID: KAE8610328.1 Length: 378 
+Range 1: 8 to 95
+
+Score:52.8 bits(125), Expect:7e-07, 
+Method:Compositional matrix adjust., 
+Identities:27/88(31%), Positives:49/88(55%), Gaps:1/88(1%)
+
+Query  100  LDKHGLALSNLGAVSDVTVGGVI-GSGTHNTGIKHGILATQVVALTLMKADGTVLECSES  158
+            L+  G  L  +  + D+TVGG+I G+G  ++    G+     +A  L+ ADG+++ C+ +
+Sbjct  8    LNSIGWTLPVVPELDDLTVGGLIMGTGIESSSHNFGLFQHICLAYELVLADGSLVRCTPT  67
+
+Query  159  SNADVFQAARVHLGCLGVILTVTLQCVP  186
+             N+D+F A     G LG ++   ++ VP
+Sbjct  68   ENSDLFYAVPWSCGTLGFLVAAEIKIVP  95
+
+
+
+
+>hypothetical protein XENTR_v10011777 [Xenopus tropicalis]
+Sequence ID: KAE8609326.1 Length: 369
+Range 1: 66 to 260
+
+Score:46.2 bits(108), Expect:8e-05, 
+Method:Compositional matrix adjust., 
+Identities:46/196(23%), Positives:85/196(43%), Gaps:15/196(7%)
+
+Query  21   PEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSD--IACTDGFMIHMGKMNRVLQV  78
+            P++   P SV +V ++  +    N  +   G G        A   G   +M +M+R+L +
+Sbjct  66   PDVVVWPQSVDQVSKMAEMCYSNNVPIIPFGTGTGLEGGVSAVMGGVCFNMTRMDRILNL  125
+
+Query  79   DKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGGVIGSGTHNT-GIKHGILA  137
+            + E   VTVE G+    L+  +   GL    +   +D ++ G+  +G   T  +++G + 
+Sbjct  126  NAEDFHVTVEPGVTRKSLNNYIRDSGLWFP-VDPGADASLCGMAATGASGTNAVRYGTMR  184
+
+Query  138  TQVVALTLMKADGTVLECSESSNADVFQAARVHL--------GCLGVILTVTLQC--VPQ  187
+              V+ L ++  DG +L  +         AA  +L        G LG+I   +L+   +P+
+Sbjct  185  ENVINLEVVLPDGRILNTAGKDRRFRKTAAGYNLTSMFVGSEGTLGLITKASLRLHGIPE  244
+
+Query  188  FHLLET-SFPSTLKEV  202
+              +    +FPS    V
+Sbjct  245  ATVAAVCAFPSVQAAV  260
+
+
+
+
+>hypothetical protein XENTR_v10011777 [Xenopus tropicalis]
+Sequence ID: KAE8609325.1 Length: 395
+Range 1: 66 to 260
+
+Score:46.2 bits(108), Expect:9e-05, 
+Method:Compositional matrix adjust., 
+Identities:46/196(23%), Positives:85/196(43%), Gaps:15/196(7%)
+
+Query  21   PEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSD--IACTDGFMIHMGKMNRVLQV  78
+            P++   P SV +V ++  +    N  +   G G        A   G   +M +M+R+L +
+Sbjct  66   PDVVVWPQSVDQVSKMAEMCYSNNVPIIPFGTGTGLEGGVSAVMGGVCFNMTRMDRILNL  125
+
+Query  79   DKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGGVIGSGTHNT-GIKHGILA  137
+            + E   VTVE G+    L+  +   GL    +   +D ++ G+  +G   T  +++G + 
+Sbjct  126  NAEDFHVTVEPGVTRKSLNNYIRDSGLWFP-VDPGADASLCGMAATGASGTNAVRYGTMR  184
+
+Query  138  TQVVALTLMKADGTVLECSESSNADVFQAARVHL--------GCLGVILTVTLQC--VPQ  187
+              V+ L ++  DG +L  +         AA  +L        G LG+I   +L+   +P+
+Sbjct  185  ENVINLEVVLPDGRILNTAGKDRRFRKTAAGYNLTSMFVGSEGTLGLITKASLRLHGIPE  244
+
+Query  188  FHLLET-SFPSTLKEV  202
+              +    +FPS    V
+Sbjct  245  ATVAAVCAFPSVQAAV  260
+
+
+
+
+>hypothetical protein XENTR_v10011777 [Xenopus tropicalis]
+Sequence ID: KAE8609324.1 Length: 430
+Range 1: 66 to 260
+
+Score:45.4 bits(106), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:46/196(23%), Positives:85/196(43%), Gaps:15/196(7%)
+
+Query  21   PEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSD--IACTDGFMIHMGKMNRVLQV  78
+            P++   P SV +V ++  +    N  +   G G        A   G   +M +M+R+L +
+Sbjct  66   PDVVVWPQSVDQVSKMAEMCYSNNVPIIPFGTGTGLEGGVSAVMGGVCFNMTRMDRILNL  125
+
+Query  79   DKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGGVIGSGTHNT-GIKHGILA  137
+            + E   VTVE G+    L+  +   GL    +   +D ++ G+  +G   T  +++G + 
+Sbjct  126  NAEDFHVTVEPGVTRKSLNNYIRDSGLWFP-VDPGADASLCGMAATGASGTNAVRYGTMR  184
+
+Query  138  TQVVALTLMKADGTVLECSESSNADVFQAARVHL--------GCLGVILTVTLQC--VPQ  187
+              V+ L ++  DG +L  +         AA  +L        G LG+I   +L+   +P+
+Sbjct  185  ENVINLEVVLPDGRILNTAGKDRRFRKTAAGYNLTSMFVGSEGTLGLITKASLRLHGIPE  244
+
+Query  188  FHLLET-SFPSTLKEV  202
+              +    +FPS    V
+Sbjct  245  ATVAAVCAFPSVQAAV  260
+
+
+
+
+>probable D-lactate dehydrogenase, mitochondrial [Xenopus tropicalis]
+Sequence ID: XP_002931724.3 Length: 484
+>hypothetical protein XENTR_v10011777 [Xenopus tropicalis]
+Sequence ID: KAE8609323.1 Length: 484 
+Range 1: 66 to 260
+
+Score:44.7 bits(104), Expect:3e-04, 
+Method:Compositional matrix adjust., 
+Identities:46/196(23%), Positives:85/196(43%), Gaps:15/196(7%)
+
+Query  21   PEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSD--IACTDGFMIHMGKMNRVLQV  78
+            P++   P SV +V ++  +    N  +   G G        A   G   +M +M+R+L +
+Sbjct  66   PDVVVWPQSVDQVSKMAEMCYSNNVPIIPFGTGTGLEGGVSAVMGGVCFNMTRMDRILNL  125
+
+Query  79   DKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGGVIGSGTHNT-GIKHGILA  137
+            + E   VTVE G+    L+  +   GL    +   +D ++ G+  +G   T  +++G + 
+Sbjct  126  NAEDFHVTVEPGVTRKSLNNYIRDSGLWFP-VDPGADASLCGMAATGASGTNAVRYGTMR  184
+
+Query  138  TQVVALTLMKADGTVLECSESSNADVFQAARVHL--------GCLGVILTVTLQC--VPQ  187
+              V+ L ++  DG +L  +         AA  +L        G LG+I   +L+   +P+
+Sbjct  185  ENVINLEVVLPDGRILNTAGKDRRFRKTAAGYNLTSMFVGSEGTLGLITKASLRLHGIPE  244
+
+Query  188  FHLLET-SFPSTLKEV  202
+              +    +FPS    V
+Sbjct  245  ATVAAVCAFPSVQAAV  260
+
+
+
+
+>hypothetical protein XENTR_v10011777 [Xenopus tropicalis]
+Sequence ID: KAE8609328.1 Length: 344
+Range 1: 66 to 260
+
+Score:43.9 bits(102), Expect:4e-04, 
+Method:Compositional matrix adjust., 
+Identities:46/196(23%), Positives:85/196(43%), Gaps:15/196(7%)
+
+Query  21   PEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSD--IACTDGFMIHMGKMNRVLQV  78
+            P++   P SV +V ++  +    N  +   G G        A   G   +M +M+R+L +
+Sbjct  66   PDVVVWPQSVDQVSKMAEMCYSNNVPIIPFGTGTGLEGGVSAVMGGVCFNMTRMDRILNL  125
+
+Query  79   DKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGGVIGSGTHNT-GIKHGILA  137
+            + E   VTVE G+    L+  +   GL    +   +D ++ G+  +G   T  +++G + 
+Sbjct  126  NAEDFHVTVEPGVTRKSLNNYIRDSGLWFP-VDPGADASLCGMAATGASGTNAVRYGTMR  184
+
+Query  138  TQVVALTLMKADGTVLECSESSNADVFQAARVHL--------GCLGVILTVTLQC--VPQ  187
+              V+ L ++  DG +L  +         AA  +L        G LG+I   +L+   +P+
+Sbjct  185  ENVINLEVVLPDGRILNTAGKDRRFRKTAAGYNLTSMFVGSEGTLGLITKASLRLHGIPE  244
+
+Query  188  FHLLET-SFPSTLKEV  202
+              +    +FPS    V
+Sbjct  245  ATVAAVCAFPSVQAAV  260
+
+
+
+
+>hypothetical protein XENTR_v10011777 [Xenopus tropicalis]
+Sequence ID: KAE8609330.1 Length: 277
+Range 1: 66 to 260
+
+Score:42.7 bits(99), Expect:8e-04, 
+Method:Compositional matrix adjust., 
+Identities:46/196(23%), Positives:85/196(43%), Gaps:15/196(7%)
+
+Query  21   PEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSD--IACTDGFMIHMGKMNRVLQV  78
+            P++   P SV +V ++  +    N  +   G G        A   G   +M +M+R+L +
+Sbjct  66   PDVVVWPQSVDQVSKMAEMCYSNNVPIIPFGTGTGLEGGVSAVMGGVCFNMTRMDRILNL  125
+
+Query  79   DKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGGVIGSGTHNT-GIKHGILA  137
+            + E   VTVE G+    L+  +   GL    +   +D ++ G+  +G   T  +++G + 
+Sbjct  126  NAEDFHVTVEPGVTRKSLNNYIRDSGLWFP-VDPGADASLCGMAATGASGTNAVRYGTMR  184
+
+Query  138  TQVVALTLMKADGTVLECSESSNADVFQAARVHL--------GCLGVILTVTLQC--VPQ  187
+              V+ L ++  DG +L  +         AA  +L        G LG+I   +L+   +P+
+Sbjct  185  ENVINLEVVLPDGRILNTAGKDRRFRKTAAGYNLTSMFVGSEGTLGLITKASLRLHGIPE  244
+
+Query  188  FHLLET-SFPSTLKEV  202
+              +    +FPS    V
+Sbjct  245  ATVAAVCAFPSVQAAV  260
+
+
+
+
+>hypothetical protein XENTR_v10012084 [Xenopus tropicalis]
+Sequence ID: KAE8610329.1 Length: 348
+Range 1: 1 to 65
+
+Score:42.7 bits(99), Expect:0.001, 
+Method:Compositional matrix adjust., 
+Identities:18/65(28%), Positives:36/65(55%), Gaps:0/65(0%)
+
+Query  122  IGSGTHNTGIKHGILATQVVALTLMKADGTVLECSESSNADVFQAARVHLGCLGVILTVT  181
+            +G+G  ++    G+     +A  L+ ADG+++ C+ + N+D+F A     G LG ++   
+Sbjct  1    MGTGIESSSHNFGLFQHICLAYELVLADGSLVRCTPTENSDLFYAVPWSCGTLGFLVAAE  60
+
+Query  182  LQCVP  186
+            ++ VP
+Sbjct  61   IKIVP  65
+
+
+
+
+>alkyldihydroxyacetonephosphate synthase, peroxisomal [Xenopus tropicalis]
+Sequence ID: NP_001120301.1 Length: 626
+>LOC100145360 protein [Xenopus tropicalis]
+Sequence ID: AAI60639.1 Length: 626 
+Range 1: 174 to 351
+
+Score:42.0 bits(97), Expect:0.003, 
+Method:Compositional matrix adjust., 
+Identities:43/180(24%), Positives:85/180(47%), Gaps:16/180(8%)
+
+Query  21   PEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSD-IACTDG-----FMIHMGKMNR  74
+            P++   PT   +V +++ L+ + +  +   GGG S S+ + C +        +   +M+R
+Sbjct  174  PDIVVWPTCHEDVVKIVDLSCKHDVCLIPFGGGTSVSNALECPEDERRVIVSLDTSQMSR  233
+
+Query  75   VLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNL-GAVSDVTVGGVIGSGTHNTGIK-  132
+            +L +D++     +EAGI   DL  QL + G    +   ++   T+GG +   T  +G+K 
+Sbjct  234  ILWIDEKNLTAHIEAGITGQDLERQLGESGYCTGHEPDSMEFSTLGGWV--ATRASGMKK  291
+
+Query  133  --HGILATQVVALTLMKADGTVLECSE----SSNADVFQAARVHLGCLGVILTVTLQCVP  186
+              +G +   VV + ++   G + +  +    S+  D+        G LGV+  VT++  P
+Sbjct  292  NIYGNIEDLVVHIKMVTPKGIIKKSCQGPRMSTGPDIHHFIMGSEGTLGVVTEVTIKIRP  351
+
+
+
+
+>hypothetical protein XENTR_v10024571 [Xenopus tropicalis]
+Sequence ID: KAE8580862.1 Length: 663
+Range 1: 211 to 388
+
+Score:41.2 bits(95), Expect:0.005, 
+Method:Compositional matrix adjust., 
+Identities:43/180(24%), Positives:84/180(46%), Gaps:16/180(8%)
+
+Query  21   PEMYYQPTSVGEVREVLALARQQNKKVKVVGGGHSPSD-IACTDG-----FMIHMGKMNR  74
+            P++   PT   +V +++ L+ + +  +   GGG S S+ + C +        +   +M+R
+Sbjct  211  PDIVVWPTCHEDVVKIVDLSCKHDVCLIPFGGGTSVSNALECPEDERRVIVSLDTSQMSR  270
+
+Query  75   VLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSN-LGAVSDVTVGGVIGSGTHNTGIK-  132
+            +L +D+      +EAGI   DL  QL + G    +   ++   T+GG +   T  +G+K 
+Sbjct  271  ILWIDENNLTAHIEAGITGQDLERQLGESGYCTGHEPDSMEFSTLGGWV--ATRASGMKK  328
+
+Query  133  --HGILATQVVALTLMKADGTVLECSE----SSNADVFQAARVHLGCLGVILTVTLQCVP  186
+              +G +   VV + ++   G + +  +    S+  D+        G LGV+  VT++  P
+Sbjct  329  NIYGNIEDLVVHIKMVTPKGIIEKSCQGPRMSTGPDIHHFIMGSEGTLGVVTEVTIKIRP  388
+
+
+
+
+>D-2-hydroxyglutarate dehydrogenase, mitochondrial isoform X3 [Xenopus tropicalis]
+Sequence ID: XP_031758405.1 Length: 369
+>hypothetical protein XENTR_v10014717 [Xenopus tropicalis]
+Sequence ID: KAE8604467.1 Length: 369
+>hypothetical protein XENTR_v10014717 [Xenopus tropicalis]
+Sequence ID: KAE8604468.1 Length: 369
+>hypothetical protein XENTR_v10014717 [Xenopus tropicalis]
+Sequence ID: KAE8604469.1 Length: 369
+>hypothetical protein XENTR_v10014717 [Xenopus tropicalis]
+Sequence ID: KAE8604470.1 Length: 369 
+Range 1: 1 to 120
+
+Score:39.3 bits(90), Expect:0.013, 
+Method:Compositional matrix adjust., 
+Identities:32/123(26%), Positives:59/123(47%), Gaps:13/123(10%)
+
+Query  72   MNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALS-NLGAVSDVTVGGVIGSGTHNTG  130
+            M++V   D+    +  ++G +L  L+  L+  G  +  +LGA     +GG + +   N G
+Sbjct  1    MDQVTSFDQVSGTLVCQSGCILESLNQYLEGQGYIMPLDLGAKGSCHIGGNLAT---NAG  57
+
+Query  131  ----IKHGILATQVVALTLMKADGTVLEC-----SESSNADVFQAARVHLGCLGVILTVT  181
+                +++G L   V+ L  +  DG++L C      +++  D+ Q      G LGVI  V+
+Sbjct  58   GLRVLRYGSLRGTVLGLEAVLPDGSILNCLNSLRKDNTGYDLKQLFIGSEGTLGVITAVS  117
+
+Query  182  LQC  184
+            + C
+Sbjct  118  ILC  120
+
+
+
+
+>hypothetical protein XENTR_v10011777 [Xenopus tropicalis]
+Sequence ID: KAE8609327.1 Length: 369
+Range 1: 1 to 145
+
+Score:38.9 bits(89), Expect:0.020, 
+Method:Compositional matrix adjust., 
+Identities:36/146(25%), Positives:67/146(45%), Gaps:13/146(8%)
+
+Query  69   MGKMNRVLQVDKEKKQVTVEAGILLTDLHPQLDKHGLALSNLGAVSDVTVGGVIGSGTHN  128
+            M +M+R+L ++ E   VTVE G+    L+  +   GL    +   +D ++ G+  +G   
+Sbjct  1    MTRMDRILNLNAEDFHVTVEPGVTRKSLNNYIRDSGLWFP-VDPGADASLCGMAATGASG  59
+
+Query  129  T-GIKHGILATQVVALTLMKADGTVLECSESSNADVFQAARVHL--------GCLGVILT  179
+            T  +++G +   V+ L ++  DG +L  +         AA  +L        G LG+I  
+Sbjct  60   TNAVRYGTMRENVINLEVVLPDGRILNTAGKDRRFRKTAAGYNLTSMFVGSEGTLGLITK  119
+
+Query  180  VTLQC--VPQFHLLET-SFPSTLKEV  202
+             +L+   +P+  +    +FPS    V
+Sbjct  120  ASLRLHGIPEATVAAVCAFPSVQAAV  145
+
+
+
+
+
+
+
+		
+
+
